@@ -64,6 +64,16 @@ Repair tool for corrupted CSV files.
 - Adds columns: duplicate_status, duplicate_type, duplicate_group_id, duplicate_notes
 - **Use this to verify data quality before final analysis**
 
+### `verify_and_mark_duplicates.py` 🔍 **VERIFICATION TOOL**
+**Comprehensive duplicate analysis and verification.**
+- Confirms zero duplicate U1 IDs
+- Identifies title duplicates and categorizes them:
+  - **SAME_WORK_DIFFERENT_VERSION**: Working papers vs journal publications
+  - **TITLE_COLLISION**: Different papers with identical titles
+- Adds analysis columns to CSV: `duplicate_status`, `duplicate_type`, `duplicate_group_id`, `duplicate_notes`
+- Generates detailed duplicate report for manual review
+- **Use this to verify your final dataset quality**
+
 ### `generate_codebook.py`
 PDF codebook generator for data documentation.
 - Comprehensive variable documentation
@@ -92,6 +102,9 @@ python tools/export_csv_compact.py data/output/dual_engine_results_with_u1_FIXED
 python tools/deduplicate_csv.py data/output/results.csv
 
 # Step 4: Verify data quality and mark duplicates
+python tools/verify_and_mark_duplicates.py data/output/results_COMPACT.csv
+
+# Step 4: Verify dataset quality
 python tools/verify_and_mark_duplicates.py data/output/results_COMPACT.csv
 
 # Step 5: (Optional) Generate documentation
@@ -172,6 +185,24 @@ This will:
 - `*_DEDUPLICATED_*.csv` - Duplicate U1 IDs removed
 - `*_COMPACT_*.csv` - Large text fields removed (recommended)
 - `*_FIXED_ESCAPING_*.csv` - Re-exported with better escaping
+- `screening_results_FINAL_*.csv` - Final dataset with duplicate analysis
+- `duplicate_report_*.txt` - Detailed duplicate analysis report
+
+## 🏆 Production Dataset Quality Metrics
+
+After following the complete workflow, your final dataset should have:
+- ✅ **Zero duplicate U1 IDs**
+- ✅ **All papers properly mapped to original RIS identifiers**
+- ✅ **Duplicate types identified and marked**:
+  - `SAME_WORK_DIFFERENT_VERSION`: Working papers vs journal publications (~36 papers)
+  - `TITLE_COLLISION`: Different papers with same title (~307 papers)
+- ✅ **No CSV corruption issues**
+- ✅ **Excel/PowerShell/Python compatible**
+
+**Expected final counts:**
+- Total papers: ~12,359
+- Unique papers (no title duplicates): ~12,016 (97.2%)
+- Papers requiring duplicate review: ~343 (2.8%)
 - `screening_results_FINAL_*.csv` - Verified with duplicate analysis columns
 - `duplicate_report_*.txt` - Detailed duplicate analysis report
 

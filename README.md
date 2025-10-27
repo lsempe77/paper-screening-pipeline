@@ -134,6 +134,9 @@ python tools/export_with_u1_fixed.py data/output/batch_dual_screening_[timestamp
 # Create compact CSV (removes abstracts, prevents corruption) - RECOMMENDED
 python tools/export_csv_compact.py data/output/dual_engine_results_with_u1_FIXED_[timestamp].csv
 
+# Verify dataset quality and identify duplicates
+python tools/verify_and_mark_duplicates.py data/output/results_COMPACT.csv
+
 # (Optional) Remove any duplicate U1 IDs
 python tools/deduplicate_csv.py data/output/results.csv
 
@@ -329,9 +332,23 @@ All development scripts, analyses, and iterations are preserved in the `archive/
 2. **JSON Parsing Failures**: Check prompt format and model response
 3. **High MAYBE Rates**: 
    - Ensure `structured_screening_criteria_optimized.txt` exists and is being used
-  - Confirm `structured_screening_followup.txt` is present so the second pass can run
+   - Confirm `structured_screening_followup.txt` is present so the second pass can run
    - Check if fallback prompt is being loaded (indicates missing optimized prompt)
 4. **Slow Processing**: Check API rate limits and network connectivity
+5. **Duplicate U1 IDs in CSV**: Use `export_with_u1_fixed.py` instead of old export script
+6. **CSV Corruption**: Use `export_csv_compact.py` to remove large text fields
+
+### **Dataset Quality Issues**
+```bash
+# Verify your final dataset has no duplicate U1 IDs
+python tools/verify_and_mark_duplicates.py data/output/final_results.csv
+
+# Fix duplicate U1 IDs in existing CSV
+python tools/deduplicate_csv.py old_file.csv
+
+# Fix CSV corruption/escaping issues
+python tools/fix_csv_escaping.py corrupted_file.csv
+```
 
 ### **Critical File Check**
 ```bash
