@@ -1,6 +1,7 @@
 # Paper Screening Pipeline - Git Ignore File
 
 # Sensitive Configuration Files
+config/config.yaml
 config/config_integrated.yaml
 .env
 *.key

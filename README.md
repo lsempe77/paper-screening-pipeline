@@ -28,76 +28,115 @@ This pipeline revolutionizes systematic review screening through:
 3. **Targeted Follow-up Agent**: Re-queries the model on MAYBE cases to resolve uncertain criteria
 4. **Decision Rules**: Conservative logic ensures zero false positives
 
-### **Follow-up Clarification Flow**
-1. Run the production prompt and apply deterministic decision logic.
-2. If the outcome is MAYBE, call the follow-up prompt with unresolved criteria highlighted.
-3. Re-run the decision processor on the follow-up JSON to confirm or update the decision.
-4. Persist combined raw outputs for auditability and model diagnostics.
+## 📁 Project Structure
+
+```
+paper-screening-pipeline/
+├── 📋 Core Scripts
+│   ├── batch_dual_screening.py    # Main dual-engine processing pipeline
+│   ├── integrated_screener.py     # Core screening logic
+│   ├── decision_processor.py      # Decision analysis utilities
+│   ├── program_matcher.py         # Program matching logic
+│   └── run_screening.py          # Single-engine screening (legacy)
+├── 🛠️ tools/                     # Analysis and export utilities
+│   ├── export_with_u1.py         # CSV export with U1 mapping
+│   ├── generate_codebook.py      # PDF documentation generator
+│   ├── analyze_dual_results.py   # Comprehensive analysis
+│   └── README.md                 # Tools documentation
+├── ⚙️ config/                    # Configuration files
+├── 📊 data/                      # Data input/output (gitignored)
+├── 📚 docs/                      # Documentation and analysis
+├── 🤖 prompts/                   # AI screening prompts
+├── 🔬 scripts/                   # Validation and testing
+├── 📦 src/                       # Core source modules
+└── 🗂️ archive/                   # Legacy code and development files
+```
+
+## 🤖 Dual-Engine Architecture
+
+### **Engine Specifications**
+- **Engine 1**: Claude Haiku 4.5 (Anthropic)
+  - Conservative, thorough analysis
+  - Average: 5.8 seconds/paper
+  - Profile: More likely to flag for human review
+- **Engine 2**: Gemini 2.5 Flash (Google)
+  - Decisive, efficient processing  
+  - Average: 3.0 seconds/paper
+  - Profile: More definitive decisions
 
 ### **Inclusion Criteria**
-1. **LMIC Participants**: Study focuses on low/middle-income countries
-2. **Cash Support**: Program includes cash transfers or consumption support  
-3. **Productive Assets**: Program includes livestock, equipment, or tools
+1. **LMIC Participants**: Study conducted in low/middle-income countries
+2. **Cash Support**: Program provides cash transfers or consumption support
+3. **Productive Assets**: Program provides livestock, equipment, or tools
 4. **Relevant Outcomes**: Measures economic/livelihood outcomes
 5. **Study Design**: Uses quantitative impact evaluation methods
-6. **Publication Year**: Published in 2004 or later
-7. **Completed Study**: Research is finished (not ongoing)
+6. **Publication Year**: Published 2004 or later
+7. **Completed Study**: Research presents finished findings
 
-### **Decision Logic**
-- **INCLUDE**: All criteria YES + both cash AND productive assets
-- **EXCLUDE**: Any criterion definitively NO, OR missing dual components
-- **MAYBE**: Insufficient information for confident decision
+### **Agreement Analysis**
+- **Consensus**: Both engines agree (93% of papers)
+- **Disagreement**: Engines differ (7% - flagged for human review)
+- **Quality Assurance**: 100% processing success rate
 
-## 🚀 **Quick Start**
+## 🚀 Quick Start
 
-### **Prerequisites**
+### Prerequisites
+- Python 3.12+
+- OpenRouter API key (for AI model access)
+- Virtual environment (recommended)
+
+### Installation
 ```bash
+# Clone repository
+git clone https://github.com/lsempe77/paper-screening-pipeline.git
+cd paper-screening-pipeline
+
+# Create virtual environment
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Copy and configure settings
+cp config/config.example.yaml config/config.yaml
+# Edit config.yaml with your API keys and settings
 ```
 
-### **Configuration**
-1. Copy `config/config.example.yaml` to `config/config.yaml`
-2. Add your OpenRouter API key:
+### Configuration
 ```yaml
+# config/config.yaml
 openrouter:
-  api_key: "your-api-key-here"
+  api_key: "your-openrouter-api-key"
+
+models:
+  primary:
+    model_name: "anthropic/claude-haiku-4.5"
+  secondary:
+    model_name: "google/gemini-2.5-flash"
 ```
 
-### **Basic Usage**
-```python
-from integrated_screener import IntegratedStructuredScreener
-from src.models import ModelConfig
+### Basic Usage
 
-# Initialize screener
-config = load_config()  # Your config loading function
-model_config = ModelConfig(...)
-screener = IntegratedStructuredScreener(model_config, use_followup_agent=True)
-
-# Screen a paper
-result = screener.screen_paper(paper)
-print(f"Decision: {result.final_decision.value}")
-print(result.decision_reasoning)
-```
-
-### **Follow-up Agent Toggle**
-- Leave `use_followup_agent=True` (default) to allow a targeted second pass on MAYBE decisions.
-- Set `use_followup_agent=False` for single-shot runs when you need lower latency or want to audit first-pass output.
-- `StructuredScreeningResult.raw_response` stores both passes as JSON: `{ "first_pass": ..., "followup_pass": ... }`.
-
-### **Production Screening Options**
-
-#### **Single-Engine Screening** (Traditional)
+#### **🎯 Dual-Engine Screening** (Recommended)
 ```bash
-# Screen papers from RIS file
-python run_screening.py --input data/input/papers.txt --output data/output/results.json
+# Run dual-engine screening on full dataset
+python batch_dual_screening.py --input "data/input/papers.txt" --workers 4 --batch-size 5
 
-# Test with limited papers
-python run_screening.py --input data/input/papers.txt --max-papers 100 --verbose
+# Export results to CSV with U1 identifiers
+python tools/export_with_u1.py data/output/batch_dual_screening_[timestamp].json data/input/papers.txt
+
+# Generate comprehensive codebook
+python tools/generate_codebook.py data/output/dual_engine_results_with_u1_[timestamp].csv
 ```
 
-#### **🆕 Dual-Engine Screening** (Enhanced Quality Control)
+#### **📊 Analysis and Export**
 ```bash
-# Compare two engines for quality assurance
+# Analyze agreement patterns
+python tools/analyze_dual_results.py data/output/results.json
+
+# Export production-ready CSV
+python tools/export_with_u1.py results.json papers.txt
 python batch_dual_screening.py --input data/input/papers.txt --workers 4 --batch-size 5
 
 # Test dual-engine on small sample
