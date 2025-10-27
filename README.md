@@ -39,7 +39,10 @@ paper-screening-pipeline/
 │   ├── program_matcher.py         # Program matching logic
 │   └── run_screening.py          # Single-engine screening (legacy)
 ├── 🛠️ tools/                     # Analysis and export utilities
-│   ├── export_with_u1.py         # CSV export with U1 mapping
+│   ├── export_with_u1_fixed.py   # Fixed CSV export with proper U1 mapping ⭐
+│   ├── export_csv_compact.py     # Compact export without abstracts (recommended) 🎯
+│   ├── deduplicate_csv.py        # Remove duplicate U1 IDs
+│   ├── fix_csv_escaping.py       # Fix CSV corruption issues
 │   ├── generate_codebook.py      # PDF documentation generator
 │   ├── analyze_dual_results.py   # Comprehensive analysis
 │   └── README.md                 # Tools documentation
@@ -123,36 +126,38 @@ models:
 # Run dual-engine screening on full dataset
 python batch_dual_screening.py --input "data/input/papers.txt" --workers 4 --batch-size 5
 
-# Export results to CSV with U1 identifiers
-python tools/export_with_u1.py data/output/batch_dual_screening_[timestamp].json data/input/papers.txt
+# Export results to CSV with proper U1 mapping (FIXED version)
+python tools/export_with_u1_fixed.py data/output/batch_dual_screening_[timestamp].json data/input/papers.txt
+
+# Create compact CSV (removes abstracts, prevents corruption) - RECOMMENDED
+python tools/export_csv_compact.py data/output/dual_engine_results_with_u1_FIXED_[timestamp].csv
+
+# (Optional) Remove any duplicate U1 IDs
+python tools/deduplicate_csv.py data/output/results.csv
 
 # Generate comprehensive codebook
-python tools/generate_codebook.py data/output/dual_engine_results_with_u1_[timestamp].csv
+python tools/generate_codebook.py data/output/results_COMPACT.csv
 ```
 
 #### **📊 Analysis and Export**
 ```bash
 # Analyze agreement patterns
-python tools/analyze_dual_results.py data/output/results.json
+python tools/analyze_dual_results.py data/output/batch_dual_screening_[timestamp].json
 
-# Export production-ready CSV
-python tools/export_with_u1.py results.json papers.txt
-python batch_dual_screening.py --input data/input/papers.txt --workers 4 --batch-size 5
-
-# Test dual-engine on small sample
-python batch_dual_screening.py --input data/input/papers.txt --max-papers 50 --workers 2
-
-# Analyze dual-engine results
-python decision_analysis.py data/output/batch_dual_screening_[timestamp].json
+# Decision analysis
+python tools/decision_analysis.py data/output/batch_dual_screening_[timestamp].json
 ```
 
-#### **Validation & Analysis**
+#### **🔧 Troubleshooting**
 ```bash
-# Quick validation (validation tools in archive/ and scripts/)
-python scripts/data_analysis/analyze_data.py
+# Fix duplicate U1 IDs in existing CSV
+python tools/deduplicate_csv.py old_file.csv
 
-# Comprehensive dual-engine analysis
-python analyze_dual_results.py --input data/output/batch_dual_screening_[timestamp].json
+# Fix CSV corruption / escaping issues
+python tools/fix_csv_escaping.py corrupted_file.csv
+
+# Create compact version from large CSV
+python tools/export_csv_compact.py large_file.csv
 ```
 
 ## 📁 **Project Structure**
