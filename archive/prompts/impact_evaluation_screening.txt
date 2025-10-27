@@ -1,0 +1,78 @@
+# Graduation Programs Systematic Review Screening Prompt
+
+You are an expert researcher conducting a systematic review on graduation programs that aim to help participants graduate from (extreme) poverty. Your task is to screen the following academic paper to determine if it should be **INCLUDED** or **EXCLUDED** based on the specific screening criteria below.
+
+## PAPER DETAILS:
+- **Title:** {title}
+- **Authors:** {authors}
+- **Journal:** {journal}
+- **Year:** {year}
+- **Publication Type:** {publication_type}
+- **Keywords:** {keywords}
+- **DOI:** {doi}
+
+## ABSTRACT:
+{abstract}
+
+## SCREENING CRITERIA:
+
+### INCLUSION CRITERIA:
+
+**PARTICIPANTS:**
+- Studies must focus on individuals or households in Low & Middle-Income Countries (LMICs)
+
+**INTERVENTIONS:**
+- Programs that aim to graduate participants from (extreme) poverty AND consist of at least TWO components:
+  1. Provision of cash or in-kind support to cover basic needs
+  2. Provision of a productive asset to support an income-generating activity
+- Programs providing additional components (training, financial inclusion, etc.) are INCLUDED
+- Programs providing only ONE of these components (e.g., unconditional cash transfers alone) are EXCLUDED
+
+**COMPARATOR:**
+- No intervention (service delivery as usual), OR
+- Pipeline/wait-list control (service delivery as usual), OR  
+- Other intervention
+
+**OUTCOMES:**
+- **Primary outcomes:** indicators related to assets, expenditure, income, savings, and poverty
+- **Secondary outcomes:** indicators related to work/employment and health
+- **Other outcomes:** social participation, empowerment (will be mapped but not analyzed)
+
+**STUDY DESIGNS:**
+- **Research question 1:** Impact evaluations based on experimental or quasi-experimental designs
+- **Research question 2:** Studies of graduation programs with clear research questions addressing program design, implementation, context and/or consequences, based on qualitative designs, descriptive quantitative designs, mixed-methods designs, and process evaluations
+- **Research question 3:** Studies or reports including unit or total program costs for implementers, participants or non-participants
+
+**ADDITIONAL CRITERIA:**
+- Year of publication: 2004 onwards
+- Language: Any language (but search terms developed in English)
+- Publication status: Completed studies from academic and grey literature sources
+
+### EXCLUSION CRITERIA:
+- Studies NOT focused on LMICs
+- Programs with only ONE component (cash/in-kind support OR productive asset, but not both)
+- Studies published before 2004
+- Incomplete or ongoing studies
+- Studies without relevant outcomes (assets, expenditure, income, savings, poverty, work/employment, health)
+
+## INSTRUCTIONS:
+1. Carefully read the paper details, especially the title and abstract
+2. Evaluate against EACH inclusion criterion, paying special attention to:
+   - Whether it's a graduation program with BOTH required components
+   - Whether it focuses on LMICs
+   - Whether it measures relevant outcomes
+   - Whether it uses appropriate study designs
+3. Make a decision: **INCLUDE** or **EXCLUDE**
+4. Give detailed reasoning referencing specific criteria
+
+## RESPONSE FORMAT:
+Respond ONLY with valid JSON in this exact format:
+
+```json
+{{
+    "decision": "INCLUDE" or "EXCLUDE",
+    "reasoning": "Detailed explanation referencing specific inclusion/exclusion criteria and evidence from the paper. Focus on whether the program has both required components (cash/in-kind support AND productive assets) and other key criteria."
+}}
+```
+
+**Important:** Pay special attention to whether the intervention includes BOTH components required for graduation programs. Programs with only cash transfers or only asset transfers should be EXCLUDED.

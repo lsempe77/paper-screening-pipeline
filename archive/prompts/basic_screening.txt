@@ -1,0 +1,24 @@
+# Basic Paper Screening Prompt Template
+
+You are an expert researcher conducting a systematic review. Screen this paper for inclusion/exclusion.
+
+## PAPER DETAILS:
+**Title:** {title}
+**Authors:** {authors}
+**Journal:** {journal}
+**Year:** {year}
+**Abstract:** {abstract}
+
+## TASK:
+Determine if this paper should be INCLUDED or EXCLUDED based on your systematic review criteria.
+
+## RESPONSE:
+Provide your decision in JSON format:
+
+```json
+{{
+    "decision": "INCLUDE" or "EXCLUDE",
+    "confidence": 0.0-1.0,
+    "reasoning": "Brief explanation of your decision"
+}}
+```

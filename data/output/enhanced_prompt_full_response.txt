@@ -1,0 +1,50 @@
+=== ENHANCED PROMPT FULL RESPONSE ===
+
+Model: anthropic/claude-3-haiku
+Temperature: 0.1
+Max tokens: 2000
+Response length: 1718 characters
+
+=== FULL RESPONSE ===
+```json
+{
+    "criteria_evaluation": {
+        "participants_lmic": {
+            "assessment": "YES",
+            "reasoning": "The study focuses on participants from Bangladesh, which is a low-income country."
+        },
+        "component_a_cash_support": {
+            "assessment": "YES",
+            "reasoning": "The program includes "monthly cash stipends" as a component."
+        },
+        "component_b_productive_assets": {
+            "assessment": "YES",
+            "reasoning": "The program includes "productive asset transfers (livestock, equipment)" as a component."
+        },
+        "dual_component_overall": {
+            "assessment": "YES",
+            "reasoning": "The study clearly describes both the cash support and productive asset components as separate program components."
+        },
+        "relevant_outcomes": {
+            "assessment": "YES",
+            "reasoning": "The study measures "income, assets, and expenditure" as key economic and livelihood outcomes."
+        },
+        "appropriate_study_design": {
+            "assessment": "YES",
+            "reasoning": "The study uses a randomized controlled trial (RCT) methodology."
+        },
+        "publication_year_2004_plus": {
+            "assessment": "YES",
+            "reasoning": "The study was published in 2020, which is after 2004."
+        },
+        "completed_study": {
+            "assessment": "YES",
+            "reasoning": "The abstract states the study was "completed in 2019 and published in 2020", indicating it is a finished study."
+        }
+    },
+    "final_decision": "INCLUDE",
+    "decision_reasoning": "INCLUDE: All criteria are assessed as YES, meeting the requirements for inclusion."
+}
+```
+
+=== END RESPONSE ===

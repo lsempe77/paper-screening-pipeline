@@ -1,0 +1,5 @@
+paper_id,human_label,title,abstract_length,llm_decision,yes_count,no_count,unclear_count,program_recognition,participants_lmic,component_a_cash,component_b_assets,relevant_outcomes,study_design,year_2004_plus,completed_study
+121300172,Included (TA),Improving nutritional outcomes of rural households through a community-based app,1858,EXCLUDE,4,2,2,UNCLEAR,YES,NO,NO,YES,UNCLEAR,YES,YES
+121340461,Maybe (TA),Extent of involvement of participants in the poverty eradication programme in Cr,55,MAYBE,2,0,6,UNCLEAR,YES,UNCLEAR,UNCLEAR,UNCLEAR,UNCLEAR,YES,UNCLEAR
+121360003,Included (TA),Financial inclusion and women’s economic empowerment: Evidence from Ethiopia,1844,EXCLUDE,5,2,1,UNCLEAR,YES,NO,NO,YES,YES,YES,YES
+121337938,Included (TA),Asset Building and Poverty Reduction in Ghana: The Case of Microfinance,974,EXCLUDE,4,1,3,UNCLEAR,YES,NO,UNCLEAR,YES,UNCLEAR,YES,YES

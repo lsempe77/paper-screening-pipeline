@@ -1,0 +1,145 @@
+# Structured Graduation Programs Screening Prompt
+
+You are an expert researcher conducting a systematic review on graduation programs. Your task is to systematically evaluate each inclusion criterion for the following paper and make a final screening decision.
+
+## PAPER DETAILS:
+- **Title:** {title}
+- **Authors:** {authors}
+- **Journal:** {journal}
+- **Year:** {year}
+- **Publication Type:** {publication_type}
+- **Keywords:** {keywords}
+- **DOI:** {doi}
+
+## ABSTRACT:
+{abstract}
+
+## SCREENING EVALUATION:
+
+Please evaluate each criterion individually and provide a clear YES/NO/UNCLEAR answer with brief reasoning.
+
+### 1. PARTICIPANTS CRITERION:
+**Question:** Does the study focus on individuals or households in Low & Middle-Income Countries (LMICs)?
+**Evaluation:** [YES/NO/UNCLEAR]
+**Reasoning:** [Brief explanation]
+
+### 2. DUAL-COMPONENT INTERVENTION CRITERION:
+**Question:** Does the program include BOTH of the following components?
+- Component A: Provision of cash or in-kind support to cover basic needs
+- Component B: Provision of a productive asset to support income-generating activity
+
+**Component A Evaluation:** [YES/NO/UNCLEAR]
+**Component A Evidence:** [Brief explanation]
+
+**Component B Evaluation:** [YES/NO/UNCLEAR] 
+**Component B Evidence:** [Brief explanation]
+
+**Overall Dual-Component Assessment:** [YES/NO/UNCLEAR]
+
+### 3. OUTCOMES CRITERION:
+**Question:** Does the study measure relevant outcomes (assets, expenditure, income, savings, poverty, work/employment, health)?
+**Evaluation:** [YES/NO/UNCLEAR]
+**Reasoning:** [Brief explanation]
+
+### 4. STUDY DESIGN CRITERION:
+**Question:** Does the study use appropriate research methods (experimental, quasi-experimental, qualitative, mixed-methods, process evaluation, or cost analysis)?
+**Evaluation:** [YES/NO/UNCLEAR]
+**Reasoning:** [Brief explanation]
+
+### 5. TEMPORAL CRITERION:
+**Question:** Was the study published in 2004 or later?
+**Evaluation:** [YES/NO/UNCLEAR]
+**Reasoning:** [Brief explanation]
+
+### 6. COMPLETION CRITERION:
+**Question:** Is this a completed study (not ongoing or incomplete)?
+**Evaluation:** [YES/NO/UNCLEAR]
+**Reasoning:** [Brief explanation]
+
+## FINAL DECISION LOGIC (MUST FOLLOW EXACTLY):
+**CRITICAL RULE: These are strict, non-negotiable rules:**
+
+1. **EXCLUDE**: If ANY criterion is assessed as "NO" → AUTOMATIC EXCLUDE
+   - Even 1 NO criterion = EXCLUDE (no exceptions)
+   - Do not consider other factors if any criterion is NO
+
+2. **INCLUDE**: If ALL criteria are assessed as "YES" → INCLUDE
+   - All 8 criteria must be YES
+
+3. **MAYBE**: If NO criteria are "NO" AND one or more criteria are "UNCLEAR" → MAYBE
+   - Only use MAYBE when no definitive exclusion criteria are met
+   - MAYBE is for borderline cases needing human review
+
+**DO NOT deviate from these rules under any circumstances.**
+
+## RESPONSE FORMAT:
+Respond ONLY with valid JSON in this exact format:
+
+```json
+{{
+    "criteria_evaluation": {{
+        "participants_lmic": {{
+            "assessment": "YES/NO/UNCLEAR",
+            "reasoning": "Cite specific country/region mentioned and confirm LMIC status"
+        }},
+        "component_a_cash_support": {{
+            "assessment": "YES/NO/UNCLEAR", 
+            "reasoning": "Quote exact text about cash transfers, consumption support, or stipends - if none, state what is missing"
+        }},
+        "component_b_productive_assets": {{
+            "assessment": "YES/NO/UNCLEAR",
+            "reasoning": "Quote exact text about asset transfers, livestock, equipment, or productive resources - if none, state what is missing"
+        }},
+        "dual_component_overall": {{
+            "assessment": "YES/NO/UNCLEAR",
+            "reasoning": "Explain whether BOTH components are clearly described as separate elements or what evidence is unclear"
+        }},
+        "relevant_outcomes": {{
+            "assessment": "YES/NO/UNCLEAR",
+            "reasoning": "List specific outcomes mentioned (income, assets, expenditure, poverty, etc.) or state what is missing"
+        }},
+        "appropriate_study_design": {{
+            "assessment": "YES/NO/UNCLEAR",
+            "reasoning": "Specify exact research method mentioned (RCT, quasi-experimental, qualitative, etc.) or state what design info is missing"
+        }},
+        "publication_year_2004_plus": {{
+            "assessment": "YES/NO/UNCLEAR",
+            "reasoning": "State the exact publication year and confirm if >= 2004"
+        }},
+        "completed_study": {{
+            "assessment": "YES/NO/UNCLEAR",
+            "reasoning": "Explain evidence of study completion status or what completion information is missing"
+        }}
+    }},
+    "final_decision": "INCLUDE/EXCLUDE/MAYBE",
+    "decision_reasoning": "Summary explanation: State which rule above was applied (e.g., 'EXCLUDE: X criterion is NO' or 'MAYBE: X criteria unclear')"
+}}
+```
+
+**Key Instructions:**
+- Be EXTREMELY conservative: if information is not explicitly and clearly stated, mark as UNCLEAR rather than inferring or assuming
+- IMPORTANT: Do not use quotation marks in your reasoning text to avoid JSON parsing errors
+- CRITICAL: Provide SPECIFIC, UNIQUE justifications for each criterion:
+  - Each reasoning must cite SPECIFIC text or evidence from the paper
+  - Do NOT reuse the same reasoning for multiple criteria
+  - Do NOT use generic statements like "appropriate study design" without specifics
+  - Quote or reference the exact words/phrases from the abstract that support your assessment
+  - If no specific evidence exists, explain what information is missing
+- For Component A (Cash/In-kind Support): ONLY mark YES if there is EXPLICIT mention of:
+  - Cash transfers, cash grants, or cash payments
+  - Consumption support or food assistance
+  - Stipends or allowances for basic needs
+  - Specific in-kind support (food, vouchers) for covering basic consumption
+- For Component B (Productive Assets): ONLY mark YES if there is EXPLICIT mention of:
+  - Asset transfers (livestock given to participants)
+  - Equipment or tools provided 
+  - Business capital or start-up grants
+  - Physical productive resources transferred to participants
+- CRITICAL: Generic terms are INSUFFICIENT evidence:
+  - "inputs" alone is NOT sufficient (could be cash OR assets OR both)
+  - "support" alone is NOT sufficient
+  - "assistance" alone is NOT sufficient
+  - "program provides X to create livelihoods" is NOT sufficient unless X explicitly describes both components
+- If you cannot clearly identify BOTH components as separate, distinct elements, mark dual_component_overall as UNCLEAR
+- The program must have BOTH components EXPLICITLY and SEPARATELY described to qualify
+- MAYBE category is for cases where key information is unclear but not definitively absent

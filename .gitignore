@@ -1,0 +1,99 @@
+# Paper Screening Pipeline - Git Ignore File
+
+# Sensitive Configuration Files
+config/config.yaml
+config/config_integrated.yaml
+.env
+*.key
+**/api_keys/**
+
+# Data Files (Potentially Large/Sensitive)
+data/input/*.txt
+data/input/*.ris
+data/input/*.csv
+data/output/*.json
+data/output/*.csv
+data/processed/*.json
+data/processed/*.csv
+
+# Logs and Temporary Files
+logs/*.log
+logs/*.txt
+*.log
+*.tmp
+.temp/
+temp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Backup Files
+backups/
+*.bak
+*.backup
+
+# Large Output Files
+*.pdf
+docs/*.pdf
+
+# Session and Checkpoint Files
+*checkpoint*
+*session*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation Build
+docs/_build/

@@ -1,0 +1,9 @@
+paper_id,name,expected,llm_decision,correct,cash_assessment,cash_reasoning
+121296063,Malawi SCTP,INCLUDE,INCLUDE,True,YES,"The program includes 'unconditional social cash transfers' as a key component, as stated in the title and abstract."
+121299285,Pakistan BISP,INCLUDE,INCLUDE,True,YES,The paper explicitly states that the program provides 'unconditional cash transfers' to recipients.
+121323669,PRSP microcredit (2004),EXCLUDE,EXCLUDE,True,NO,"The paper explicitly states that the PRSP provides 'micro-credit' and 'lending', which are loan/credit instruments, not cash/consumption support."
+121323321,PRSP microcredit (2005),EXCLUDE,EXCLUDE,True,NO,"The paper explicitly states that the PRSP provides 'micro-credit' and 'loaning procedure', which are debt instruments, not cash/in-kind support."
+121308119,Egyptian SFD (2009),EXCLUDE,EXCLUDE,True,NO,"The paper mentions that the program includes 'microcredit and financing community development and infrastructure', which are loan/credit instruments and not cash/in-kind support."
+121295210,Egyptian SFD duplicate,EXCLUDE,EXCLUDE,True,NO,"The paper states that the program provides 'microcredit and financing community development and infrastructure', which are loan/credit instruments, not cash/consumption support."
+121304324,Fadama Nigeria,EXCLUDE,EXCLUDE,True,NO,"The paper mentions 'loan facilities' provided to beneficiaries, which are debt instruments and not cash/in-kind support."
+121295197,CCT Latin America review,EXCLUDE,EXCLUDE,True,YES,The abstract explicitly states that CCTs are 'cash grants to poor families'.

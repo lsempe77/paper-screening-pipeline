@@ -1,0 +1,26 @@
+# Example configuration for development/testing
+# Copy this to config.yaml and modify as needed
+
+openrouter:
+  api_key: "sk-or-your-key-here"
+  api_url: "https://openrouter.ai/api/v1"
+
+models:
+  primary:
+    provider: "openrouter"
+    model_name: "meta-llama/llama-3.1-8b-instruct:free"  # Free model for testing
+    temperature: 0.1
+    max_tokens: 1000
+    max_retries: 3
+    retry_delay: 1.0
+
+screening:
+  confidence_threshold: 0.6  # Lower threshold for testing
+  batch_size: 10  # Smaller batches for testing
+  delay_between_requests: 0.5
+
+logging:
+  level: "DEBUG"  # More detailed logging for development
+
+cost_control:
+  max_estimated_cost_usd: 10.0  # Lower limit for testing
