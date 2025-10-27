@@ -1,0 +1,4265 @@
+DUPLICATE ANALYSIS REPORT
+================================================================================
+
+Total papers: 12,359
+Unique papers: 12,016
+Papers with duplicates: 343
+
+Same work (different versions): 36
+Title collisions (different papers): 307
+Total duplicate groups: 164
+
+================================================================================
+DETAILED DUPLICATE GROUPS
+================================================================================
+
+
+DUP_1: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Agricultural Policies for Poverty Reduction
+
+  Paper #1836:
+    U1 ID: 121336683
+    Year: 2012.0
+    Authors: Brooks Jonathan ed
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3829:
+    U1 ID: 121306554
+    Year: 2013.0
+    Authors: Frédéric Gaspart
+    Journal: Foundation for the European Review of Agricultural Economics, European Review of Agricultural Economics
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_10: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Can a Poverty-Reducing and Progressive Tax and Transfer System Hurt the Poor?
+
+  Paper #4774:
+    U1 ID: 121331526
+    Year: 2016.0
+    Authors: Higgins Sean Lustig, Nora
+    Journal: Journal of Development Economics
+    DOI: 10.1016/j.jdeveco.2016.04.001
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4775:
+    U1 ID: 121329085
+    Year: 2018.0
+    Authors: Higgins Sean Lustig, Nora
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: maybe
+    Consensus: DISAGREEMENT
+
+
+DUP_100: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Poverty effects of higher food prices: a global perspective
+
+  Paper #2805:
+    U1 ID: 121338542
+    Year: 2009.0
+    Authors: De Hoyos Rafael E; Medvedev Denis
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4923:
+    U1 ID: 121320786
+    Year: 2009.0
+    Authors: Hoyos R E. de, Medvedev, D
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_101: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Proceedings of the Seminar on Employment-Based Poverty Reduction Strategy for Decent Work in Pakistan: Statement
+
+  Paper #378:
+    U1 ID: 121340372
+    Year: 2004.0
+    Authors: Amjad Rashid
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #421:
+    U1 ID: 121340365
+    Year: 2004.0
+    Authors: Ahmad Khurshid
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10597:
+    U1 ID: 121340366
+    Year: 2004.0
+    Authors: Tabani A W
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #11034:
+    U1 ID: 121340373
+    Year: 2004.0
+    Authors: Umer Shaukat
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_102: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Promoting Women's Economic Empowerment: What Works? / Promoting Women's Economic Empowerment: What Works?
+
+  Paper #1935:
+    U1 ID: 121307724
+    Year: 2014.0
+    Authors: Buvinic Mayra Furst-Nichols, Rebecca
+    Journal: Policy Research Working Papers
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1937:
+    U1 ID: 121308174
+    Year: 2014.0
+    Authors: Buvinić Mayra Furst-Nichols, Rebecca
+    Journal: World Bank Research Observer
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_103: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Property Rights in a Very Poor Country: Tenure Insecurity and Investment in Ethiopia
+
+  Paper #232:
+    U1 ID: 121337672
+    Year: 2011.0
+    Authors: Ali Daniel Ayalew, Dercon, Stefan, Gautam, Madhur
+    Journal: Agricultural Economics
+    DOI: 10.1111/j.1574-0862.2010.00482.x
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #2942:
+    U1 ID: 121336387
+    Year: 2005.0
+    Authors: Dercon Stefan Ayalew, Daniel
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_104: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Public Works Programs and Crime: Evidence for El Salvador
+
+  Paper #413:
+    U1 ID: 121328435
+    Year: 2021.0
+    Authors: Acosta Pablo Monsalve Montiel, Emma
+    Journal: Review of Development Economics
+    DOI: 10.1111/rode.12769
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8525:
+    U1 ID: 121307060
+    Year: 2018.0
+    Authors: Pablo Acosta Emma Monsalve, Montiel
+    Journal: Policy Research Working Papers
+    DOI: 10.1596/1813-9450-8384
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_105: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Right to Work? Assessing India's Employment Guarantee Scheme in Bihar
+
+  Paper #3228:
+    U1 ID: 121335380
+    Year: 2014.0
+    Authors: Dutta Puja Murgai, Rinku, Ravallion, Martin, van de Walle, Do
+    Journal: nan
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+  Paper #9384:
+    U1 ID: 121301963
+    Year: 2014.0
+    Authors: nan
+    Journal: The World Bank Group, World Bank Publications - Books
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_106: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Rising food prices and household welfare: evidence from Brazil in 2008
+
+  Paper #3684:
+    U1 ID: 121319765
+    Year: 2011.0
+    Authors: Ferreira F H. G; Fruttero A; Leite P; Lucchetti L
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3685:
+    U1 ID: 121337430
+    Year: 2011.0
+    Authors: Ferreira Francisco H. G; Fruttero Anna Leite, Phillippe, Lucchetti, Leonardo
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_107: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Role of Microfinance in the Reduction of Rural Poverty in West Bengal
+
+  Paper #7918:
+    U1 ID: 121361354
+    Year: 2022.0
+    Authors: Naskar K; Sourav S K
+    Journal: nan
+    DOI: 10.1007/978-981-16-4329-3_17
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9447:
+    U1 ID: 121298091
+    Year: 2022.0
+    Authors: nan
+    Journal: Springer, Springer Books
+    DOI: 10.1007/978-981-16-4329-3
+    Engine 1: include
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_108: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Role of State and Innovative Agricultural Technology in Poverty Alleviation in China: A Study of Hebei Province
+
+  Paper #7939:
+    U1 ID: 121362846
+    Year: 2021.0
+    Authors: Nayak B S; Wang X
+    Journal: nan
+    DOI: 10.1007/978-981-16-5252-3_7
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9454:
+    U1 ID: 121297918
+    Year: 2021.0
+    Authors: nan
+    Journal: Springer, Springer Books
+    DOI: 10.1007/978-981-16-5252-3
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_109: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Role of foreign direct Investment and political openness in boosting the eco-tourism sector for achieving sustainability
+
+  Paper #9988:
+    U1 ID: 121356815
+    Year: 2024.0
+    Authors: Shang Y; Yang Q; Pu Y
+    Journal: Humanities and Social Sciences Communications
+    DOI: 10.1057/s41599-023-02592-z
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #12048:
+    U1 ID: 121299369
+    Year: 2024.0
+    Authors: Yunfeng Shang Qin, Yang, Yuanjie, Pu
+    Journal: Palgrave Macmillan, Palgrave Communications
+    DOI: 10.1057/s41599-023-02592
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_11: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Can conditional cash transfers compensate for a father's absence?
+
+  Paper #3758:
+    U1 ID: 121317788
+    Year: 2013.0
+    Authors: Fitzsimons E; Mesnard A
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+  Paper #3759:
+    U1 ID: 121336288
+    Year: 2013.0
+    Authors: Fitzsimons Emla Mesnard, Alice
+    Journal: nan
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_110: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Rural non-farm employment and household welfare: evidence from Malawi
+
+  Paper #203:
+    U1 ID: 121313971
+    Year: 2017.0
+    Authors: Adjognon G S; Liverpool-Tasie S L; Fuente A de la, Benfica, R
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #204:
+    U1 ID: 121330921
+    Year: 2017.0
+    Authors: Adjognon Guigonan Serge, Liverpool-Tasie, Saweda Lenis, De La Fuente
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_111: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Rural roads and poverty alleviation
+
+  Paper #4898:
+    U1 ID: 121325204
+    Year: 1984.0
+    Authors: Howe J; Richards P
+    Journal: Rural roads and poverty alleviation.
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4900:
+    U1 ID: 121297255
+    Year: 2019.0
+    Authors: Howe J; Richards P
+    Journal: nan
+    DOI: 10.4324/9780429305139
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_112: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Rural taxation and poverty reduction in Uganda
+
+  Paper #992:
+    U1 ID: 121354450
+    Year: 2004.0
+    Authors: Bahiigwa G
+    Journal: nan
+    DOI: 10.4324/9780203006214
+    Engine 1: maybe
+    Engine 2: maybe
+    Consensus: maybe
+
+  Paper #993:
+    U1 ID: 121313535
+    Year: 2005.0
+    Authors: Bahiigwa G; Ellis F; Freeman H A
+    Journal: Routledge Studies in Development Economics
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_113: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Savings Groups and Poverty Alleviation Among Rural Communities in Zimbabwe During COVID-19
+
+  Paper #9796:
+    U1 ID: 121297715
+    Year: 2024.0
+    Authors: nan
+    Journal: Springer, Springer Books
+    DOI: 10.1007/978-3-031-61321-0
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #12331:
+    U1 ID: 121358659
+    Year: 2024.0
+    Authors: Zimusi L; Moyo G
+    Journal: nan
+    DOI: 10.1007/978-3-031-61321-0_14
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_114: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Serving the Underserved: Microcredit as a Pathway to Commercial Banks
+
+  Paper #950:
+    U1 ID: 121328528
+    Year: 2021.0
+    Authors: Agarwal Sumit Kigabo, Thomas, Minoiu, Camelia, Presbitero, Andre; Silva Andre F
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #951:
+    U1 ID: 121327595
+    Year: 2023.0
+    Authors: Agarwal Sumit Kigabo, Thomas, Minoiu, Camelia, Presbitero, Andre; Silva Andre F
+    Journal: Review of Economics and Statistics
+    DOI: 10.1162/rest_a_01117
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_115: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Shelter from the Storm: Upgrading Housing Infrastructure in Latin American Slums
+
+  Paper #3895:
+    U1 ID: 121336191
+    Year: 2013.0
+    Authors: Galiani Sebastian Gertler, Paul, Cooper, Ryan, Martinez, Sebastian,
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3902:
+    U1 ID: 121331007
+    Year: 2017.0
+    Authors: Galiani Sebastian Gertler, Paul J; Undurraga Raimundo Cooper, Ryan, Martinez, Sebastian, Ross, Adam
+    Journal: Journal of Urban Economics
+    DOI: 10.1016/j.jue.2016.11.001
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_116: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Smallholder Agriculture in Developing and Emerging Economies: The Case of Sri Lanka
+
+  Paper #9471:
+    U1 ID: 121359935
+    Year: 2023.0
+    Authors: Rosairo H S. R
+    Journal: nan
+    DOI: 10.1007/978-981-19-6454-1_13
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10237:
+    U1 ID: 121297979
+    Year: 2023.0
+    Authors: nan
+    Journal: Springer, Springer Books
+    DOI: 10.1007/978-981-19-6454-1
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_117: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Smallholder income and land distribution in Africa: implications for poverty reduction strategies
+
+  Paper #5346:
+    U1 ID: 121318232
+    Year: 2001.0
+    Authors: Jayne T S; Yamano T; Weber M; Tschirley D; Benfica R; Neven D; Chapoto A; Zulu B
+    Journal: MSU International Development Papers
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #5347:
+    U1 ID: 121316143
+    Year: 2002.0
+    Authors: Jayne T S; Yamano T; Weber M T; Tschirley D; Benfica R; Chapoto A; Zulu B; Neven D
+    Journal: Policy Synthesis for Cooperating USAID Office for Country Missions
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_118: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Social Protection in a Crisis: Argentina's Plan Jefes y Jefas
+
+  Paper #3884:
+    U1 ID: 121332554
+    Year: 2003.0
+    Authors: Galasso Emanuela Ravallion, Martin
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3885:
+    U1 ID: 121332341
+    Year: 2004.0
+    Authors: Galasso Emanuela Ravallion, Martin
+    Journal: World Bank Economic Review
+    DOI: 10.1093/wber/lhh044
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_119: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Social protection: Adaptive safety nets for crisis recovery
+
+  Paper #4803:
+    U1 ID: 121378207
+    Year: 2023.0
+    Authors: Hirvonen Kalle
+    Journal: nan
+    DOI: 10.2499/9780896294417_05
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10254:
+    U1 ID: 121297858
+    Year: 2023.0
+    Authors: nan
+    Journal: International Food Policy Research Institute (IFPRI), IFPRI book chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_12: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Can the World Cut Poverty in Half? How Policy Reform and Effective Aid Can Meet International Development Goals
+
+  Paper #2463:
+    U1 ID: 121333787
+    Year: 2001.0
+    Authors: Collier Paul Dollar, David
+    Journal: World Development
+    DOI: 10.1016/S0305-750X(01)00076-6
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3095:
+    U1 ID: 121332729
+    Year: 1999.0
+    Authors: Dollar David Collier, Paul
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_120: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Social spending and aggregate welfare in developing and transition economies
+
+  Paper #4000:
+    U1 ID: 121316852
+    Year: 2014.0
+    Authors: Gebregziabher F; Nino-Zarazua M
+    Journal: WIDER Working Papers
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4001:
+    U1 ID: 121335558
+    Year: 2014.0
+    Authors: Gebregziabher Fiseha Nino-Zarazua, Miguel
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_121: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: South Africa
+
+  Paper #295:
+    U1 ID: 121347521
+    Year: 2014.0
+    Authors: Abel M; Blair M; Fabregas R; Gumede K; Leibbrandt M
+    Journal: nan
+    DOI: 10.4324/9780203798935-18
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #5945:
+    U1 ID: 121340645
+    Year: 2007.0
+    Authors: Kirsten J; May J; Hendriks S; Lyne M; Machethe C L; Punt C; Bresciani F; Valdes A
+    Journal: Beyond food production: the role of agriculture in poverty reduction
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_122: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Supporting Ultra Poor People with Rehabilitation and Therapy among families of children with Cerebral Palsy in rural Bangladesh (SUPPORT CP): Protocol of a randomised controlled trial
+
+  Paper #624:
+    U1 ID: 121362000
+    Year: 2021.0
+    Authors: Al Imam M H; Jahan I; Muhit M; Das M C; Power R; Khan A; Akbar D; Badawi N; Khandaker G
+    Journal: PLoS ONE
+    DOI: 10.1371/journal.pone.0261148
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #6892:
+    U1 ID: 121299783
+    Year: 2021.0
+    Authors: Mahmudul Hassan Al; Imam; Israt; Jahan; Mohammad; Muhit; Manik Chandra; Das; Rosalie; Power; Arifuzzaman; Khan; Delwar; Akbar; Nadia; Badawi; Gulam; Khandaker
+    Journal: Public Library of Science, PLOS ONE
+    DOI: 10.1371/journal.pone.0261
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_123: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Taking Stock of the Evidence on Microfinancial Interventions
+
+  Paper #1886:
+    U1 ID: 121329146
+    Year: 2020.0
+    Authors: Buera Francisco J; Kaboski Joseph P; Shin Yongseok
+    Journal: Federal Reserve Bank of St. Louis Review
+    DOI: 10.20955/r.102.173-202
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10632:
+    U1 ID: 121299491
+    Year: 2017.0
+    Authors: nan
+    Journal: National Bureau of Economic Research, Inc, NBER Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_124: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Targeting Impact versus Deprivation
+
+  Paper #4615:
+    U1 ID: 121328229
+    Year: 2022.0
+    Authors: Haushofer Johannes Niehaus, Paul, Paramo, Carlos, Miguel, Edward, Wal
+    Journal: nan
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+  Paper #4616:
+    U1 ID: 121326622
+    Year: 2025.0
+    Authors: Haushofer Johannes Niehaus, Paul, Paramo, Carlos, Miguel, Edward, Wal
+    Journal: American Economic Review
+    DOI: 10.1257/aer.20221650
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_125: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Targeting food security interventions in Ethiopia: The productive safety net programme
+
+  Paper #2470:
+    U1 ID: 121348828
+    Year: 2013.0
+    Authors: Coll-Black S; Gilligan D O; Hoddinott J; Kumar N; Taffesse A; Wiseman W
+    Journal: nan
+    DOI: nan
+    Engine 1: include
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+  Paper #10670:
+    U1 ID: 121302145
+    Year: 2012.0
+    Authors: nan
+    Journal: International Food Policy Research Institute (IFPRI), IFPRI book chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_126: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Targeting versus Universalism: An Evaluation of Indirect Effects of the Employment Guarantee Scheme in India
+
+  Paper #5097:
+    U1 ID: 121332895
+    Year: 2004.0
+    Authors: Imai Katsushi
+    Journal: nan
+    DOI: nan
+    Engine 1: include
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+  Paper #5098:
+    U1 ID: 121339724
+    Year: 2007.0
+    Authors: Imai Katsushi
+    Journal: Journal of Policy Modeling
+    DOI: 10.1016/j.jpolmod.2006.03.004
+    Engine 1: include
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_127: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Teaching Entrepreneurship: Impact of Business Training on Microfinance Clients and Institutions
+
+  Paper #5692:
+    U1 ID: 121337452
+    Year: 2011.0
+    Authors: Karlan Dean Valdivia, Martin
+    Journal: Review of Economics and Statistics
+    DOI: 10.1162/REST_a_00074
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #11078:
+    U1 ID: 121340077
+    Year: 2005.0
+    Authors: Valdivia Martin Karlan, Dean
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_128: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Antipoverty Impact of the EITC: New Estimates from Survey and Administrative Tax Records
+
+  Paper #5494:
+    U1 ID: 121329813
+    Year: 2019.0
+    Authors: Jones Maggie R; Ziliak James P
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #5495:
+    U1 ID: 121327736
+    Year: 2022.0
+    Authors: Jones Maggie R; Ziliak James P
+    Journal: National Tax Journal
+    DOI: 10.1086/720614
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_129: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Contribution of Increased Equity to the Estimated Social Benefits from a Transfer Program: An Illustration from PROGRESA/Oportunidades
+
+  Paper #1169:
+    U1 ID: 121296535
+    Year: 2019.0
+    Authors: Alderman H; Behrman J R; Tasneem A
+    Journal: World Bank Economic Review
+    DOI: 10.1093/wber/lhx006
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4561:
+    U1 ID: 121307330
+    Year: 2017.0
+    Authors: Harold Alderman Jere R, Behrman, Afia, Tasneem
+    Journal: Policy Research Working Papers
+    DOI: 10.1596/1813-9450-8026
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_13: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Cash in Hand and Savings Decisions
+
+  Paper #10324:
+    U1 ID: 121328726
+    Year: 2021.0
+    Authors: Spantig Lisa
+    Journal: Journal of Economic Behavior and Organization
+    DOI: 10.1016/j.jebo.2021.06.008
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10343:
+    U1 ID: 121329767
+    Year: 2019.0
+    Authors: Spantig Lisa
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_130: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Distribution of Productive Assets and the Economics of Rural Development and Poverty Reduction
+
+  Paper #2062:
+    U1 ID: 121297203
+    Year: 2019.0
+    Authors: Carter M R; Michuda A
+    Journal: nan
+    DOI: 10.1007/978-3-030-14000-7_11
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10735:
+    U1 ID: 121297864
+    Year: 2019.0
+    Authors: nan
+    Journal: Springer, Springer Books
+    DOI: 10.1007/978-3-030-14000-7
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_131: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Earned Income Tax Credit
+
+  Paper #4910:
+    U1 ID: 121333091
+    Year: 2001.0
+    Authors: Hotz V Joseph, Scholz, John Karl
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4922:
+    U1 ID: 121329512
+    Year: 2019.0
+    Authors: Hoynes Hilary
+    Journal: Annals of the American Academy of Political and Social Science
+    DOI: 10.1177/0002716219881621
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_132: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Effectiveness of Industrial Policy in Developing Countries: Causal Evidence from Ethiopian Manufacturing Firms
+
+  Paper #4011:
+    U1 ID: 121331621
+    Year: 2016.0
+    Authors: Gebrewolde Tewodros Makonnen, Rockey, James
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4012:
+    U1 ID: 121295073
+    Year: 2022.0
+    Authors: Gebrewolde Tewodros Makonnen; Rockey James
+    Journal: Journal of Development Effectiveness
+    DOI: 10.1080/19439342.2022.2090997
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_133: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Effects of the Colombian Trade Liberalization on Urban Poverty
+
+  Paper #4188:
+    U1 ID: 121332378
+    Year: 2005.0
+    Authors: Goldberg Pinelopi Koujianou, Pavcnik, Nina
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10746:
+    U1 ID: 121300705
+    Year: 2007.0
+    Authors: nan
+    Journal: National Bureau of Economic Research, Inc, NBER Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_134: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Effects of the Minimum Wage on Earnings Inequality: Evidence from China
+
+  Paper #6489:
+    U1 ID: 121364386
+    Year: 2020.0
+    Authors: Lin C; Yun M S
+    Journal: nan
+    DOI: 10.1007/978-981-15-2421-9_7
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10747:
+    U1 ID: 121299627
+    Year: 2016.0
+    Authors: nan
+    Journal: Emerald Group Publishing Limited, Research in Labor Economics
+    DOI: 10.1108/S0147-91212016000
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_135: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Employment and Redistributive Effects of Reducing or Eliminating Minimum Wage Tip Credits
+
+  Paper #7998:
+    U1 ID: 121328520
+    Year: 2021.0
+    Authors: Neumark David Yen, Maysen
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7999:
+    U1 ID: 121327249
+    Year: 2023.0
+    Authors: Neumark David Yen, Maysen
+    Journal: Journal of Policy Analysis and Management
+    DOI: 10.1002/pam.22450
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_136: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Impact of Gender-Specific Migration and Remittances on Household Poverty Reduction in Lao PDR
+
+  Paper #11792:
+    U1 ID: 121356230
+    Year: 2025.0
+    Authors: Xiong Y; Joshi N P
+    Journal: Social Indicators Research
+    DOI: 10.1007/s11205-025-03683-x
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #11906:
+    U1 ID: 121297873
+    Year: 2025.0
+    Authors: Yang Xiong Niraj Prakash, Joshi
+    Journal: Social Indicators Research: An International and Interdisciplinary Journal for Quality-of-Life Measurement
+    DOI: 10.1007/s11205-025-03683-x
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_137: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Impact of Microfinance on Poverty Alleviation: Making Sense of the Evidence
+
+  Paper #3969:
+    U1 ID: 121330197
+    Year: 2017.0
+    Authors: Garikipati Supriya
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10752:
+    U1 ID: 121298784
+    Year: 2017.0
+    Authors: nan
+    Journal: Palgrave Macmillan, Palgrave Studies in Impact Finance
+    DOI: 10.1057/978-1-137-58032-0
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_138: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Impact on Russia of WTO Accession and the DDA: The Importance of Liberalization of Barriers against FDI in Services for Growth and Poverty Reduction
+
+  Paper #9578:
+    U1 ID: 121339322
+    Year: 2006.0
+    Authors: Rutherford Thomas Tarr, David, Shepotylo, Oleksandr
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9579:
+    U1 ID: 121336336
+    Year: 2012.0
+    Authors: Rutherford Thomas Tarr, David, Shepotylo, Oleksandr
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_139: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The More Things Change, the More They Stay the Same? The Safety Net and Poverty in the Great Recession
+
+  Paper #1631:
+    U1 ID: 121331756
+    Year: 2016.0
+    Authors: Bitler Marianne Hoynes, Hilary
+    Journal: Journal of Labor Economics
+    DOI: 10.1086/683096
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10770:
+    U1 ID: 121300566
+    Year: 2013.0
+    Authors: nan
+    Journal: National Bureau of Economic Research, Inc, NBER Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_14: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Child Mortality under Chinese Reforms
+
+  Paper #4276:
+    U1 ID: 121338651
+    Year: 2004.0
+    Authors: Grigoriou Christopher Guillaumont, Patrick
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4277:
+    U1 ID: 121340358
+    Year: 2005.0
+    Authors: Grigoriou Christopher Guillaumont, Patrick, Yang, Wenyan
+    Journal: China Economic Review
+    DOI: 10.1016/j.chieco.2005.03.004
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_140: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The Use and Misuse of Income Data and Extreme Poverty in the United States
+
+  Paper #7362:
+    U1 ID: 121329760
+    Year: 2019.0
+    Authors: Meyer Bruce D; Wu Derek Mooers, Victoria R; Medalia Carla
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7364:
+    U1 ID: 121329017
+    Year: 2021.0
+    Authors: Meyer Bruce D; Wu Derek Mooers, Victoria, Medalia, Carla
+    Journal: Journal of Labor Economics
+    DOI: 10.1086/711227
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_141: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The impact of a community development and poverty reduction program on early childhood development in Morocco
+
+  Paper #3351:
+    U1 ID: 121314915
+    Year: 2016.0
+    Authors: El-Kogali S; Krafft C; Abdelkhalek T; Benkassmi M; Chavez M; Bassett L; Ejjanoui F
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+  Paper #3352:
+    U1 ID: 121331618
+    Year: 2016.0
+    Authors: El-Kogali Safaa El Tayeb, Krafft, Caroline Gould, Abdelkhalek, Tou; Bassett Lucy Katherine, Ejjanoui, Fouzia
+    Journal: nan
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_142: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The impact of commercialization of rice on household welfare in rural Viet Nam
+
+  Paper #271:
+    U1 ID: 121329791
+    Year: 2018.0
+    Authors: Andy McKay Chiara, Cazzuffi, Emilie, Perge
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #2099:
+    U1 ID: 121308869
+    Year: 2018.0
+    Authors: Cazzuffi C; McKay A; Perge E
+    Journal: WIDER Working Papers
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_143: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The impact of labor mobility with fellow townsmen on the wages of rural migrants: evidence from China
+
+  Paper #3590:
+    U1 ID: 121300147
+    Year: 2023.0
+    Authors: Fanqiang Meng Zhihui, Liu, Hao, Lin, Miraj Ahmed, Bhuiyan
+    Journal: Palgrave Macmillan, Palgrave Communications
+    DOI: 10.1057/s41599-023-01795
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7330:
+    U1 ID: 121358840
+    Year: 2023.0
+    Authors: Meng F; Liu Z; Lin H; Bhuiyan M A
+    Journal: Humanities and Social Sciences Communications
+    DOI: 10.1057/s41599-023-01795-8
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_144: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: The impacts of cash transfers on mental health and investments experimental evidence from Mali
+
+  Paper #4760:
+    U1 ID: 121295260
+    Year: 2020.0
+    Authors: Hidrobo Melissa; Karachiwalla Naureen; Roy Shalini
+    Journal: International Food Policy Research Institute (IFPRI) Discussion Paper Series
+    DOI: 10.1016/j.jebo.2023.10.016
+    Engine 1: include
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+  Paper #4761:
+    U1 ID: 121362810
+    Year: 2020.0
+    Authors: Hidrobo Melissa Karachiwalla, Naureen, Roy, Shalini
+    Journal: IFPRI - Discussion Papers
+    DOI: nan
+    Engine 1: include
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_145: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The long-term evolution of income inequality and poverty in China
+
+  Paper #6749:
+    U1 ID: 121308868
+    Year: 2018.0
+    Authors: Luo ChuLiang; Luo ChuLiang; Li Shi; Li Shi; Sicular; T
+    Journal: WIDER Working Papers
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10712:
+    U1 ID: 121329788
+    Year: 2018.0
+    Authors: Terry Sicular Luo, Chuliang, Li, Shi
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_146: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: The role of aquaculture in rural development
+
+  Paper #4458:
+    U1 ID: 121341361
+    Year: 2003.0
+    Authors: Halwart M; Funge-Smith S; Moehl J
+    Journal: FAO Fisheries Circular
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4459:
+    U1 ID: 121341311
+    Year: 2005.0
+    Authors: Halwart M
+    Journal: Agriculture + Rural Development
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_147: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Three Essays in Public Economics
+
+  Paper #2329:
+    U1 ID: 121339939
+    Year: 2005.0
+    Authors: Cho Yoonyoung
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #11715:
+    U1 ID: 121339400
+    Year: 2006.0
+    Authors: Wu Binzhen
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_148: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Time Preference and Natural Resource Use by Local Communities: The Case of Sinharaja Forest in Sri Lanka
+
+  Paper #4339:
+    U1 ID: 121326989
+    Year: 2007.0
+    Authors: Gunatilake Herath Wickramasinghe, W. A. R; Abeygunawardena Piyasena
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4340:
+    U1 ID: 121305846
+    Year: 2009.0
+    Authors: Gunatilake H M; Wickramasinghe W A. R; Abeygunawardena P
+    Journal: Sri Lanka Agricultural Economics Association (SAEA), Sri Lankan Journal of Agricultural Economics
+    DOI: 10.22004/ag.econ.205970
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_149: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Towards a renewed focus on rural development
+
+  Paper #1793:
+    U1 ID: 121324191
+    Year: 2003.0
+    Authors: Braun J von
+    Journal: Schwerpunkt: Wirtschaftliche landliche Entwicklung
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1794:
+    U1 ID: 121323779
+    Year: 2004.0
+    Authors: Braun J von
+    Journal: Agriculture + Rural Development
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_15: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Comments on 'Evaluating the Effectiveness of Poverty Alleviation Programs.'
+
+  Paper #2773:
+    U1 ID: 121334348
+    Year: 1995.0
+    Authors: Davis Gloria
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8713:
+    U1 ID: 121334347
+    Year: 1995.0
+    Authors: Penalver Manuel
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_150: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Trade Liberalisation and Poverty Dynamics in Vietnam
+
+  Paper #8068:
+    U1 ID: 121339256
+    Year: 2007.0
+    Authors: Niimi Yoko Dutta, Puja Vasudeva, Winters, L. Alan
+    Journal: Journal of Economic Integration
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10917:
+    U1 ID: 121299835
+    Year: 2015.0
+    Authors: nan
+    Journal: World Scientific Publishing Co. Pte. Ltd., World Scientific Book Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_151: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Trade Liberalization, Labor-Market Institutions, and Poverty Reduction: Evidence from Indian States
+
+  Paper #4585:
+    U1 ID: 121338920
+    Year: 2007.0
+    Authors: Hasan Rana Mitra, Devashish, Ural, Beyza P
+    Journal: nan
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: maybe
+    Consensus: maybe
+
+  Paper #9189:
+    U1 ID: 121304713
+    Year: 2006.0
+    Authors: Rana Hasan Devashish, Mitra, Beyza, P. Ural
+    Journal: Global Economy and Development Program, The Brookings Institution, India Policy Forum
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_152: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Trade Liberalization, Labor-Market Institutions, and Poverty Reduction: Evidence from Indian States: Comments and Discussion
+
+  Paper #5956:
+    U1 ID: 121338919
+    Year: 2007.0
+    Authors: Kletzer Kenneth
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10355:
+    U1 ID: 121338918
+    Year: 2007.0
+    Authors: Srinivasan T N
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_153: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Trade Openness and Income Inequality: New Empirical Evidence
+
+  Paper #3120:
+    U1 ID: 121328533
+    Year: 2021.0
+    Authors: Dorn Florian Fuest, Clemens, Potrafke, Niklas
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3131:
+    U1 ID: 121328287
+    Year: 2022.0
+    Authors: Dorn Florian Fuest, Clemens, Potrafke, Niklas
+    Journal: Economic Inquiry
+    DOI: 10.1111/ecin.13018
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_154: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Trade Policy and Poverty Reduction in Brazil
+
+  Paper #4571:
+    U1 ID: 121332342
+    Year: 2004.0
+    Authors: Harrison Glenn W; Rutherford Thomas F; Tarr David G; Gurgel Angelo
+    Journal: World Bank Economic Review
+    DOI: 10.1093/wber/lhh043
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10921:
+    U1 ID: 121299659
+    Year: 2014.0
+    Authors: nan
+    Journal: World Scientific Publishing Co. Pte. Ltd., World Scientific Book Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_155: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Unconditional cash transfers for reducing poverty and vulnerabilities: effect on use of health services and health outcomes in low- and middle-income countries
+
+  Paper #8704:
+    U1 ID: 121313689
+    Year: 2017.0
+    Authors: Pega F; Liu SzeYan Liu SzeYan, Walter, S; Pabayo R; Saith R; Lhachimi S K
+    Journal: Cochrane Database of Systematic Reviews
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8705:
+    U1 ID: 121350164
+    Year: 2022.0
+    Authors: Pega Frank Pabayo, Roman, Benny, Claire, Lee, Eun-Young, Lhac; Liu Sze Yan
+    Journal: Cochrane Database of Systematic Reviews
+    DOI: 10.1002/14651858.CD011135.pub3
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_156: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Unconditional cash transfers in China: an analysis of the rural minimum living standard guarantee program
+
+  Paper #4185:
+    U1 ID: 121315710
+    Year: 2015.0
+    Authors: Golan J; Sicular T; Umapathi N
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4186:
+    U1 ID: 121335291
+    Year: 2015.0
+    Authors: Golan Jennifer Sicular, Terry, Umapathi, Nithin
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_157: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Understanding the agricultural input landscape in Sub-Saharan Africa: recent plot, household, and community-level evidence
+
+  Paper #10017:
+    U1 ID: 121316613
+    Year: 2014.0
+    Authors: Sheahan M; Barrett C B
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10018:
+    U1 ID: 121335749
+    Year: 2014.0
+    Authors: Sheahan Megan Barrett, Christopher B
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_158: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Universal Basic Income in the Developing World
+
+  Paper #946:
+    U1 ID: 121296624
+    Year: 2019.0
+    Authors: Banerjee A; Niehaus P; Suri T
+    Journal: Annual Review of Economics
+    DOI: 10.1146/annurev-economics-080218-030229
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #947:
+    U1 ID: 121329802
+    Year: 2019.0
+    Authors: Banerjee Abhijit Niehaus, Paul, Suri, Tavneet
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_159: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Welfare Impacts of Pension Para Adultos Mayores: Evidence from a Non-experimental Evaluation
+
+  Paper #3445:
+    U1 ID: 121295250
+    Year: 2016.0
+    Authors: Esquinca O M
+    Journal: Other
+    DOI: 10.17760/D20234668
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8434:
+    U1 ID: 121330766
+    Year: 2016.0
+    Authors: Ortiz Esquinca; Monica
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_16: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Comments on the poverty reduction strategy initiatives
+
+  Paper #2552:
+    U1 ID: 121344145
+    Year: 2017.0
+    Authors: Couto P
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4711:
+    U1 ID: 121344142
+    Year: 2017.0
+    Authors: Herfkens E
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: maybe
+    Consensus: DISAGREEMENT
+
+  Paper #11207:
+    U1 ID: 121344143
+    Year: 2017.0
+    Authors: Víquez A Q
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_160: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Who Benefits Most from Rural Electrification? Evidence in India
+
+  Paper #5855:
+    U1 ID: 121335944
+    Year: 2014.0
+    Authors: Khandker Shahidur R; Samad Hussain A; Ali Rubaba Barnes, Douglas F
+    Journal: Energy Journal
+    DOI: 10.5547/01956574.35.2.4
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9976:
+    U1 ID: 121306496
+    Year: 2014.0
+    Authors: Shahidur R Khandker; Hussain A Samad Rubaba Ali; Douglas; F Barnes
+    Journal: International Association for Energy Economics, The Energy Journal
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_161: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Why Isn't the Doha Development Agenda More Poverty Friendly?
+
+  Paper #4730:
+    U1 ID: 121338241
+    Year: 2009.0
+    Authors: Hertel Thomas W; Keeney Roman Ivanic, Maros, Winters, L. Alan
+    Journal: Review of Development Economics
+    DOI: 10.1111/j.1467-9361.2008.00483.x
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4737:
+    U1 ID: 121339643
+    Year: 2007.0
+    Authors: Hertel Thomas Keeney, Roman, Ivanic, Maros, Winters, Alan
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_162: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Women participation in achieving sustainability of microfinance institutions (MFIs)
+
+  Paper #276:
+    U1 ID: 121301175
+    Year: 2022.0
+    Authors: Ainan Memon Waqar, Akram, Ghulam, Abbas
+    Journal: Taylor & Francis Journals, Journal of Sustainable Finance & Investment
+    DOI: 10.1080/20430795.2020.179
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7311:
+    U1 ID: 121296147
+    Year: 2020.0
+    Authors: Memon A; Akram W; Abbas G
+    Journal: Journal of Sustainable Finance and Investment
+    DOI: 10.1080/20430795.2020.1790959
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_163: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Women’s Land Rights and Agricultural Productivity in Uganda
+
+  Paper #7854:
+    U1 ID: 121364716
+    Year: 2020.0
+    Authors: Mwesigye F; Guloba M; Barungi M
+    Journal: Gender, Development and Social Change
+    DOI: 10.1007/978-3-030-14935-2_5
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #11602:
+    U1 ID: 121298603
+    Year: 2020.0
+    Authors: nan
+    Journal: Palgrave Macmillan, Gender, Development and Social Change
+    DOI: 10.1007/978-3-030-14935-2
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_164: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: World development under monopoly capitalism
+
+  Paper #9895:
+    U1 ID: 121357779
+    Year: 2024.0
+    Authors: Selwyn B; Leyden D
+    Journal: nan
+    DOI: 10.4337/9781802204780.00036
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #11708:
+    U1 ID: 121297766
+    Year: 2024.0
+    Authors: nan
+    Journal: Edward Elgar Publishing, Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_17: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Conclusions
+
+  Paper #2486:
+    U1 ID: 121299486
+    Year: 2017.0
+    Authors: nan
+    Journal: World Scientific Publishing Co. Pte. Ltd., World Scientific Book Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #6673:
+    U1 ID: 121307997
+    Year: 2012.0
+    Authors: Lopez-Acevedo Gladys Savchenko, Yevgeniya
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_18: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Conditional Cash Transfers in Latin America
+
+  Paper #743:
+    U1 ID: 121337347
+    Year: 2010.0
+    Authors: Adato Michelle Hoddinott, John eds
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #2480:
+    U1 ID: 121302223
+    Year: 2010.0
+    Authors: nan
+    Journal: International Food Policy Research Institute (IFPRI), IFPRI books
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_19: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Contract Farming and Poverty Reduction: The Case of Organic Rice Contract Farming in Thailand
+
+  Paper #2497:
+    U1 ID: 121300928
+    Year: 2006.0
+    Authors: nan
+    Journal: Edward Elgar Publishing, Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9943:
+    U1 ID: 121339125
+    Year: 2006.0
+    Authors: Setboonsarng Sununtar Leung, PingSun, Cai, Junning
+    Journal: nan
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_2: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: An appraisal of Punjab Rural Support Programme in the selected field units in Faisalabad
+
+  Paper #565:
+    U1 ID: 121323669
+    Year: 2004.0
+    Authors: Abid Hussain; Abid Hussain; Khalid Mustafa; Khalid Mustafa; Gill; Z A
+    Journal: Journal of Rural Development & Administration
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #566:
+    U1 ID: 121323321
+    Year: 2005.0
+    Authors: Abid Hussain; Abid Hussain; Khalid Mustafa; Khalid Mustafa; Arshad Farooq; Arshad Farooq
+    Journal: Sarhad Journal of Agriculture
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_20: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Control and ownership of assets within rural Ethiopian households
+
+  Paper #3528:
+    U1 ID: 121318703
+    Year: 2000.0
+    Authors: Fafchamps M; Quisumbing A R
+    Journal: Working Paper Series - Centre for the Study of African Economies, University of Oxford
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3532:
+    U1 ID: 121314833
+    Year: 2003.0
+    Authors: Fafchamps M; Quisumbing A R; Quisumbing A R
+    Journal: Household decisions, gender, and development: a synthesis of recent research
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_21: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Cooperatives, Economic Democratization and Rural Development
+
+  Paper #1587:
+    U1 ID: 121331349
+    Year: 2016.0
+    Authors: Bijman Jos Muradian, Roldan, Schuurman, Jur eds
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #2513:
+    U1 ID: 121300834
+    Year: 2016.0
+    Authors: nan
+    Journal: Edward Elgar Publishing, Books
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_22: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Determinants of Health Insurance Enrollment and Health Expenditure in Ghana: An Empirical Analysis
+
+  Paper #75:
+    U1 ID: 121328228
+    Year: 2022.0
+    Authors: Adjei-Mantey Kwame Horioka, Charles Yuji
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #201:
+    U1 ID: 121327482
+    Year: 2023.0
+    Authors: Adjei-Mantey Kwame Horioka, Charles Yuji
+    Journal: Review of Economics of the Household
+    DOI: 10.1007/s11150-022-09621-x
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_23: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Do Peers Affect Student Achievement in China's Secondary Schools?
+
+  Paper #3018:
+    U1 ID: 121340240
+    Year: 2005.0
+    Authors: Ding Weili Lehrer, Steven
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3020:
+    U1 ID: 121339596
+    Year: 2007.0
+    Authors: Ding Weili Lehrer, Steven F
+    Journal: Review of Economics and Statistics
+    DOI: 10.1162/rest.89.2.300
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_24: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Does Decentralization Enhance Service Delivery and Poverty Reduction?
+
+  Paper #422:
+    U1 ID: 121338013
+    Year: 2009.0
+    Authors: Ahmad Ehtisham Brosio, Giorgio eds
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3082:
+    U1 ID: 121300863
+    Year: 2009.0
+    Authors: nan
+    Journal: Edward Elgar Publishing, Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_25: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Does Relative Income Matter for the Very Poor? Evidence from Rural Ethiopia
+
+  Paper #1161:
+    U1 ID: 121336858
+    Year: 2008.0
+    Authors: Akay Alpaslan Martinsson, Peter
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1162:
+    U1 ID: 121337468
+    Year: 2011.0
+    Authors: Akay Alpaslan Martinsson, Peter
+    Journal: Economics Letters
+    DOI: 10.1016/j.econlet.2010.11.046
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_26: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Does a Universal Pension Reduce Elderly Poverty in China?
+
+  Paper #12181:
+    U1 ID: 121295063
+    Year: 2022.0
+    Authors: Zhang Anqi; Imai Katsushi S
+    Journal: Other
+    DOI: 10.2139/ssrn.4159283
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #12193:
+    U1 ID: 121328230
+    Year: 2022.0
+    Authors: Zhang Anqi Imai, Katsushi S
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_27: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Does trade reduce poverty? A view from Africa
+
+  Paper #6233:
+    U1 ID: 121336488
+    Year: 2013.0
+    Authors: Le Goff; Maelan; Singh; Raju Jan
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #6842:
+    U1 ID: 121303775
+    Year: 2014.0
+    Authors: Maëlan Le; Goff; Raju Jan; Singh
+    Journal: Springer, Journal of African Trade
+    DOI: 10.1016/j.joat.2014.06.00
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_28: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Education and Saving: The Long-Term Effects of High School Financial Curriculum Mandates
+
+  Paper #1473:
+    U1 ID: 121333076
+    Year: 1997.0
+    Authors: Bernheim B Douglas, Garrett, Daniel M; Maki Dean M
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1474:
+    U1 ID: 121333572
+    Year: 2001.0
+    Authors: Bernheim B Douglas, Garrett, Daniel M; Maki Dean M
+    Journal: Journal of Public Economics
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_29: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Education and health services in Uganda: quality of inputs, user satisfaction, and community welfare levels
+
+  Paper #10960:
+    U1 ID: 121313969
+    Year: 2017.0
+    Authors: Tsimpo C; Etang A; Wodon Q
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10961:
+    U1 ID: 121330919
+    Year: 2017.0
+    Authors: Tsimpo Nkengne; Clarence; Etang Ndip; Alvin; Wodon; Quentin T
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_3: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Assessing the effectiveness of targeted poverty alleviation policies in Xinjiang, China
+
+  Paper #4980:
+    U1 ID: 121358839
+    Year: 2023.0
+    Authors: Huang Y; Huang X; Li R; Cheng W
+    Journal: Humanities and Social Sciences Communications
+    DOI: 10.1057/s41599-023-01858-w
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+  Paper #12044:
+    U1 ID: 121299146
+    Year: 2023.0
+    Authors: Yujie Huang Xianke, Huang, Ruiliang, Li, Wei, Cheng
+    Journal: Palgrave Macmillan, Palgrave Communications
+    DOI: 10.1057/s41599-023-01858
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_30: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Effects of the Earned Income Tax Credit for Childless Adults: A Regression Discontinuity Approach
+
+  Paper #3298:
+    U1 ID: 121298100
+    Year: 2022.0
+    Authors: nan
+    Journal: National Bureau of Economic Research, Inc, NBER Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #5488:
+    U1 ID: 121299932
+    Year: 2023.0
+    Authors: Jonathan Meer Joshua, Witter
+    Journal: University of Chicago Press, Tax Policy and the Economy
+    DOI: 10.1086/724356
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7259:
+    U1 ID: 121327949
+    Year: 2022.0
+    Authors: Meer Jonathan Witter, Joshua
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_31: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Efficiency and equity of rural land markets and the impact on income: evidence in Kenya and Uganda from 2003 to 2015
+
+  Paper #5891:
+    U1 ID: 121301081
+    Year: 2020.0
+    Authors: Kijima Y; Tabetando R
+    Journal: Land Use Policy
+    DOI: 10.1016/j.landusepol.2019.104416
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10602:
+    U1 ID: 121325729
+    Year: 2019.0
+    Authors: Tabetando R; Kijima Y
+    Journal: GRIPS Discussion Paper - National Graduate Institute for Policy Studies
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_32: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Employment Effects of the Earned Income Tax Credit: Taking the Long View
+
+  Paper #2995:
+    U1 ID: 121301516
+    Year: 2021.0
+    Authors: Diane Whitmore; Schanzenbach; Michael; R Strain
+    Journal: University of Chicago Press, Tax Policy and the Economy
+    DOI: 10.1086/713494
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3385:
+    U1 ID: 121298615
+    Year: 2020.0
+    Authors: nan
+    Journal: National Bureau of Economic Research, Inc, NBER Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9817:
+    U1 ID: 121329122
+    Year: 2020.0
+    Authors: Schanzenbach Diane Whitmore, Strain, Michael R
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_33: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Employment Multipliers from Agricultural Growth and Poverty Reduction: Comments
+
+  Paper #818:
+    U1 ID: 121333476
+    Year: 2001.0
+    Authors: Altaf Zafar
+    Journal: Pakistan Development Review
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9658:
+    U1 ID: 121333475
+    Year: 2001.0
+    Authors: Salam Abdul
+    Journal: Pakistan Development Review
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_34: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Encouragement and Distortionary Effects of Conditional Cash Transfers
+
+  Paper #1872:
+    U1 ID: 121295409
+    Year: 2021.0
+    Authors: Bryan Gharad; Chowdhury Shyamal; Mobarak Ahmed Mushfiq; Morten Melanie; Smits Joeri
+    Journal: Social Science Research Network
+    DOI: nan
+    Engine 1: include
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+  Paper #1874:
+    U1 ID: 121327416
+    Year: 2023.0
+    Authors: Bryan Gharad Chowdhury, Shyamal, Mobarak, Ahmed Mushfiq, Morten
+    Journal: Journal of Public Economics
+    DOI: 10.1016/j.jpubeco.2023.105004
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_35: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Enhanced women's decision-making power after the Suchana intervention in north-eastern Bangladesh: a cluster randomised pre-post study
+
+  Paper #4540:
+    U1 ID: 121295687
+    Year: 2020.0
+    Authors: Haque Mohammed A; Choudhury Nuzhat; Raihan Mohammad Jyoti; Ahmed S M. Tanvir; Islam Kazi Eliza; Self Vanessa; Rahman Shahed; Schofield Lilly; Hall Andrew; Ahmed Tahmeed
+    Journal: BMC Public Health
+    DOI: 10.1186/s12889-020-08769-4
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4542:
+    U1 ID: 121347647
+    Year: 2022.0
+    Authors: Haque Md Ahshanul, Choudhury, Nuzhat, Ahmed, S. M. Tanvir,; Ahmed Tahmeed
+    Journal: BMJ Open
+    DOI: 10.1136/bmjopen-2021-054148
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_36: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Essays in development and behavioral economics
+
+  Paper #5311:
+    U1 ID: 121310518
+    Year: 2016.0
+    Authors: Jang Chaning
+    Journal: Dissertation Abstracts International Section A: Humanities and Social Sciences
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10914:
+    U1 ID: 121309681
+    Year: 2021.0
+    Authors: Trachtman Hannah Rose
+    Journal: Dissertation Abstracts International: Section B: The Sciences and Engineering
+    DOI: nan
+    Engine 1: include
+    Engine 2: include
+    Consensus: include
+
+
+DUP_37: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Estimating the Impacts of Bolivia's Protected Areas on Poverty
+
+  Paper #1989:
+    U1 ID: 121336636
+    Year: 2013.0
+    Authors: Canavire-Bacarreza Gustavo Hanauer, Merlin M
+    Journal: World Development
+    DOI: 10.1016/j.worlddev.2012.06.011
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1998:
+    U1 ID: 121337002
+    Year: 2012.0
+    Authors: Canavire-Bacarreza Gustavo Hanauer, Merlin M
+    Journal: nan
+    DOI: nan
+    Engine 1: include
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_38: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Estimating the impact of agricultural technology on poverty reduction in rural Nigeria
+
+  Paper #8359:
+    U1 ID: 121295254
+    Year: 2009.0
+    Authors: Omilola Babatunde
+    Journal: International Food Policy Research Institute (IFPRI) Discussion Paper Series
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8360:
+    U1 ID: 121336383
+    Year: 2009.0
+    Authors: Omilola B
+    Journal: IFPRI - Discussion Papers
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_39: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Estimating the short-run poverty impacts of the 2010-11 surge in food prices
+
+  Paper #5244:
+    U1 ID: 121319766
+    Year: 2011.0
+    Authors: Ivanic M; Martin W; Zaman H
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #5245:
+    U1 ID: 121337427
+    Year: 2011.0
+    Authors: Ivanic Maros Martin, Will, Zaman, Hassan
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_4: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Asset Transfers and Anti-Poverty Programs: Experimental Evidence from Tanzania
+
+  Paper #1132:
+    U1 ID: 121294960
+    Year: 2024.0
+    Authors: Baird Sarah; Mcintosh Craig; Özler Berk; Pape Utz
+    Journal: Journal of Development Economics
+    DOI: 10.1016/j.jdeveco.2023.103182
+    Engine 1: include
+    Engine 2: maybe
+    Consensus: DISAGREEMENT
+
+  Paper #9754:
+    U1 ID: 121306717
+    Year: 2022.0
+    Authors: Sarah Baird Craig; McIntosh; Berk; Özler; Utz; Pape
+    Journal: Policy Research Working Papers
+    DOI: 10.1596/1813-9450-10251
+    Engine 1: include
+    Engine 2: include
+    Consensus: include
+
+
+DUP_40: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Evaluating Conditional Schooling and Health Programs
+
+  Paper #3476:
+    U1 ID: 121300345
+    Year: 2008.0
+    Authors: nan
+    Journal: Elsevier, Handbook of Development Economics
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8635:
+    U1 ID: 121294977
+    Year: 2007.0
+    Authors: Parker Susan W; Rubalcava Luis; Teruel Graciela
+    Journal: Other
+    DOI: 10.1016/S1573-4471(07)04062-4
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_41: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Evaluating Social Protection Programs in Tajikistan
+
+  Paper #10277:
+    U1 ID: 121326997
+    Year: 2011.0
+    Authors: Son Hyun H
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10294:
+    U1 ID: 121337041
+    Year: 2012.0
+    Authors: Son Hyun H
+    Journal: Journal of Asian Economics
+    DOI: 10.1016/j.asieco.2011.09.002
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_42: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Evaluating the distributional impacts of drought-tolerant maize varieties on productivity and welfare outcomes: an instrumental variable quantile treatment effects approach
+
+  Paper #8307:
+    U1 ID: 121295302
+    Year: 2019.0
+    Authors: Olagunju Kehinde O; Ogunniyi Adebayo I; Awotide Bola A; Adenuga Adewale H; Ashagidigbi Waheed M
+    Journal: Other
+    DOI: 10.1080/17565529.2019.1701401
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8310:
+    U1 ID: 121361737
+    Year: 2020.0
+    Authors: Olagunju Kehinde Oluseyi, Ogunniyi, Adebayo Isaiah, Awotide, Bola A
+    Journal: Climate and Development
+    DOI: 10.1080/17565529.2019.1701401
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_43: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Evaluation and Poverty Reduction: Welcome Addresses
+
+  Paper #7180:
+    U1 ID: 121333619
+    Year: 2000.0
+    Authors: McAllister Elizabeth
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8816:
+    U1 ID: 121333620
+    Year: 2000.0
+    Authors: Piercy Jan
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_44: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Exporting Out of Poverty: Provincial Poverty in Vietnam and U.S. Market Access
+
+  Paper #7183:
+    U1 ID: 121338482
+    Year: 2009.0
+    Authors: McCaig Brian
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7184:
+    U1 ID: 121337248
+    Year: 2011.0
+    Authors: McCaig Brian
+    Journal: Journal of International Economics
+    DOI: 10.1016/j.jinteco.2011.05.007
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_45: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Extreme Weather and Poverty Risk: Evidence from Multiple Shocks in Mozambique
+
+  Paper #5338:
+    U1 ID: 121306907
+    Year: 2018.0
+    Authors: Javier E; Baez; German; Caruso; Chiyu; Niu
+    Journal: Policy Research Working Papers
+    DOI: 10.1596/1813-9450-8667
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #5339:
+    U1 ID: 121301936
+    Year: 2020.0
+    Authors: Javier E Baez, German, Caruso, Chiyu, Niu
+    Journal: Springer, Economics of Disasters and Climate Change
+    DOI: 10.1007/s41885-019-00049
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_46: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: FDI and Inequality in Vietnam: An Approach with Census Data
+
+  Paper #7224:
+    U1 ID: 121331140
+    Year: 2016.0
+    Authors: McLaren John Yoo, Myunghwan
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7225:
+    U1 ID: 121331047
+    Year: 2017.0
+    Authors: McLaren John Yoo, Myunghwan
+    Journal: Journal of Asian Economics
+    DOI: 10.1016/j.asieco.2016.11.002
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_47: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Family Ties, Inheritance Rights, and Successful Poverty Alleviation: Evidence from Ghana
+
+  Paper #3544:
+    U1 ID: 121299497
+    Year: 2014.0
+    Authors: nan
+    Journal: National Bureau of Economic Research, Inc, NBER Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #6131:
+    U1 ID: 121336864
+    Year: 2012.0
+    Authors: Kutsoati Edward Morck, Randall
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_48: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Fighting Covid-19 amidst Civil Conflict: Micro-level Evidence from Burkina Faso
+
+  Paper #9916:
+    U1 ID: 121328232
+    Year: 2022.0
+    Authors: Sepahvand Mohammad Verwimp, Philip
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9917:
+    U1 ID: 121327603
+    Year: 2023.0
+    Authors: Sepahvand Mohammad H; Verwimp Philip
+    Journal: World Development
+    DOI: 10.1016/j.worlddev.2023.106343
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_49: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Fighting in-work poverty: the minimum wage versus in-work benefits
+
+  Paper #1913:
+    U1 ID: 121357754
+    Year: 2024.0
+    Authors: Burkhauser R V; Corinth K; Sabia J J
+    Journal: nan
+    DOI: 10.4337/9781839106958.00024
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3703:
+    U1 ID: 121297730
+    Year: 2024.0
+    Authors: nan
+    Journal: Edward Elgar Publishing, Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_5: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: At Loggerheads? Agricultural Expansion, Poverty Reduction, and Environment in the Tropical Forests
+
+  Paper #860:
+    U1 ID: 121300771
+    Year: 2007.0
+    Authors: nan
+    Journal: The World Bank Group, World Bank Publications - Books
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #2338:
+    U1 ID: 121339706
+    Year: 2007.0
+    Authors: Chomitz Kenneth M
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_50: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Financial Health and the Intensive Margin of Trade
+
+  Paper #666:
+    U1 ID: 121331143
+    Year: 2016.0
+    Authors: Baglan Deniz Yilmazkuday, Hakan
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #667:
+    U1 ID: 121330547
+    Year: 2018.0
+    Authors: Baglan Deniz Yilmazkuday, Hakan
+    Journal: Emerging Markets Finance and Trade
+    DOI: 10.1080/1540496X.2016.1274258
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_51: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Financial Inclusion as a Pathway to Poverty Alleviation and Equality in Latin America: An Empirical Analysis
+
+  Paper #5363:
+    U1 ID: 121297879
+    Year: 2025.0
+    Authors: Jeniffer Rubio Micaela, León
+    Journal: MDPI, JRFM
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9541:
+    U1 ID: 121355253
+    Year: 2025.0
+    Authors: Rubio J; Leon M
+    Journal: Journal of Risk and Financial Management
+    DOI: 10.3390/jrfm18070392
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_52: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Formal and Informal Rural Credit in Four Provinces of Vietnam
+
+  Paper #1279:
+    U1 ID: 121339755
+    Year: 2007.0
+    Authors: Barslund Mikkel Tarp, Finn
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1280:
+    U1 ID: 121339063
+    Year: 2008.0
+    Authors: Barslund Mikkel Tarp, Finn
+    Journal: Journal of Development Studies
+    DOI: 10.1080/00220380801980798
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_53: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Gender differentials and agricultural productivity in Niger
+
+  Paper #819:
+    U1 ID: 121315949
+    Year: 2015.0
+    Authors: Backiny-Yetna P; McGee K
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #820:
+    U1 ID: 121335385
+    Year: 2015.0
+    Authors: Backiny-Yetna Prospere McGee, Kevin
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_54: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: General Equilibrium Effects of (Improving) Public Employment Programs: Experimental Evidence from India
+
+  Paper #7775:
+    U1 ID: 121294951
+    Year: 2017.0
+    Authors: Muralidharan Karthik; Niehaus Paul; Sukhtankar Sandip
+    Journal: NBER Working Paper Series
+    DOI: 10.3386/w23838
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7776:
+    U1 ID: 121330830
+    Year: 2017.0
+    Authors: Muralidharan Karthik Niehaus, Paul, Sukhtankar, Sandip
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7777:
+    U1 ID: 121327535
+    Year: 2023.0
+    Authors: Muralidharan Karthik Niehaus, Paul, Sukhtankar, Sandip
+    Journal: Econometrica
+    DOI: 10.3982/ECTA18181
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_55: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Has Inflation Hurt the Poor? Regional Analysis in the Philippines
+
+  Paper #5048:
+    U1 ID: 121304715
+    Year: 2014.0
+    Authors: Hyun H Son
+    Journal: Better Advances Press, Canada, Review of Economics & Finance
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10275:
+    U1 ID: 121326965
+    Year: 2008.0
+    Authors: Son Hyun
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_56: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Impact of Formal Climate Risk Transfer Mechanisms on Risk-Aversion: Empirical Evidence from Rural Ethiopia
+
+  Paper #4429:
+    U1 ID: 121295362
+    Year: 2019.0
+    Authors: Haile Kaleab K; Nillesen Eleonora; Tirivayi Nyasha
+    Journal: World Development
+    DOI: 10.1016/j.worlddev.2020.104930
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4430:
+    U1 ID: 121329766
+    Year: 2019.0
+    Authors: Haile Kaelab K; Nillesen Eleonora Tirivayi, Nyasha
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_57: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Impact of the targeted poverty alleviation policy on older adults' healthcare utilization: A quasi-experimental analysis from China
+
+  Paper #11389:
+    U1 ID: 121294799
+    Year: 2024.0
+    Authors: Wang Xinfeng; Ye Xin
+    Journal: nan
+    DOI: 10.1016/j.socscimed.2024.117146
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+  Paper #11392:
+    U1 ID: 121309115
+    Year: 2024.0
+    Authors: Wang Xinfeng Ye, Xin, Andersen, R. M. Andersen Anderson M. Dobk
+    Journal: Social Science & Medicine
+    DOI: 10.1016/j.socscimed.2024.117146
+    Engine 1: maybe
+    Engine 2: exclude
+    Consensus: DISAGREEMENT
+
+
+DUP_58: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Impacts of Microfinance Program on Rural Households in Myanmar: An Application of Logistic Regression Model
+
+  Paper #5132:
+    U1 ID: 121297931
+    Year: 2023.0
+    Authors: nan
+    Journal: Springer, Springer Books
+    DOI: 10.1007/978-981-19-9086-1
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #6355:
+    U1 ID: 121359916
+    Year: 2023.0
+    Authors: Lhing N N; Nanseki T
+    Journal: nan
+    DOI: 10.1007/978-981-19-9086-1_10
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_59: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Impacts of an unconditional cash transfer on household food and nutrition security and child health outcomes in Malawi
+
+  Paper #1854:
+    U1 ID: 121295629
+    Year: 2016.0
+    Authors: Brugh Kristen Nichole
+    Journal: The University of North Carolina at Chapel Hill
+    DOI: 10.17615/sage-ev52
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1855:
+    U1 ID: 121310314
+    Year: 2017.0
+    Authors: Brugh Kristen Nichole
+    Journal: Dissertation Abstracts International: Section B: The Sciences and Engineering
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_6: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Basic income: Insights from social experiments and simulations
+
+  Paper #1289:
+    U1 ID: 121298859
+    Year: 2019.0
+    Authors: nan
+    Journal: Edward Elgar Publishing, Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10274:
+    U1 ID: 121309874
+    Year: 2019.0
+    Authors: Sommer Maximilian Gangl, Katharina Kirchler Erich
+    Journal: A research agenda for economic psychology.
+    DOI: 10.4337/9781788116060.00017
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_60: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: In numbers we trust: Measuring impact or institutional performance?
+
+  Paper #11187:
+    U1 ID: 121351194
+    Year: 2010.0
+    Authors: Vik E
+    Journal: Perspectives on Global Development and Technology
+    DOI: 10.1163/156914910X499723
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #11188:
+    U1 ID: 121348448
+    Year: 2013.0
+    Authors: Vik E
+    Journal: nan
+    DOI: 10.1163/b9789004252189_004
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_61: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Income diversification and household welfare in Uganda 1992-2012
+
+  Paper #5811:
+    U1 ID: 121325939
+    Year: 2019.0
+    Authors: Khan R; Morrissey O
+    Journal: CREDIT Research Paper
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #5812:
+    U1 ID: 121329799
+    Year: 2019.0
+    Authors: Khan Rumman Morrissey, Oliver
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_62: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Information and the Control of Productive Assets
+
+  Paper #9062:
+    U1 ID: 121333056
+    Year: 1991.0
+    Authors: Rabin Matthew
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9063:
+    U1 ID: 121334704
+    Year: 1993.0
+    Authors: Rabin Matthew
+    Journal: Journal of Law, Economics, and Organization
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_63: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Insurance and Rural Welfare: What Can Panel Data Tell Us?
+
+  Paper #3329:
+    U1 ID: 121336411
+    Year: 2007.0
+    Authors: Elbers Chris
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3330:
+    U1 ID: 121338237
+    Year: 2009.0
+    Authors: Elbers Chris Gunning, Jan Willem, Pan, Lei
+    Journal: Applied Economics
+    DOI: 10.1080/00036840701367614
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_64: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Intergovernmental Loans: Their Fit into a Transfer System
+
+  Paper #5167:
+    U1 ID: 121300908
+    Year: 2007.0
+    Authors: nan
+    Journal: Springer, Springer Books
+    DOI: 10.1007/978-0-387-48988-9
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #11495:
+    U1 ID: 121332141
+    Year: 2004.0
+    Authors: Weist Dana
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_65: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Intermediaries, transport costs and interlinked transactions
+
+  Paper #6274:
+    U1 ID: 121335999
+    Year: 2013.0
+    Authors: Lefevre Melanie Tharakan, Joe
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #6275:
+    U1 ID: 121313191
+    Year: 2018.0
+    Authors: Lefevre M; Tharakan J
+    Journal: Review of Development Economics
+    DOI: 10.1111/rode.12375
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_66: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Introduction
+
+  Paper #1942:
+    U1 ID: 121307911
+    Year: 2013.0
+    Authors: Byamugisha Frank F. K
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #5447:
+    U1 ID: 121308658
+    Year: 2013.0
+    Authors: Joanna Ledgerwood Julie, Earne, Candace, Nelson
+    Journal: nan
+    DOI: 10.1596/978-0-8213-8927-010.1596/978-0-8213-8927-0_intro
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #6252:
+    U1 ID: 121308585
+    Year: 2013.0
+    Authors: Ledgerwood Joanna
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9413:
+    U1 ID: 121307998
+    Year: 2012.0
+    Authors: Robertson Raymond
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_67: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Is poverty the mother of crime? Empirical evidence of the impact of socioeconomic factors on crime in India
+
+  Paper #922:
+    U1 ID: 121306703
+    Year: 2014.0
+    Authors: Ashish Bharadwaj
+    Journal: Colexio de Economistas de A Coruña, Spain and Fundación Una Galicia Moderna, Economic Analysis Working Papers (2002-2010). Atlantic Review of Economics (2011-2016)
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1527:
+    U1 ID: 121335407
+    Year: 2014.0
+    Authors: Bharadwaj Ashish
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_68: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Jobs from Agriculture in Afghanistan
+
+  Paper #5248:
+    U1 ID: 121307141
+    Year: 2018.0
+    Authors: Izabela Leao Mansur, Ahmed, Anuja, Kar
+    Journal: International Development in Focus
+    DOI: 10.1596/978-1-4648-1265-1
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #5450:
+    U1 ID: 121299765
+    Year: 2018.0
+    Authors: nan
+    Journal: The World Bank Group, World Bank Publications - Books
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_69: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Land Reform, Poverty Reduction, and Growth: Evidence from India
+
+  Paper #1497:
+    U1 ID: 121334036
+    Year: 2000.0
+    Authors: Besley Timothy Burgess, Robin
+    Journal: Quarterly Journal of Economics
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1498:
+    U1 ID: 121337285
+    Year: 2010.0
+    Authors: Besley Timothy Burgess, Robin
+    Journal: nan
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: maybe
+    Consensus: maybe
+
+
+DUP_7: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Beyond income poverty: nonmonetary dimensions of poverty in Uganda
+
+  Paper #3459:
+    U1 ID: 121313970
+    Year: 2017.0
+    Authors: Etang A; Tsimpo C
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3460:
+    U1 ID: 121330918
+    Year: 2017.0
+    Authors: Etang Ndip; Alvin; Tsimpo; Clarence
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_70: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Land Reforms, Poverty Reduction, and Economic Growth: Evidence from India
+
+  Paper #2870:
+    U1 ID: 121295218
+    Year: 2007.0
+    Authors: Deininger Klaus; Jin S; Nagarajan Hari K
+    Journal: World Bank Policy Research Working Paper
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #2883:
+    U1 ID: 121338500
+    Year: 2009.0
+    Authors: Deininger K; Jin S; Nagarajan H K
+    Journal: Journal of Development Studies
+    DOI: 10.1080/00220380902725670
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_71: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Large Learning Gains in Pockets of Extreme Poverty: Experimental Evidence from Guinea Bissau
+
+  Paper #3622:
+    U1 ID: 121329125
+    Year: 2020.0
+    Authors: Fazzio Ila Eble, Alex, Lumsdaine, Robin L; Boone Peter Bouy, Baboucarr, Hsieh, Pei-Tseng Jenny, Jayanty,
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3623:
+    U1 ID: 121295544
+    Year: 2021.0
+    Authors: Fazzio Ila; Eble Alex; Lumsdaine Robin L; Boone Peter; Bouy Baboucarr; Hsieh Pei-Tseng Jenny; Jayanty Chitra; Johnson Simon; Silva Ana Filipa
+    Journal: Journal of Public Economics
+    DOI: 10.1016/j.jpubeco.2021.104385
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_72: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Lessons from New Hope: The impact on children's well-being of a work-based antipoverty program for parents
+
+  Paper #7475:
+    U1 ID: 121312553
+    Year: 2001.0
+    Authors: Mistry Rashmita S; Crosby Danielle A; Huston Althea C; Casey David M; Ripke Marika N; Duncan Greg J. Chase-Lansdale P. Lindsay
+    Journal: For better and for worse: Welfare reform and the well-being of children and families.
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7476:
+    U1 ID: 121354809
+    Year: 2004.0
+    Authors: Mistry R S; Crosby D A; Huston A C; Casey D M; Ripke M N
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: maybe
+    Consensus: DISAGREEMENT
+
+
+DUP_73: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Living Wage Effects: New and Improved Evidence
+
+  Paper #418:
+    U1 ID: 121333103
+    Year: 2003.0
+    Authors: Adams Scott Neumark, David
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #590:
+    U1 ID: 121332355
+    Year: 2005.0
+    Authors: Adams Scott Neumark, David
+    Journal: Economic Development Quarterly
+    DOI: 10.1177/0891242404268639
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_74: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Local Growth and Poverty Reduction
+
+  Paper #785:
+    U1 ID: 121338944
+    Year: 2007.0
+    Authors: Balisacan Arsenio M
+    Journal: nan
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: maybe
+    Consensus: maybe
+
+  Paper #6619:
+    U1 ID: 121299985
+    Year: 2007.0
+    Authors: nan
+    Journal: Edward Elgar Publishing, Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_75: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Long-term impacts of global food crisis on production decisions: evidence from farm investments in Indonesia
+
+  Paper #8135:
+    U1 ID: 121318835
+    Year: 2012.0
+    Authors: Nose M; Yamauchi F
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8136:
+    U1 ID: 121336852
+    Year: 2012.0
+    Authors: Nose Manabu Yamauchi, Futoshi
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_76: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Mainstreaming poverty reduction
+
+  Paper #6899:
+    U1 ID: 121359915
+    Year: 2023.0
+    Authors: nan
+    Journal: nan
+    DOI: 10.4324/9781315067070-36
+    Engine 1: maybe
+    Engine 2: maybe
+    Consensus: maybe
+
+  Paper #6908:
+    U1 ID: 121348793
+    Year: 2013.0
+    Authors: nan
+    Journal: nan
+    DOI: 10.4324/9781315067070
+    Engine 1: maybe
+    Engine 2: maybe
+    Consensus: maybe
+
+
+DUP_77: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Making Agriculture Work for the Poor in Timor-Leste
+
+  Paper #2705:
+    U1 ID: 121326791
+    Year: 2024.0
+    Authors: Darko Francis Addeah, Purnamasari, Ririn Salwa
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #11689:
+    U1 ID: 121307308
+    Year: 2019.0
+    Authors: World Bank
+    Journal: Other Agricultural Study
+    DOI: 10.1596/32017
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_78: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Measuring the Poverty Reduction Potential of Land in Rural Mexico
+
+  Paper #3719:
+    U1 ID: 121336875
+    Year: 2002.0
+    Authors: Finan Frederico Sadoulet, Elisabeth, de Janvry, Alain
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3720:
+    U1 ID: 121332159
+    Year: 2005.0
+    Authors: Finan Frederico Sadoulet, Elisabeth, de Janvry, Alain
+    Journal: Journal of Development Economics
+    DOI: 10.1016/j.jdeveco.2004.02.004
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_79: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Microcredit and poverty alleviation
+
+  Paper #5215:
+    U1 ID: 121349775
+    Year: 2012.0
+    Authors: Islam T
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9191:
+    U1 ID: 121353303
+    Year: 2007.0
+    Authors: Ranade C
+    Journal: Economic and Political Weekly
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_8: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Business Regulations and Poverty
+
+  Paper #3056:
+    U1 ID: 121329778
+    Year: 2019.0
+    Authors: Djankov Simeon Georgieva, Dorina Peteva, Ramalho, Rita
+    Journal: Policy Research Working Papers
+    DOI: 10.1596/1813-9450-8763
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3065:
+    U1 ID: 121330455
+    Year: 2018.0
+    Authors: Djankov Simeon Georgieva, Dorina, Ramalho, Rita
+    Journal: Economics Letters
+    DOI: 10.1016/j.econlet.2018.02.002
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_80: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Microfinance, Poverty and Education
+
+  Paper #197:
+    U1 ID: 121336510
+    Year: 2012.0
+    Authors: Augsburg Britta Haas, Ralph De, Harmgart, Heike, Meghir, Costas
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1758:
+    U1 ID: 121328484
+    Year: 2022.0
+    Authors: Boussetta Asma
+    Journal: Comparative Economic Studies
+    DOI: 10.1057/s41294-021-00145-4
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_81: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Microsavings Mobilization Innovations and Poverty Alleviation in Nigeria
+
+  Paper #568:
+    U1 ID: 121305219
+    Year: 2015.0
+    Authors: Abiola A Babajide, Joseph, N. Taiwo, John, A. Isibor
+    Journal: Richtmann Publishing Ltd, Mediterranean Journal os Social Sciences
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #569:
+    U1 ID: 121330990
+    Year: 2016.0
+    Authors: Abiola A Babajide
+    Journal: Savings and Development
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_82: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Minimum Wage Effects on Wages, Employment and Prices in Brazil
+
+  Paper #6308:
+    U1 ID: 121353209
+    Year: 2007.0
+    Authors: Lemos S
+    Journal: Research in Labor Economics
+    DOI: 10.1016/S0147-9121(06)26011-4
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7452:
+    U1 ID: 121300762
+    Year: 2007.0
+    Authors: nan
+    Journal: Emerald Group Publishing Limited, Research in Labor Economics
+    DOI: 10.1016/S0147-9121(06)260
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_83: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Minimum Wages and Poverty
+
+  Paper #153:
+    U1 ID: 121334204
+    Year: 1999.0
+    Authors: Addison John T; Blackburn McKinley L
+    Journal: Industrial and Labor Relations Review
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #3700:
+    U1 ID: 121336728
+    Year: 2005.0
+    Authors: Fields Gary S; Kanbur Ravi
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_84: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Minimum Wages and Poverty in a Developing Country: Simulations from Indonesia's Household Survey
+
+  Paper #1600:
+    U1 ID: 121332074
+    Year: 2005.0
+    Authors: Bird Kelly Manning, Chris
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1606:
+    U1 ID: 121339102
+    Year: 2008.0
+    Authors: Bird Kelly Manning, Chris
+    Journal: World Development
+    DOI: 10.1016/j.worlddev.2007.05.012
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_85: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Minimum Wages, Globalization, and Poverty in Honduras
+
+  Paper #4142:
+    U1 ID: 121338591
+    Year: 2008.0
+    Authors: Gindling T H; Terrell Katherine
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #4143:
+    U1 ID: 121337959
+    Year: 2010.0
+    Authors: Gindling T H; Terrell Katherine
+    Journal: World Development
+    DOI: 10.1016/j.worlddev.2010.02.013
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_86: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Monitoring Targeting Performance When Decentralized Allocations to the Poor Are Unobserved
+
+  Paper #9252:
+    U1 ID: 121332876
+    Year: 1999.0
+    Authors: Ravallion Martin
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #9254:
+    U1 ID: 121333995
+    Year: 2000.0
+    Authors: Ravallion Martin
+    Journal: World Bank Economic Review
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_87: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Multidimensional poverty of children in Mozambique
+
+  Paper #6886:
+    U1 ID: 121330152
+    Year: 2018.0
+    Authors: Mahrt Kristi Rossi, Andrea, Salvucci, Vincenzo, Tarp, Finn
+    Journal: WIDER Working Papers
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #6887:
+    U1 ID: 121364302
+    Year: 2020.0
+    Authors: Mahrt Kristi Rossi, Andrea, Salvucci, Vincenzo, Tarp, Finn
+    Journal: Child Indicators Research
+    DOI: 10.1007/s12187-019-09696-6
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_88: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: New Convergences in Poverty Reduction, Conflict, and State Fragility: What Business Should Know
+
+  Paper #1720:
+    U1 ID: 121304629
+    Year: 2009.0
+    Authors: Borany Penh
+    Journal: Springer, Journal of Business Ethics
+    DOI: 10.1007/s10551-010-0404-6
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8727:
+    U1 ID: 121337284
+    Year: 2011.0
+    Authors: Penh Borany
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_89: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Open Access Renewable Resources, Urban Unemployment, and the Resolution of Dual Institutional Failures
+
+  Paper #2649:
+    U1 ID: 121329805
+    Year: 2019.0
+    Authors: Daitoh Ichiroh Tarui, Nori
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #2650:
+    U1 ID: 121328190
+    Year: 2022.0
+    Authors: Daitoh Ichiroh Tarui, Nori
+    Journal: Environment and Development Economics
+    DOI: 10.1017/S1355770X21000334
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_9: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Can Skill Diversification Improve Welfare in Rural Areas? Evidence from the Rural Skills Development Project in Bhutan
+
+  Paper #2389:
+    U1 ID: 121294747
+    Year: 2011.0
+    Authors: Chun Natalie; Watanabe Makiko
+    Journal: Asian Development Bank (ADB) Economics Working Paper Series
+    DOI: 10.2139/ssrn.1878207
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #2391:
+    U1 ID: 121326973
+    Year: 2011.0
+    Authors: Chun Natalie Watanabe, Makiko
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_90: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Overview
+
+  Paper #3211:
+    U1 ID: 121308572
+    Year: 2014.0
+    Authors: Dundar Halil Béteille, Tara, Riboud, Michelle, Deolalikar, Anil
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #6674:
+    U1 ID: 121308588
+    Year: 2012.0
+    Authors: Lopez-Acevedo Gladys Robertson, Raymond
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #6675:
+    U1 ID: 121308538
+    Year: 2016.0
+    Authors: Lopez-Acevedo Gladys Robertson, Raymond
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7122:
+    U1 ID: 121308532
+    Year: 2016.0
+    Authors: Mateo Díaz; Mercedes; Rodriguez-Chamussy; Lourdes
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10131:
+    U1 ID: 121308556
+    Year: 2015.0
+    Authors: Silva Joana Almeida, Rita, Strokova, Victoria
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_91: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Policies, prices, and poverty: the sugar, vegetable oil, and flour industries in Senegal
+
+  Paper #7174:
+    U1 ID: 121315743
+    Year: 2015.0
+    Authors: Mbaye A A; Golub S S; English P
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7175:
+    U1 ID: 121335293
+    Year: 2015.0
+    Authors: Mbaye Ahmadou Aly, Golub, Stephen S; English E Philip
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_92: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Politics and the Effectiveness of Foreign Aid
+
+  Paper #1711:
+    U1 ID: 121338387
+    Year: 1995.0
+    Authors: Boone Peter
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #1712:
+    U1 ID: 121334524
+    Year: 1996.0
+    Authors: Boone Peter
+    Journal: European Economic Review
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_93: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Poor households' productive investments of cash transfers: quasi-experimental evidence from Niger
+
+  Paper #10418:
+    U1 ID: 121331390
+    Year: 2016.0
+    Authors: Stoeffler Quentin Mills, Bradford F; Premand Patrick
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #10420:
+    U1 ID: 121341923
+    Year: 2016.0
+    Authors: Stoeffler Q; Mills B; Premand P
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_94: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Poverty Alleviation
+
+  Paper #2579:
+    U1 ID: 121361258
+    Year: 2022.0
+    Authors: Croes R
+    Journal: nan
+    DOI: 10.4337/9781800377486.poverty.alleviation
+    Engine 1: maybe
+    Engine 2: maybe
+    Consensus: maybe
+
+  Paper #8786:
+    U1 ID: 121334661
+    Year: 1991.0
+    Authors: Pfeffermann Guy P
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8884:
+    U1 ID: 121349036
+    Year: 2013.0
+    Authors: nan
+    Journal: nan
+    DOI: 10.1007/978-3-642-28036-8_101189
+    Engine 1: maybe
+    Engine 2: maybe
+    Consensus: maybe
+
+  Paper #8885:
+    U1 ID: 121348009
+    Year: 2014.0
+    Authors: nan
+    Journal: nan
+    DOI: 10.1007/978-94-024-1179-9_301264
+    Engine 1: maybe
+    Engine 2: maybe
+    Consensus: maybe
+
+  Paper #9172:
+    U1 ID: 121304613
+    Year: 2010.0
+    Authors: Rama Charan; Tripathi
+    Journal: , Psychology and Developing Societies
+    DOI: 10.1177/09713336100220020
+    Engine 1: maybe
+    Engine 2: maybe
+    Consensus: maybe
+
+
+DUP_95: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Poverty Alleviation with Microfinance: Bangladesh Evidence
+
+  Paper #4402:
+    U1 ID: 121330534
+    Year: 2015.0
+    Authors: Habib Mohshin Jubb, Christine
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8892:
+    U1 ID: 121299049
+    Year: 2015.0
+    Authors: nan
+    Journal: Springer, Economic Studies in Inequality, Social Exclusion, and Well-Being
+    DOI: 10.1007/978-981-287-420-7
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_96: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Poverty Alleviation: Comments
+
+  Paper #6812:
+    U1 ID: 121334660
+    Year: 1991.0
+    Authors: Macedo Roberto
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #7977:
+    U1 ID: 121334659
+    Year: 1991.0
+    Authors: Nelson Joan M
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #11061:
+    U1 ID: 121334658
+    Year: 1991.0
+    Authors: Urrutia Miguel
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_97: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Poverty Reduction
+
+  Paper #6758:
+    U1 ID: 121334084
+    Year: 2000.0
+    Authors: Lustig Nora Arias, Omar
+    Journal: Finance and Development
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8433:
+    U1 ID: 121340319
+    Year: 2004.0
+    Authors: Ortiz Isabel
+    Journal: nan
+    DOI: nan
+    Engine 1: maybe
+    Engine 2: maybe
+    Consensus: maybe
+
+
+DUP_98: TITLE_COLLISION
+--------------------------------------------------------------------------------
+Title: Poverty Traps and the Social Protection Paradox
+
+  Paper #5090:
+    U1 ID: 121331401
+    Year: 2016.0
+    Authors: Ikegami Munenobu Carter, Michael R; Barrett Christopher B; Janzen Sarah A
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #8897:
+    U1 ID: 121299531
+    Year: 2017.0
+    Authors: nan
+    Journal: National Bureau of Economic Research, Inc, NBER Chapters
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+
+DUP_99: SAME_WORK_DIFFERENT_VERSION
+--------------------------------------------------------------------------------
+Title: Poverty decline, agricultural wages, and non-farm employment in rural India: 1983-2004
+
+  Paper #6194:
+    U1 ID: 121320787
+    Year: 2009.0
+    Authors: Lanjouw P; Murgai R
+    Journal: Policy Research Working Paper - World Bank
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+
+  Paper #6195:
+    U1 ID: 121338540
+    Year: 2009.0
+    Authors: Lanjouw Peter Murgai, Rinku
+    Journal: nan
+    DOI: nan
+    Engine 1: exclude
+    Engine 2: exclude
+    Consensus: exclude
+

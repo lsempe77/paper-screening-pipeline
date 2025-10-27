@@ -55,6 +55,15 @@ Repair tool for corrupted CSV files.
 - Fixes newline/quote/tab issues
 - Adds UTF-8 BOM for Excel compatibility
 
+### `verify_and_mark_duplicates.py` 🔍 **VERIFICATION**
+**Comprehensive duplicate analysis and verification tool.**
+- Confirms zero duplicate U1 IDs in final CSV
+- Identifies and marks title duplicates with detailed classification
+- Distinguishes between "same work/different versions" vs "title collisions"
+- Creates detailed duplicate report for manual review
+- Adds columns: duplicate_status, duplicate_type, duplicate_group_id, duplicate_notes
+- **Use this to verify data quality before final analysis**
+
 ### `generate_codebook.py`
 PDF codebook generator for data documentation.
 - Comprehensive variable documentation
@@ -82,8 +91,11 @@ python tools/export_csv_compact.py data/output/dual_engine_results_with_u1_FIXED
 # Step 3: (Optional) Remove duplicates if any exist
 python tools/deduplicate_csv.py data/output/results.csv
 
-# Step 4: (Optional) Generate documentation
-python tools/generate_codebook.py data/output/results_COMPACT.csv
+# Step 4: Verify data quality and mark duplicates
+python tools/verify_and_mark_duplicates.py data/output/results_COMPACT.csv
+
+# Step 5: (Optional) Generate documentation
+python tools/generate_codebook.py data/output/screening_results_FINAL.csv
 ```
 
 ### Fix Existing CSV Issues
@@ -95,7 +107,12 @@ python tools/deduplicate_csv.py old_file_with_duplicates.csv
 python tools/fix_csv_escaping.py corrupted_file.csv
 
 # Create compact version from large CSV
-python tools/export_csv_compact.py large_file_with_abstracts.csv
+# Create compact version from large CSV
+python tools/export_csv_compact.py large_file.csv
+
+# Verify final data quality
+python tools/verify_and_mark_duplicates.py final_file.csv
+```
 ```
 
 ### Analyze Results
@@ -138,9 +155,34 @@ python tools/export_csv_compact.py your_file.csv
 python tools/fix_csv_escaping.py your_file.csv
 ```
 
+### Issue: Need to Verify Data Quality
+**Solution:** Use verification tool to check for duplicates
+```bash
+python tools/verify_and_mark_duplicates.py your_file.csv
+```
+This will:
+- Confirm zero duplicate U1 IDs
+- Identify title duplicates (same work vs different papers)
+- Add duplicate classification columns
+- Generate detailed report for manual review
+
 ## 📝 Output File Naming Convention
 
 - `*_with_u1_FIXED_*.csv` - Proper U1 mapping
 - `*_DEDUPLICATED_*.csv` - Duplicate U1 IDs removed
 - `*_COMPACT_*.csv` - Large text fields removed (recommended)
 - `*_FIXED_ESCAPING_*.csv` - Re-exported with better escaping
+- `screening_results_FINAL_*.csv` - Verified with duplicate analysis columns
+- `duplicate_report_*.txt` - Detailed duplicate analysis report
+
+## 🏆 Production-Ready Workflow Summary
+
+**Complete workflow for processing screening results:**
+
+1. ✅ **Export**: `export_with_u1_fixed.py` (proper U1 mapping)
+2. ✅ **Compact**: `export_csv_compact.py` (remove large text, prevent corruption)
+3. ✅ **Clean**: `deduplicate_csv.py` (remove any duplicate U1 IDs)
+4. ✅ **Verify**: `verify_and_mark_duplicates.py` (comprehensive duplicate analysis)
+5. ✅ **Document**: `generate_codebook.py` (PDF documentation)
+
+**Result**: Production-ready CSV with zero duplicate U1 IDs, duplicate classification, and comprehensive documentation.

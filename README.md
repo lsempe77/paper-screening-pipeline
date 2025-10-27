@@ -19,6 +19,7 @@ This pipeline revolutionizes systematic review screening through:
 - **Agreement Rate**: 93% between engines
 - **Processing Speed**: 39.6 papers/minute
 - **Human Review Required**: 7% (872 papers)
+- **Final Dataset**: 12,359 unique papers (zero duplicate U1 IDs)
 
 ## 🏗️ **System Architecture**
 
@@ -41,6 +42,7 @@ paper-screening-pipeline/
 ├── 🛠️ tools/                     # Analysis and export utilities
 │   ├── export_with_u1_fixed.py   # Fixed CSV export with proper U1 mapping ⭐
 │   ├── export_csv_compact.py     # Compact export without abstracts (recommended) 🎯
+│   ├── verify_and_mark_duplicates.py # Comprehensive duplicate verification 🔍
 │   ├── deduplicate_csv.py        # Remove duplicate U1 IDs
 │   ├── fix_csv_escaping.py       # Fix CSV corruption issues
 │   ├── generate_codebook.py      # PDF documentation generator
@@ -135,8 +137,11 @@ python tools/export_csv_compact.py data/output/dual_engine_results_with_u1_FIXED
 # (Optional) Remove any duplicate U1 IDs
 python tools/deduplicate_csv.py data/output/results.csv
 
+# Verify data quality and mark duplicates (RECOMMENDED)
+python tools/verify_and_mark_duplicates.py data/output/results_COMPACT.csv
+
 # Generate comprehensive codebook
-python tools/generate_codebook.py data/output/results_COMPACT.csv
+python tools/generate_codebook.py data/output/screening_results_FINAL.csv
 ```
 
 #### **📊 Analysis and Export**
