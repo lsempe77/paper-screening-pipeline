@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'South African Social Grants Program' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence this is a graduation program. While cash support is present, there is no asset component, and no mention of graduation/TUP terminology."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in South Africa, which is classified as an upper-middle income country (LMIC)."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'social grants', is_loan_or_credit = 'NO'. Program provides monthly social grants which are not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "labor supply"
+    ],
+    "tertiary_outcomes": [
+      "farming participation",
+      "agricultural production"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses quantitative impact evaluation methods: 'Generalised propensity score (GPS) matching method and ordinary least squares', is_review_or_policy_analysis = false."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings with a sample size of 984."
+  }
+}

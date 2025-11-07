@@ -1,0 +1,57 @@
+{
+  "paper_metadata": {
+    "title": "Payment for watershed ecosystem services and farmers' income: Evidence from China's Xin'an River Basin",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Payment for watershed ecosystem services (PES)",
+    "country": "China",
+    "region": "Xin'an River Basin",
+    "target_population": "Farmers in watershed areas"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "environmental service payments",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "land users, who lack enthusiasm for protecting or restoring natural resources in the absence of direct incentives, will become motivated if they receive direct payment from service users who cover at least their opportunity costs of using the land"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income",
+      "poverty reduction",
+      "labor transfer",
+      "agricultural restructuring"
+    ],
+    "outcomes_evidence_citation": "The results show that PES programs increase farmers' income and that the poverty reduction effect is sustainable. The PES programs mainly increase the farmers' income in conservation intervention areas through two paths: triggering the transfer of agricultural labor and promoting agricultural restructuring.",
+    "study_design": "Difference-in-differences",
+    "design_evidence_citation": "This study evaluates the effect of payment for watershed ecosystem services on farmers' income in conservation intervention areas using a difference-in-differences model",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2006-2019",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Payment for watershed ecosystem services (PES) has been applied to water conservation and poverty reduction in an increasing number of developing countries.",
+    "country_citation": "This study evaluates the effect of payment for watershed ecosystem services on farmers' income in conservation intervention areas using a difference-in-differences model and a panel dataset that covers 18 countries in the Xin'an River Basin in China",
+    "target_population_citation": "PES programs will inevitably affect the production and livelihoods of farmers in poor regions given the frequent spatial correlation between areas that supply environmental services and poor areas"
+  }
+}

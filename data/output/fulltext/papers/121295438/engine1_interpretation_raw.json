@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Tamil Nadu Empowerment and Poverty Reduction (Pudhu Vaazhvu) Project (PVP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - neither cash support nor asset provision is documented in the extracted information, and no explicit mention of graduation/TUP approach"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in India (Tamil Nadu state), which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash transfers or consumption support in extracted information"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no evidence of productive asset provision in extracted information"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "economic welfare"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "women's empowerment",
+      "debt reduction",
+      "livelihoods diversification",
+      "political participation",
+      "social cohesion"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Propensity Score Matching (PSM)', is_review_or_policy_analysis = false. Uses appropriate quasi-experimental methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2005-2011 with results presented"
+  }
+}

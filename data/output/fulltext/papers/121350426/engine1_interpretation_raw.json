@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Bono de Desarrollo Humano (BDH)' is clearly identified"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash transfers, it lacks the productive asset component required for graduation programs. No mention of graduation/TUP approach in program description."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ecuador, which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'unconditional cash transfer', amount = '$15 USD per month', is_loan_or_credit = 'NO'. Program provides regular cash transfers."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "child outcomes",
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from 2004-2006."
+  }
+}

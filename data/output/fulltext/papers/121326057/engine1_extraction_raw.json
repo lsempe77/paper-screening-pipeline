@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "Social grants and wild foods alleviate household food insecurity in South Africa",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "South African Social Grants Program",
+    "country": "South Africa",
+    "region": "Three South African towns along agro-ecological gradient",
+    "target_population": "Poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "social grants",
+      "cash_amount": "R524 per month per person",
+      "cash_frequency": "monthly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The South African government introduced social grants to enhance income of poor households and has contributed in improving poverty and food security for many poor households in the country"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security",
+      "consumption/expenditure",
+      "dietary diversity",
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "We explored the differences in household food security indicators, mean monthly food expenditure and wealth index between households receiving social grants, households consuming wild foods, and those who did not.",
+    "study_design": "Observational",
+    "design_evidence_citation": "Household surveys and focus group discussions were conducted along the rural-urban continuum in three South African towns situated along an agro-ecological gradient.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "focus group discussions"
+    ],
+    "qualitative_evidence_citation": "Household surveys and focus group discussions were conducted along the rural-urban continuum",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The South African government introduced social grants to enhance income of poor households",
+    "country_citation": "In South Africa, social grants and the use of wild foods have been reported as some ways to improve household food insecurity and reduce poverty.",
+    "target_population_citation": "About 56% of South Africa's population live in poverty and almost 28% in extreme poverty, below the food poverty line"
+  }
+}

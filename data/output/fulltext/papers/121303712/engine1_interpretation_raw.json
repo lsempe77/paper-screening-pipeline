@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Innovation Platforms (IPs) under Sub-Sahara African Challenge Program (SSA CP)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation/TUP program components. Neither cash support (component_a_present = false) nor productive assets (component_b_present = false) are present."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Central Africa, which comprises low and middle-income countries."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false, no evidence of cash transfers or consumption support provided."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, no evidence of productive assets being provided to participants."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty"
+    ],
+    "secondary_outcomes": [
+      "food consumption"
+    ],
+    "tertiary_outcomes": [
+      "agricultural innovation adoption"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted during 2008-2010 and presents finished findings."
+  }
+}

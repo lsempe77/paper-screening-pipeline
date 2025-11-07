@@ -1,0 +1,54 @@
+{
+  "paper_metadata": {
+    "title": "Indonesian poverty alleviation programs after the Asian financial crisis",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Bantuan Langsung Tunai (BLT)",
+    "country": "Indonesia",
+    "region": "National",
+    "target_population": "Poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "unconditional cash transfer",
+      "cash_amount": null,
+      "cash_frequency": "during crises",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "an unconditional cash transfer program (Bantuan Langsung Tunai, or BLT) | The unconditional cash transfer is intended to be used only during crises"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "The difficulty of resolving the problem of poverty immediately after the Asian financial crisis of 1997-98 gave rise to thoughts about the necessity for a stronger focus on results",
+    "study_design": "Policy analysis",
+    "design_evidence_citation": "In 2005, with analysis showing that blanket subsidies were mainly benefiting the non-poor, the Indonesian government took the tough political decision to reduce fuel subsidies",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": "2005-2007",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "an unconditional cash transfer program (Bantuan Langsung Tunai, or BLT)",
+    "country_citation": "the Indonesian government took the tough political decision to reduce fuel subsidies",
+    "target_population_citation": "To protect poor households from the impact of these price increases"
+  }
+}

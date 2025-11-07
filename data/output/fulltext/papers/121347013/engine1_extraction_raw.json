@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Effectiveness of a Family-Based Economic Empowerment Intervention on Multidimensional Poverty Among Adolescents Living with HIV in Uganda: Results from a Longitudinal Cluster Randomized Trial",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Suubi+Adherence",
+    "country": "Uganda",
+    "region": "Southern Uganda",
+    "target_population": "Adolescents living with HIV (ALWHIV)"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "health",
+      "assets",
+      "housing",
+      "family dynamics"
+    ],
+    "outcomes_evidence_citation": "We constructed a Multidimensional Poverty Index of individual and household indicators, including health, assets, housing and family dynamics",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "a longitudinal randomized control trial (2012-2018) with 702 adolescents living with HIV",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2012-2018",
+    "sample_size": 702,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "we use data from Suubi+Adherence, a longitudinal randomized control trial",
+    "country_citation": "among ALWHIV in Southern Uganda",
+    "target_population_citation": "with 702 adolescents living with HIV (ALWHIV)"
+  }
+}

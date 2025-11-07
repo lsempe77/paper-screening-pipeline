@@ -1,0 +1,38 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Productive Safety Net Programme (PSNP)' is clearly identified"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash support, there is no evidence of productive asset provision, and no explicit mention of this being a graduation/TUP program"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'unconditional cash transfers and cash for public works', is_loan_or_credit = 'NO'. Program provides cash support through both unconditional transfers and public works"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = []. No evidence of productive asset provision in the extracted information"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "food security",
+      "nutrition"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Random effects with instrumental variable', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings"
+  }
+}

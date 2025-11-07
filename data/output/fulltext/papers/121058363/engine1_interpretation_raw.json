@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Tingathe Economic Empowerment Programme (TEEP)' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program targets ultra-poor households, it only has cash support (lump-sum transfer) without direct asset provision. No explicit mention of being a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Malawi (Mwanza district), which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, is_loan_or_credit = 'NO'. Program provides a one-time lump-sum transfer, not a loan."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, direct_provision = 'NO'. No evidence of productive asset provision by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "social cohesion",
+      "trust",
+      "cooperation",
+      "social relationships"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While study_design is 'Randomized Controlled Trial (RCT)' and is_review_or_policy_analysis = false, the study only measures tertiary outcomes (social cohesion, trust, cooperation, social relationships) with no primary or secondary outcomes measured."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

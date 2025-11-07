@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Effects of the Cocoa Life Project extension program on farm productivity and income of cocoa farmers in Ghana",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Cocoa Life Project (CLP)",
+    "country": "Ghana",
+    "region": "Eastern Region",
+    "target_population": "Smallholder cocoa farmers"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "farm productivity",
+      "income/earnings"
+    ],
+    "outcomes_evidence_citation": "This study highlighted the effects of the Cocoa Life Project (CLP) by Cooperative for Assistance and Relief Everywhere (CARE) International on farm productivity and income of 200 cocoa farmers",
+    "study_design": "Quasi-experimental",
+    "design_evidence_citation": "Regression on covariates, Heckman's treatment effects model, and propensity scores were used to test the robustness of the estimates",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 200,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This study highlighted the effects of the Cocoa Life Project (CLP) by Cooperative for Assistance and Relief Everywhere (CARE) International",
+    "country_citation": "in three districts of the Eastern Region, Ghana",
+    "target_population_citation": "the sector is dominated by smallholders cultivating on land plots less than 2 ha, employing traditional production methods, and obtaining low yields"
+  }
+}

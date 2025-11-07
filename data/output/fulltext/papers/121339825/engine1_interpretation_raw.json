@@ -1,0 +1,35 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Public Works Employment Programs' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation/TUP program components - neither cash support nor productive assets are present according to the extracted information."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Philippines, which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash transfers or consumption support in extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], no evidence of productive asset provision in extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Policy analysis and case studies' and is_review_or_policy_analysis = true. This is a policy analysis rather than a quantitative impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished findings."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Lesotho Child Grant Programme (CGP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Not a graduation program - only has cash transfers (component_a_present = true) but no productive asset provision (component_b_present = false). No mention of graduation/TUP approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Lesotho, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "Program provides unconditional cash transfers (360-750 maloti quarterly), component_a_present = true, is_loan_or_credit = NO"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, no assets provided, direct_provision = NO"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "food security",
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "education",
+      "livelihoods"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses Randomized Controlled Trial (RCT) design, is_review_or_policy_analysis = false"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study presents finished findings"
+  }
+}

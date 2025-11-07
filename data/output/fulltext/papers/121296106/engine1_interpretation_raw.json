@@ -1,0 +1,45 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Productive Safety Nets Programme (PSNP)' in Ethiopia"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash support, it lacks the direct provision of productive assets characteristic of graduation programs. No explicit mention of being a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia, which is a low-income country, specifically in regions of Tigray, Amhara, Oromiya, and SNNPR"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, provides cash transfers of 6 birr per day for public works participants, is_loan_or_credit = NO"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, direct_provision = NO. No evidence of direct asset provision by the program"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "labor supply"
+    ],
+    "tertiary_outcomes": [
+      "credit access",
+      "agricultural technology adoption",
+      "non-farm business activities"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses quasi-experimental design (Propensity Score Matching), is_review_or_policy_analysis = false"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study presents finished findings with a sample size of 3700"
+  }
+}

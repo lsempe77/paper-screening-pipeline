@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Trickle Up Graduation Program' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program is explicitly identified as a graduation program ('Trickle Up Graduation Program') and includes both core components: consumption support (component_a_present = true) and direct asset provision (component_b_present = true, direct_provision = 'YES')."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study was conducted in Burkina Faso (Nord region), which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, type = 'consumption support', and is_loan_or_credit = 'NO'. Program provides consumption support that is not a loan."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true, direct_provision = 'YES', with assets_provided including 'livestock', 'sewing machines', and 'commodities for small shops'. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "asset accumulation",
+      "savings/financial",
+      "expenditure"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "women's empowerment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

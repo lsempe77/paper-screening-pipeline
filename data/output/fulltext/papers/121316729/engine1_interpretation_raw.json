@@ -1,0 +1,46 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Tanzania Social Action Fund (TASAF) Productive Social Safety Net (PSSN)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While program has both cash transfers and public works components, it is not explicitly identified as a graduation/TUP program. The assets provided are community-level infrastructure rather than productive assets directly to households."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Tanzania, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "Program provides both conditional and unconditional cash transfers (TZS 10,000 basic transfer plus variable amounts), confirmed as not loans (is_loan_or_credit = NO)"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "While component_b_present = true and direct_provision = YES, the assets provided are community-level infrastructure ('community assets through public works, social infrastructure, water supplies') rather than productive assets given directly to households"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "consumption",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "health",
+      "productive activities"
+    ],
+    "tertiary_outcomes": [
+      "education",
+      "local economy effects"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses Local economy-wide impact evaluation (LEWIE) methodology, is_review_or_policy_analysis = false, indicating quantitative impact evaluation approach"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2013-2019 with results presented"
+  }
+}

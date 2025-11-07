@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program identified as 'Vietnam Government Support Programs' targeting rural and ethnic minority households in Ha Giang province."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation program - lacks cash/consumption support component and while assets are provided (electricity/housing), these are not typical productive assets associated with graduation programs."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Vietnam, which is a lower-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash or consumption support provided."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "While component_b_assets.present = true and direct_provision = 'YES', the assets provided (electricity and housing support) are not productive assets. These are basic infrastructure/welfare support rather than income-generating assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "multidimensional poverty"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses quantitative methods (observational design) and is_review_or_policy_analysis = false."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished research findings with a sample size of 1383."
+  }
+}

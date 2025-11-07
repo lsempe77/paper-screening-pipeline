@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program type 'Land titling and registration programs' is clearly identified, though it refers to a category of programs rather than a specific named intervention."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components. Neither cash support nor asset provision are present, and no mention of graduation/TUP terminology."
+  },
+  "criterion_1_lmic": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While paper mentions 'developing and transitional countries', no specific country is identified in the extracted information."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, with no evidence of any cash transfer or consumption support component."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "economic development"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Literature review/policy analysis' and is_review_or_policy_analysis = true. This is a review rather than a primary impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished findings."
+  }
+}

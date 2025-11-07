@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Northwest Area Foundation Programs' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components. No cash support (only loans) and no asset provision mentioned. Not described as a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "NO",
+    "reasoning": "Program implemented in United States (specifically in 8 states: Minnesota, Iowa, North Dakota, South Dakota, Montana, Idaho, Oregon and Washington), which is a high-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false and is_loan_or_credit = 'YES'. Program appears to offer loans/credit rather than cash transfers or consumption support."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "economic development",
+      "community leadership",
+      "social cohesion"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Case study' and is_review_or_policy_analysis = true. Does not use quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "NO",
+    "reasoning": "completed = false. Study does not present finished research findings."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Multiple specific interventions are clearly identified: agricultural extension, subsidized agricultural inputs, and poultry transfers programs being compared to cash transfers."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes both cash transfers and productive assets, it is not explicitly identified as a graduation/TUP program. This appears to be a comparative study of separate interventions rather than an integrated graduation approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Kenya, which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'cash transfer', is_loan_or_credit = 'NO'. Program includes cash transfers, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'poultry' and 'agricultural inputs', direct_provision = 'YES'. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": [
+      "psychological well-being",
+      "autonomy"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

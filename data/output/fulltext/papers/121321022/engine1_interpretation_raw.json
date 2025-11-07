@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'BRAC Ultra-Poor Programme' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program has both core graduation components: monthly consumption support (not loans) and direct provision of productive assets through asset grants. The program name 'Ultra-Poor Programme' also suggests graduation approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'monthly stipend for subsistence', is_loan_or_credit = 'NO'. Program provides regular cash support for consumption."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'asset grants for income generation', direct_provision = 'YES'. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "health behavior"
+    ],
+    "tertiary_outcomes": [
+      "health knowledge",
+      "social development"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Case study', which does not qualify as a rigorous quantitative impact evaluation method. Case studies without comparison groups are excluded."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

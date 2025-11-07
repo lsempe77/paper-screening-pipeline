@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name clearly identified as 'Pastoralist Areas Resilience Improvement through Market Expansion (PRIME)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - both cash support and asset provision are absent (component_a_present = false, component_b_present = false). No mention of graduation/TUP terminology."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia (Afar, Oromiya and Somali Regional States), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false, no evidence of cash support or consumption support provided in extracted information"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, no evidence of productive assets being provided in extracted information"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "nutrition"
+    ],
+    "tertiary_outcomes": [
+      "livestock production",
+      "climate adaptation",
+      "livelihood diversification",
+      "drought resilience"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2012-2017 with results presented"
+  }
+}

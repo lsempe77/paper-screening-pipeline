@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "Effects of BRAC's Targeting the Ultra-poor Program in Bangladesh",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "BRAC Targeting the Ultra-Poor (TUP) Program",
+    "country": "Bangladesh",
+    "region": "15 poorest districts",
+    "target_population": "Ultra-poor households, particularly women",
+    "program_name_citation": "In 2002, BRAC developed and implemented an innovative anti-poverty program called \"Challenging the Frontiers of Poverty Reduction: Targeting the Ultra-poor, Targeting Social Constraints\" (henceforth TUP)",
+    "country_citation": "It covered 100,000 ultra-poor households from 15 of the poorest districts of Bangladesh over a period of five years",
+    "target_population_citation": "It focuses on developing human capital (health, education, and training) and physical capital (asset transfers) for poor women with the goal of helping them graduate to the standard micro-credit program of BRAC"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "livestock (cow/bulls, goat/sheep, duck/hens)"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "With respect to livestock foot_17, tubewells and quilts/blankets, there is a strong positive impact on the ultra-poor group SB 1"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income",
+      "food security",
+      "health",
+      "asset accumulation",
+      "housing quality",
+      "women's empowerment"
+    ],
+    "outcomes_evidence_citation": "This paper uses a two period panel data set (2002, 2005) to analyze the effects of the first phase of the TUP program on a set of household outcomes including income, food security, health, productive assets, household durable goods, and women empowerment",
+    "study_design": "Difference-in-differences with matching",
+    "design_evidence_citation": "In particular, we use the difference-in-difference matching estimator (Heckman et. al., 1998, Todd, 2007) that combines a difference-in-difference approach with the matching technique to eliminate the time invariant unobserved heterogeneity",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2002-2005",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  }
+}

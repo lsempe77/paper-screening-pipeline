@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Impact of Productive Safety Net Program intervention on food security of rural households in rural western Ethiopia",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Productive Safety Net Program (PSNP)",
+    "country": "Ethiopia",
+    "region": "Western Ethiopia",
+    "target_population": "Rural households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security/nutrition",
+      "consumption/expenditure"
+    ],
+    "outcomes_evidence_citation": "This study examined the impact of Productive Safety Net Program intervention on food security of rural households in rural western Ethiopia... The mean energy available for the beneficiary and non-beneficiary households is 2488.500 and 2153.394 kcal, respectively.",
+    "study_design": "Cross-sectional survey with Propensity Score Matching",
+    "design_evidence_citation": "A cross-sectional survey data were gathered from a total of randomly selected 188 beneficiary and non-beneficiary sample households... The propensity score matching method was used to evaluate the impact",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2019",
+    "sample_size": 188,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "key informant interviews",
+      "focus group discussions"
+    ],
+    "qualitative_evidence_citation": "Key informants interviews and focus group discussions were employed to triangulate household survey results",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "From various Ethiopian government food security strategies, the Productive Safety Net Program (PSNP) is one of the strategies to improve households' consumption",
+    "country_citation": "This study examined the impact of Productive Safety Net Program intervention on food security of rural households in rural western Ethiopia",
+    "target_population_citation": "This study examined the impact of Productive Safety Net Program intervention on food security of rural households in rural western Ethiopia"
+  }
+}

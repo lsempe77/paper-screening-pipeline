@@ -1,0 +1,35 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No program name provided in extracted information (program_name = null)"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - both cash support (component_a_present = false) and asset provision (component_b_present = false) are absent"
+  },
+  "criterion_1_lmic": {
+    "assessment": "UNCLEAR",
+    "reasoning": "Country information not provided in extracted data (country = null)"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false, no cash support mentioned in extracted information"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = [], no productive assets mentioned in extracted information"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "is_review_or_policy_analysis = true, study_design = 'Observational'. Reviews/policy analyses do not meet design criteria"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true indicates study presents finished findings"
+  }
+}

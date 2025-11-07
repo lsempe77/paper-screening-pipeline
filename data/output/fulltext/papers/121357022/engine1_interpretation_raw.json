@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Family Hope Program (PKH)' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation program - only has cash transfers (CCT) without productive asset provision. No explicit mention of graduation/TUP approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Indonesia (Aceh Province), which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'conditional cash transfer', is_loan_or_credit = 'NO'. Program provides cash transfers, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = []. No evidence of productive asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Mixed-methods', is_review_or_policy_analysis = false. Study includes quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

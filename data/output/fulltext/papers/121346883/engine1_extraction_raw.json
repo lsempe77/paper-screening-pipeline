@@ -1,0 +1,54 @@
+{
+  "paper_metadata": {
+    "title": "Social Policy and the Elimination of Extreme Poverty",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": null,
+    "region": null,
+    "target_population": "Extreme poor in developing countries"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "By 2010 some 700 million people had been lifted out of poverty, dropping that rate to 22 percent",
+    "study_design": "Policy analysis",
+    "design_evidence_citation": "This chapter argues that, although much progress against extreme poverty in low-and middle-income countries has been accomplished through so-called inclusive growth, the elimination of consumption-based poverty will require greater attention to the political economy of social protection in developing nations.",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": null,
+    "target_population_citation": "a billion people continue to live below the $1.25-a-day line"
+  }
+}

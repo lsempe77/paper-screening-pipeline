@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "Sustainable livelihoods through partnership and appropriate technology: The case of the rubble removal project in Gaza",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Rubble removal project",
+    "country": "Gaza/Palestine",
+    "region": "Gaza",
+    "target_population": "Conflict-affected population"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "livelihoods",
+      "poverty reduction",
+      "capacity development"
+    ],
+    "outcomes_evidence_citation": "The main objective of this research is to explore the interplay between partnership and the appropriate technology poverty alleviation approach in a post-conflict context towards sustainable livelihoods",
+    "study_design": "Qualitative case study",
+    "design_evidence_citation": "Using a qualitative dominant approach, primary data were collected through interviews with key informants and a project survey using a questionnaire",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2011",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "interviews",
+      "questionnaire survey"
+    ],
+    "qualitative_evidence_citation": "primary data were collected through interviews with key informants and a project survey using a questionnaire",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Several projects were proposed including the rubble removal project to achieve this target",
+    "country_citation": "Gaza experienced an Israeli-Palestinian armed conflict in 2008-2009",
+    "target_population_citation": "The local authorities prepared plans for reconstruction to restore the living environment for the affected population"
+  }
+}

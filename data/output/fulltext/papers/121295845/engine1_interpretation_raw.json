@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Clear program name identified: 'DFID Programme to Accelerate Improved Nutrition for the Extreme Poor'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While productive assets are provided, there is no evidence of cash/consumption support component, and no explicit mention of this being a graduation/TUP program in the extracted information"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash or consumption support provided in the extracted information"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', assets_provided includes 'productive assets'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": [
+      "women's empowerment",
+      "IYCF practices",
+      "nutrition/anthropometry"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study design is 'Mixed-method impact evaluation', is_review_or_policy_analysis = false, indicating appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished research findings"
+  }
+}

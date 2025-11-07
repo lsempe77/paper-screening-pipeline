@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "Only generic description of 'Multiple social safety net programs' without specific program names or detailed descriptions."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation/TUP program. Only cash transfers mentioned, no productive asset component."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Egypt, Jordan, Tunisia, and Morocco - all classified as lower-middle or upper-middle income countries."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'cash transfers', is_loan_or_credit = 'NO'. Program provides cash transfers of varying amounts (e.g., EGP500 in Egypt, USD202 in Morocco)."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no assets provided. Only mentions asset sales as an outcome measure, not program provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "assets"
+    ],
+    "secondary_outcomes": [
+      "food security"
+    ],
+    "tertiary_outcomes": [
+      "coping strategies"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Difference-in-differences', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from 2020-2021."
+  }
+}

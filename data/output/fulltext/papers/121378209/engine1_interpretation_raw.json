@@ -1,0 +1,37 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Forsa' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program includes both core graduation components: consumption support (not loans) and direct provision of productive assets (livestock)."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Egypt, which is a lower-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'consumption support', is_loan_or_credit = 'NO'. Program provides cash/consumption support."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'livestock (sheep and goats)', direct_provision = 'YES'. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "is_review_or_policy_analysis = true. Study is identified as a review/policy analysis, which does not meet the criterion for quantitative impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "NO",
+    "reasoning": "completed = false. Study does not present finished research findings."
+  }
+}

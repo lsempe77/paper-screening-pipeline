@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Analysis of Social and Economic Development in Vietnam",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": "Vietnam",
+    "region": "National",
+    "target_population": null
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "education",
+      "social indicators"
+    ],
+    "outcomes_evidence_citation": "High economic growth helped reduce its poverty rate significantly from well over 60 per cent in 1990 to around 29 per cent in 2002. Besides this impressive achievement, Vietnam has also significantly improved its already relatively good social indicators in the areas of education, healthcare, and life expectancy.",
+    "study_design": "Observational",
+    "design_evidence_citation": "Using the latest data from the VHLSS 2002 and other sources",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": "2002",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "case studies"
+    ],
+    "qualitative_evidence_citation": "Box 6.4 The story of a father of four school-age children",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": "Having launched economic reforms in the 1980s, Vietnam became one of few economies in the world that experienced high and sustainable economic growth throughout the 1990s.",
+    "target_population_citation": null
+  }
+}

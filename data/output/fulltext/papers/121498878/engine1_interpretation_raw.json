@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Trickle Up (TU) Graduation Program'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as a graduation program in name ('Trickle Up Graduation Program') and includes both core components: cash support (seed funding) and direct provision of livelihood assets"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in India (Jharkhand and West Bengal), which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, is_loan_or_credit = 'NO'. Program provides seed funding which is not a loan"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', assets_provided includes 'livelihood assets'. Program directly provides productive assets"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "livelihood and economic development"
+    ],
+    "secondary_outcomes": [
+      "food security"
+    ],
+    "tertiary_outcomes": [
+      "financial inclusion",
+      "social empowerment",
+      "access to social services"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings"
+  }
+}

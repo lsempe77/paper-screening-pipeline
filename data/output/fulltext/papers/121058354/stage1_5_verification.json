@@ -1,0 +1,6 @@
+{
+  "assessment": "UNCLEAR",
+  "reasoning": "[Specific Program Not Verified] Paper mentions 'REAP' but search could not confirm this as graduation program: Perplexity search result: There is no direct evidence of a program named 'REAP' associated with any country as a graduation or ultra-poor program in the sources reviewed. The major search results discuss the Graduation Approach—originally by BRAC and replicated globally—with core components including productive asset transfers and cash or consumption support (sometimes lump-sum cash or in-kind consumption support)[2][4][8]. However, no source mentions a program specifically called 'REAP' nor ties that name to a graduation program anywhere. Therefore, it is not possible to verify if 'REAP' is a recognized graduation, cash transfer, or asset transfer program without additional and more specific information. | Graduation: UNCLEAR, Cash: UNCLEAR, Assets: UNCLEAR | Confidence: LOW | Sources: https://www.bracusa.org/solutions/development/poverty/ultra-poor-graduation/, https://bracupgi.org/news-updates/economic-inclusion/introducing-the-graduation-essentials-core-components-designed-for-scale/, https://www.povertyactionlab.org/case-study/targeting-ultra-poor-improve-livelihoods",
+  "verified_program_name": "REAP",
+  "verification_applied": true
+}

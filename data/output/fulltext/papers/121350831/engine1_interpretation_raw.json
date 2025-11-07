@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'Youth-in-Agribusiness program (YIAP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No explicit mention of graduation/TUP program. Only has one component (start-up capital) without evidence of integrated package combining consumption support and productive assets"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Nigeria, which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "While component_a is present, it is described as 'start-up capital' (one-time) without evidence of regular consumption support/cash transfers. Start-up capital alone should be assessed under Criterion 3 (productive assets) rather than Criterion 2 (consumption support)"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false and no evidence of direct asset provision. While start-up capital is mentioned, there is no clear evidence of direct provision of productive assets"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty"
+    ],
+    "secondary_outcomes": [
+      "employment"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses quantitative impact evaluation methods (endogenous switching probit regression) and is_review_or_policy_analysis = false"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating study presents finished research findings"
+  }
+}

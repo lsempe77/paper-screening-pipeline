@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Child Grant Programme (CGP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Not a graduation program - only has cash transfers (no productive asset component) and no mention of graduation/TUP terminology"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Zambia, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, monthly cash payment of 60 kwacha (US$12), is_loan_or_credit = NO"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no assets provided, direct_provision = NO"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition",
+      "health",
+      "economic activity"
+    ],
+    "tertiary_outcomes": [
+      "agricultural production",
+      "livestock ownership"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study presents finished research findings"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Atención a Crisis program' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Both core components present: cash support (conditional cash transfer of US$145 base + additional amounts) and productive assets (business grant of US$200 provided directly)."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Nicaragua, which is a low-middle income country, specifically in six municipalities in Northwest Nicaragua."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "Component_a_present = true, cash support provided as conditional cash transfer (US$145 base + US$90 per household with children + US$25 per child) over one year, is_loan_or_credit = NO."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "Component_b_present = true, direct_provision = YES, program provides business grant of US$200 as productive asset support."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "non-agricultural employment"
+    ],
+    "tertiary_outcomes": [
+      "business development"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study design is Randomized Controlled Trial (RCT), is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted in 2005-2006 with a sample size of 3002 households."
+  }
+}

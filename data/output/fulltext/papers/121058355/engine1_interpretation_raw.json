@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC Ultra-Poor Graduation (UPG) Hybrid Model'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as a graduation program ('BRAC Ultra-Poor Graduation') and includes both core components: consumption allowance (component_a_present = true) and direct provision of productive assets (component_b_present = true, direct_provision = 'YES')"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, type = 'consumption allowance', and is_loan_or_credit = 'NO'. Program provides consumption support that is not a loan"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true, direct_provision = 'YES', assets_provided includes 'input supports'. Program directly provides productive assets"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "productive assets",
+      "savings",
+      "consumption expenditure"
+    ],
+    "secondary_outcomes": [
+      "labor supply"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2016-2018 with results presented"
+  }
+}

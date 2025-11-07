@@ -1,0 +1,52 @@
+{
+  "paper_metadata": {
+    "title": "Livelihoods Transfer Program Evaluation",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Livelihoods Transfer Program",
+    "country": "Ethiopia",
+    "region": null,
+    "target_population": "Ultra-poor PSNP Public Works participants (bottom 10 percent)",
+    "program_name_citation": "The livelihoods transfer program Aim: support the very poor to overcome the multiple barriers that prevent them from escaping poverty",
+    "country_citation": null,
+    "target_population_citation": "focus on the ultra-poor -target the bottom 10 percent of PSNP PWs participants from each beneficiary community (Kebele) by wealth ranking"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash grant and consumption support",
+      "cash_amount": "US$200",
+      "cash_frequency": "one-time grant plus ongoing PSNP transfers",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "cash grant -provide a grant, equivalent to US$200, to the selected beneficiaries to finance investment in income-generating activities | consumption support -transfers through PSNP4's PW projects"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "support the very poor to overcome the multiple barriers that prevent them from escaping poverty",
+    "study_design": null,
+    "design_evidence_citation": null,
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  }
+}

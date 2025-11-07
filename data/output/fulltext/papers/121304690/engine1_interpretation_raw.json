@@ -1,0 +1,35 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No program name provided in extracted information (program_name = null)"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - both cash support and asset provision are absent (component_a_present = false, component_b_present = false)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in South Africa, which is classified as an upper-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false and is_loan_or_credit = 'YES'. No cash support provided, and any financial support is in form of loans which do not qualify"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = []. No evidence of productive asset provision"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Policy analysis' and is_review_or_policy_analysis = true. Study is a policy analysis, not a quantitative impact evaluation"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study is completed"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC's Targeting the Ultra-Poor (TUP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as 'Targeting the Ultra-Poor (TUP)' and includes both core components: consumption support for first 40 weeks (cash) and direct provision of productive assets (livestock, sheds, business assets)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'consumption support', is_loan_or_credit = 'NO', provided for first 40 weeks"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', with specific productive assets listed: 'livestock (cows), livestock sheds, business assets'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure",
+      "income/earnings",
+      "asset accumulation",
+      "savings/financial",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "labor supply"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2007-2014 with results presented"
+  }
+}

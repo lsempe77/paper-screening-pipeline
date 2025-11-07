@@ -1,0 +1,45 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Clear program name 'Supporting Women's Livelihoods (SWL)' is identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash support, it lacks the direct provision of productive assets characteristic of graduation programs. No explicit mention of being a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Zambia, which is a low-income country. Program implemented nationally across '51 districts across 10 provinces'."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "While component_a_present = true and is_loan_or_credit = 'NO', the support is described as a 'productive grant' of 'US$225' given 'one-time'. This appears to be start-up capital rather than consumption support, so should be assessed under Criterion 3 (assets) rather than Criterion 2 (consumption support)."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false and direct_provision = 'NO'. While there is a productive grant, there is no evidence of direct asset provision by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure",
+      "income/earnings",
+      "asset accumulation",
+      "savings/financial"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": [
+      "well-being",
+      "psychological well-being"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)' and is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation design."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

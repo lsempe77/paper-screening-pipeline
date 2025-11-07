@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'ASA Microfinance Program' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - program appears to be microfinance only, with no cash support or asset provision components documented."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false and is_loan_or_credit = 'YES'. Program provides loans/credit, not cash transfers. Microfinance loans do not qualify as cash support."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = []. No evidence of direct asset provision by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "savings/financial",
+      "asset accumulation",
+      "consumption/expenditure"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": [
+      "housing"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental with control group', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation methodology."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

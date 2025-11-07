@@ -1,0 +1,62 @@
+{
+  "paper_metadata": {
+    "title": "Growth through Nutrition Program in Ethiopia",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Growth through Nutrition",
+    "country": "Ethiopia",
+    "region": "Amhara, Oromia, Tigray and SNNP regions",
+    "target_population": "Mothers and children in first 1,000 days"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "nutrition",
+      "food security",
+      "WASH practices",
+      "maternal health",
+      "infant feeding practices"
+    ],
+    "outcomes_evidence_citation": "Assessments of the Growth for Nutrition project to date have demonstrated as a whole that structured and interactive community-based SBCC sessions, when implemented within a package of multi-sector support (including messaging on WASH and livelihood interventions), have the potential to bring about positive changes in key maternal and IYCF practices.",
+    "study_design": "Qualitative research study",
+    "design_evidence_citation": "This qualitative research study, led by the Manoff Group, was conducted in Amhara, Oromia, Tigray and SNNP regions using 32 focus group discussions (FGDs) and 32 in-depth, semi-structured interviews with key informants.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2016-2021",
+    "sample_size": 234,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "focus group discussions",
+      "in-depth interviews",
+      "semi-structured interviews"
+    ],
+    "qualitative_evidence_citation": "This qualitative research study, led by the Manoff Group, was conducted in Amhara, Oromia, Tigray and SNNP regions using 32 focus group discussions (FGDs) and 32 in-depth, semi-structured interviews with key informants.",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Growth through Nutrition is a five-year (2016-2021), multi-sector nutrition and water, sanitation and hygiene (WASH) programme",
+    "country_citation": "This qualitative research study, led by the Manoff Group, was conducted in Amhara, Oromia, Tigray and SNNP regions",
+    "target_population_citation": "Documentation research on the USAID Growth through Nutrition First 1,000 Days maternal and child nutrition program outcomes"
+  }
+}

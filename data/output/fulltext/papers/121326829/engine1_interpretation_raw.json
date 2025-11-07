@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BOMA Project Graduation Program' in Northern Kenya"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as a graduation program ('BOMA Project Graduation Program') and includes both core components: cash transfers/consumption support (component_a_present = true) and direct provision of productive assets (component_b_present = true, direct_provision = 'YES')"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Kenya (Northern Kenya pastoralist regions), which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, type = 'cash transfers and consumption support', is_loan_or_credit = 'NO'. Program provides cash/consumption support that is not a loan"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true, assets_provided includes 'productive assets' and 'business assets', direct_provision = 'YES'. Program directly provides productive assets to participants"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "earnings",
+      "consumption",
+      "business assets"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "mental health",
+      "psychosocial factors"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings"
+  }
+}

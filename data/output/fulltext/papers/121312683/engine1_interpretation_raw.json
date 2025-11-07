@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'New Hope Project' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "This is not identified as a graduation/TUP program, and while it has cash support (wage supplements), it lacks the productive asset component characteristic of graduation programs."
+  },
+  "criterion_1_lmic": {
+    "assessment": "NO",
+    "reasoning": "Study was conducted in the United States, which is a high-income country, not an LMIC."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'wage supplements', and is_loan_or_credit = 'NO'. Program provides cash support through wage supplements."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "academic achievement",
+      "classroom behavior",
+      "social behavior",
+      "problem behaviors",
+      "educational aspirations",
+      "occupational aspirations",
+      "family functioning"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

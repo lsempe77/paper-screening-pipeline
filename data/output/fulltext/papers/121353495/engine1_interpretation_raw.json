@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Zimbabwe Land Reform Program' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation/TUP program. While it includes asset provision (land), it lacks the consumption support component characteristic of graduation programs. No explicit mention of graduation/TUP approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Zimbabwe, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false. No evidence of cash or consumption support provided to beneficiaries."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', assets_provided includes 'agricultural land'. Program directly provides productive assets to beneficiaries."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "land redistribution",
+      "agricultural production"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Policy analysis' and is_review_or_policy_analysis = true. This is not a quantitative impact evaluation but rather a policy analysis."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished findings covering period 1980-2004."
+  }
+}

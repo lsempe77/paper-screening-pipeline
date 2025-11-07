@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Terintambwe (Take a Step Forward) Programme' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program has both core graduation components: cash transfers (component_a_present = true, is_loan_or_credit = NO) and direct asset provision (component_b_present = true, direct_provision = YES)."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Burundi, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, type = 'cash transfers', and is_loan_or_credit = NO. Program provides cash support that is not a loan."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true, assets_provided includes 'asset transfers', and direct_provision = YES. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "assets",
+      "income",
+      "consumption"
+    ],
+    "secondary_outcomes": [
+      "food security"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Mixed methods', is_review_or_policy_analysis = false. Study includes quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted 2013-2015. Study presents finished research findings."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC Challenging the Frontier of Poverty Reduction/Targeting the Ultra Poor (CFPR/TUP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as TUP (Targeting the Ultra Poor) and includes both core components: weekly cash support ('Taka 70 per week subsistence allowance') and direct asset provision ('livestock, poultry, vegetable garden, nursery')"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh (specifically Rangpur, Kurigram, and Nilphamari districts), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, provides 'weekly subsistence allowance' of 'Taka 70 per week', and is_loan_or_credit = 'NO'"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true with direct_provision = 'YES', providing productive assets including 'livestock (cows, goats), poultry, vegetable garden, nursery'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "NGO membership",
+      "borrowing from NGOs",
+      "offers for NGO membership"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental' and is_review_or_policy_analysis = false, indicating appropriate quantitative impact evaluation methodology"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2002-2005 with results presented"
+  }
+}

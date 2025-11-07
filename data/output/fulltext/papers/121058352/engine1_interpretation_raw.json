@@ -1,0 +1,46 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'BRAC Ultra-Poor Programme' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program is explicitly identified as BRAC Ultra-Poor Programme (a known graduation program) and includes both core components: cash support (stipend for forty weeks) and direct asset provision (livestock and poultry)."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'stipend', is_loan_or_credit = 'NO'. Program provides cash support over a forty week period."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'livestock' and 'poultry', direct_provision = 'YES'. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "wealth",
+      "consumption"
+    ],
+    "secondary_outcomes": [
+      "health status"
+    ],
+    "tertiary_outcomes": [
+      "occupational structure",
+      "household durables",
+      "human capital",
+      "business skills",
+      "social networks"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

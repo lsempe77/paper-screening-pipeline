@@ -1,0 +1,48 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Millennium Villages Project (MVP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation program - neither explicit graduation/TUP terminology nor the required combination of cash support and productive assets is present in the extracted information"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Program implemented in 'Multiple sub-Saharan African countries' with '10 sites across 10 countries', which are predominantly LMICs"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, with no evidence of cash transfers or consumption support in the extracted information"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, with no evidence of direct asset provision in the extracted information"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty"
+    ],
+    "secondary_outcomes": [
+      "health",
+      "nutrition"
+    ],
+    "tertiary_outcomes": [
+      "education",
+      "infrastructure",
+      "maternal health",
+      "child health",
+      "HIV and malaria",
+      "water and sanitation",
+      "agriculture"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses quantitative impact evaluation methods: 'Retrospective observational study with matched comparison villages', and is_review_or_policy_analysis = false"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted from 2005-2015 with results presented"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Strengthen PSNP4 Institutions and Resilience (SPIR)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program has both core graduation components: unconditional cash transfers (not loans) and direct provision of productive assets (sixteen chickens)."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia (Amhara and Oromia regions), which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'unconditional cash transfer', is_loan_or_credit = 'NO'. Program provides cash support."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided = ['poultry (sixteen chickens)'], direct_provision = 'YES'. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "asset accumulation",
+      "savings/financial"
+    ],
+    "secondary_outcomes": [
+      "labor supply"
+    ],
+    "tertiary_outcomes": [
+      "livestock production"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "NO",
+    "reasoning": "completed = false. Study appears to be ongoing or incomplete."
+  }
+}

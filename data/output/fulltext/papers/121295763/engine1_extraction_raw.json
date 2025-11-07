@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "The Samata intervention to increase secondary school completion and reduce child marriage among adolescent girls: results from a cluster-randomised control trial in India",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Samata intervention",
+    "country": "India",
+    "region": "Vijayapura and Bagalkote districts, Karnataka State",
+    "target_population": "scheduled-caste/scheduled-tribe (SC/ST) adolescent girls"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "education",
+      "child marriage",
+      "sexual and reproductive health"
+    ],
+    "outcomes_evidence_citation": "Primary trial outcomes were proportion of girls who completed secondary school and were married, by trial end-line (15-16 years)",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "80 of 121 villages in Vijayapura and Bagalkote districts, Karnataka State, were randomly selected (control = 40; intervention = 40)",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2014-2017",
+    "sample_size": 2457,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The Samata intervention to increase secondary school completion and reduce child marriage among adolescent girls",
+    "country_citation": "80 of 121 villages in Vijayapura and Bagalkote districts, Karnataka State, were randomly selected",
+    "target_population_citation": "We tested whether a structural and norms-based intervention, which worked with adolescent girls, their families, communities, and secondary schools to address poverty, schooling quality and gender norms, could reduce secondary school drop-out and child marriage among scheduled-caste/scheduled-tribe (SC/ ST) adolescent girls in rural settings of southern India"
+  }
+}

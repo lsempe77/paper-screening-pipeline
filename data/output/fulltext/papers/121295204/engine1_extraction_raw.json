@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "Impact of Ethiopia's PSNP Public Works Component",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Productive Safety Net Programme (PSNP) Public Works",
+    "country": "Ethiopia",
+    "region": "Multiple regions (Tigray, Amhara, Oromiya, SNNPR)",
+    "target_population": "Food insecure households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "public works payments",
+      "cash_amount": "median 186 birr over five years for one-year participants",
+      "cash_frequency": "payments over 1-5 years",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "households that received payments for one year typically received only tiny amounts-the median total Public Works payment for such households over a five-year period is only 186 birr"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security",
+      "asset accumulation",
+      "livestock holdings",
+      "meal frequency",
+      "private transfers",
+      "nonfarm business"
+    ],
+    "outcomes_evidence_citation": "This chapter has considered the impact of the duration of participation in the Public Works component of the PSNP on food security and asset outcomes. It also considers whether participation duration has unintended consequences such as reducing private transfers or providing a disincentive to start nonfarm businesses.",
+    "study_design": "Difference-in-differences",
+    "design_evidence_citation": "Taking the difference between the impact estimate of a change in an outcome for a household receiving, say, five years of payments ('with') and the impact estimate of a change in an outcome for a household receiving one year of payments (the 'without'....) yields our double-difference estimate of program impact",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2006-2010",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This chapter has considered the impact of the duration of participation in the Public Works component of the PSNP",
+    "country_citation": "There is an improvement in food security (relative to receipt of one year of payment) in all regions and these are all statistically significant. This improvement is 0.75 months in Tigray, 1.84 months in Amhara, 0.88 months in Oromiya, and 1.32 months in SNNPR",
+    "target_population_citation": "This chapter has considered the impact of the duration of participation in the Public Works component of the PSNP on food security and asset outcomes"
+  }
+}

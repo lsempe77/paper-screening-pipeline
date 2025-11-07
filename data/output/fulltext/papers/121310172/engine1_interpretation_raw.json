@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name is provided in the extracted information (program_name = null). Only describes a study of LMI taxpayers without identifying a specific intervention program."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - neither cash support (component_a_present = false) nor asset provision (component_b_present = false) are present. No mentions of graduation/TUP terminology."
+  },
+  "criterion_1_lmic": {
+    "assessment": "NO",
+    "reasoning": "Study conducted in United States (Boston), which is a high-income country. Does not meet LMIC criterion."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false. No evidence of cash support or transfers being provided as part of an intervention."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "savings"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "asset building",
+      "debt",
+      "financial capability"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Mixed methods', is_review_or_policy_analysis = false. Includes quantitative methods for impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "paper_metadata": {
+    "title": "New Rural Development and Hierarchical Governance in Vietnam: Impacts of government support on rural households' income using a Hierarchical Linear Modelling",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "New Rural Development (NRD) program",
+    "country": "Vietnam",
+    "region": "National",
+    "target_population": "Rural households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": "financial assistance through infrastructure, production facilities, and education only has an indirect impact on rural households' income"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings"
+    ],
+    "outcomes_evidence_citation": "The results show that all variables have a positive impact on the dependent variable which is average households' income at the communal level",
+    "study_design": "Hierarchical Linear Modelling (HLM)",
+    "design_evidence_citation": "This research paper is targeted to provide an empirical evidence for answering the question whether the government assistance could effectively and positively impact on rural households' income through the NRD program by using a hierarchical linear modelling (HLM)",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2010-2015",
+    "sample_size": 1226,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "851,380 billion Vietnam Dong (VND) (approximately US$38.7 billion) for investments",
+    "cost_evidence_citation": "In the period of 2010 -2015, the government mobilized about 851,380 billion Vietnam Dong (VND) (approximately US$38.7 billion) for investments in rural development projects across the country"
+  },
+  "evidence_citations": {
+    "program_name_citation": "The New Rural Development (NRD) program is one of the most important policies in agriculture and rural development of Vietnam by 2020",
+    "country_citation": "The New Rural Development (NRD) program is one of the most important policies in agriculture and rural development of Vietnam by 2020",
+    "target_population_citation": "the rural regions in Vietnam are also a combination of large majority of the population, poor households, and ethnic groups"
+  }
+}

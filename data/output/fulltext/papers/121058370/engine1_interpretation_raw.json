@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Chars Livelihoods Programme (CLP-2)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program includes both core graduation components: cash support (component_a_present = true, is_loan_or_credit = NO) and direct asset provision (component_b_present = true, direct_provision = YES, assets include livestock)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, described as 'asset and cash transfer program', and explicitly is_loan_or_credit = NO"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true, direct_provision = YES, with livestock explicitly listed as provided asset"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "consumption",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "agricultural practices"
+    ],
+    "tertiary_outcomes": [
+      "resilience",
+      "social impact"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses mixed methods including quantitative analysis, is_review_or_policy_analysis = false"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted in 2016 with results presented"
+  }
+}

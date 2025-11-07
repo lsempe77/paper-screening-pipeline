@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is identified as a 'Graduation program' in Haiti, providing a clear program description."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program is explicitly identified as a 'Graduation program' and includes both core components: consumption support (component_a_present = true) and direct asset transfers (component_b_present = true, direct_provision = 'YES')."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Haiti, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, type = 'consumption support', and is_loan_or_credit = 'NO'. Program provides consumption support that is not a loan."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true, assets_provided includes 'asset transfers', and direct_provision = 'YES'. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "mental health",
+      "violence reduction",
+      "child development",
+      "parenting practices"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses 'Mixed methods with quasi-experimental design' and is_review_or_policy_analysis = false. This indicates appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

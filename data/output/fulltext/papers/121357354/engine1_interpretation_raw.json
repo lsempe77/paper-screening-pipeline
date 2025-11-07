@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Baby's First Years (BFY)' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "This is not a graduation/TUP program. While it has cash transfers, it lacks the productive asset component and is not described as a graduation program. It appears to be a social protection program for mothers with newborns."
+  },
+  "criterion_1_lmic": {
+    "assessment": "NO",
+    "reasoning": "Program implemented in the United States (New Orleans, Twin Cities, Omaha, and New York City), which is a high-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "Component_a_cash_support present=true, provides unconditional cash transfers of '$333 (large) or $20 (small) monthly' for 76 months, and is_loan_or_credit=NO."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "Component_b_assets present=false, no productive assets are provided by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "child development",
+      "maternal well-being",
+      "family processes"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While study_design is 'Randomized Controlled Trial (RCT)', the study only measures tertiary outcomes (child development, maternal well-being, family processes) with no primary or secondary outcomes listed."
+  },
+  "criterion_6_completed": {
+    "assessment": "NO",
+    "reasoning": "completed=false indicates this is an ongoing study without final results."
+  }
+}

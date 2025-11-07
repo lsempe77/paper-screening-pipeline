@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Alleviating Poverty in China and in the Chinese Way: Strategies, Approaches, and Experience",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "China's poverty reduction program",
+    "country": "China",
+    "region": "National",
+    "target_population": "Poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "China has made a substantial contribution to the achievement of the Millennium Development Goals (MDGs) by reducing half of its poverty population",
+    "study_design": "Case study",
+    "design_evidence_citation": "This book series covers poverty reduction practices and experience, knowledge mobilization, poverty reduction strategy analysis, and comparative research of different poverty reduction models",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": "2017",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "surveys"
+    ],
+    "qualitative_evidence_citation": "The author found such a situation pervasive Anhui, Ningxia and other places during a survey in 2017",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This book series covers poverty reduction practices and experience, knowledge mobilization, poverty reduction strategy analysis, and comparative research of different poverty reduction models",
+    "country_citation": "By analyzing China's poverty reduction approaches and experiences",
+    "target_population_citation": "the identification of poor households predominantly relied on village officials"
+  }
+}

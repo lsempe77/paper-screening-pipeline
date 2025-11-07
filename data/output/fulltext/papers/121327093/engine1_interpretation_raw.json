@@ -1,0 +1,38 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Reddito di Cittadinanza (RDC)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "This is not a graduation program - it is a guaranteed minimum income scheme with no productive asset component. No mention of graduation/TUP terminology, and lacks the core graduation component of productive asset provision."
+  },
+  "criterion_1_lmic": {
+    "assessment": "NO",
+    "reasoning": "Study conducted in Italy, which is a high-income country, not an LMIC."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, is_loan_or_credit = 'NO'. Program provides guaranteed minimum income support which is a form of cash transfer."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "labor supply",
+      "employment"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses difference-in-differences design with multiple time periods, is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from 2019-2020."
+  }
+}

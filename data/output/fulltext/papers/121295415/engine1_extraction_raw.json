@@ -1,0 +1,60 @@
+{
+  "paper_metadata": {
+    "title": "Social protection programs are not introduced in a vacuum: The effects of Ghana's LEAP 1000 program on social support",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Livelihood Empowerment Against Poverty (LEAP) 1000",
+    "country": "Ghana",
+    "region": null,
+    "target_population": "pregnant women and mothers of children under one year living in poverty"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "unconditional cash transfer",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The program creates a reliable source of complementary income, alongside income from agricultural and non-agricultural livelihood activities | an unconditional cash transfer program"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "social support",
+      "social participation",
+      "financial support",
+      "emotional support",
+      "instrumental support"
+    ],
+    "outcomes_evidence_citation": "Using a difference-in-differences approach we find that LEAP 1000 increases overall social support, as well as both emotional and instrumental support. In addition, program beneficiaries are more likely to participate in community groups.",
+    "study_design": "Quasi-experimental mixed method",
+    "design_evidence_citation": "We use data from the quasi-experimental mixed method impact evaluation of Ghana's Livelihood Empowerment Against Poverty (LEAP) 1000 program",
+    "is_review_or_policy_analysis": false,
+    "publication_year": 2021,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "in-depth interviews"
+    ],
+    "qualitative_evidence_citation": "In in-depth interviews, participants confirmed increased support with descriptions of improved access to financial markets",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "We use data from the quasi-experimental mixed method impact evaluation of Ghana's Livelihood Empowerment Against Poverty (LEAP) 1000 program",
+    "country_citation": "We use data from the quasi-experimental mixed method impact evaluation of Ghana's Livelihood Empowerment Against Poverty (LEAP) 1000 program",
+    "target_population_citation": "a social cash transfer program for pregnant women and mothers of children under one year living in poverty"
+  }
+}

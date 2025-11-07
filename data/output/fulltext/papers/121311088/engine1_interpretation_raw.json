@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'New Hope Project' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Not identified as a graduation/TUP program. While it has cash support (earnings supplements), it lacks the productive asset component characteristic of graduation programs."
+  },
+  "criterion_1_lmic": {
+    "assessment": "NO",
+    "reasoning": "Study conducted in United States (Milwaukee, WI), which is a high-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'earnings supplements', is_loan_or_credit = 'NO'. Program provides cash support through earnings supplements."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No productive assets are provided by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "career-related thoughts",
+      "future orientation",
+      "cynicism about work",
+      "educational expectations",
+      "career preparatory activities"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

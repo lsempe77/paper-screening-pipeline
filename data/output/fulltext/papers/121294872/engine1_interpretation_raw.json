@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'Payment for watershed ecosystem services (PES)' in the Xin'an River Basin"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "This is an environmental payment scheme, not a graduation program. No evidence of integrated graduation/TUP approach combining consumption support with productive assets"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China, which was classified as a middle-income country during the study period (2006-2019)"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, is_loan_or_credit = 'NO'. Program provides environmental service payments to farmers, which are cash transfers not loans"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, direct_provision = 'NO'. No evidence of productive asset provision by the program"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "labor transfer"
+    ],
+    "tertiary_outcomes": [
+      "agricultural restructuring"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Difference-in-differences', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methodology"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings covering 2006-2019"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "Impact Evaluation of Philippines Supreme Court Reforms",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Supreme Court Reforms (CT, eCourt, and SCP reforms)",
+    "country": "Philippines",
+    "region": "National",
+    "target_population": "Court system users and judicial staff"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "court efficiency",
+      "case clearance rate",
+      "case duration",
+      "case disposition rate"
+    ],
+    "outcomes_evidence_citation": "The CT reform increased court efficiency, or the rate at which courts cleared incoming cases (clearance rate), but did not significantly reduce the backlog, as reflected in the ratio of resolved to unresolved cases (disposition rate). The CT reform also reduced criminal case duration by 55 to 61 days (10-14%).",
+    "study_design": "Impact Evaluation",
+    "design_evidence_citation": "This brief summarizes findings from three impact evaluations that assess whether these Supreme Court-initiated reforms in technology and case management practices improve court efficiency and reduce congestion and delays.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": 2021,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "qualitative interviews"
+    ],
+    "qualitative_evidence_citation": "qualitative interviews indicate that factors outside the court's control lessen its effect",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "To address court congestion and improve citizens' access to swift and fair justice, the Supreme Court of the Philippines initiated several reforms, such as Revised Guidelines for Continuous Trial of Criminal Cases (CT), electronic case management system (eCourt) and Rules of Procedure for Small Claims Cases (SCP).",
+    "country_citation": "the Supreme Court of the Philippines initiated several reforms",
+    "target_population_citation": "reforms that would help strengthen citizen access to and engagement with the judicial system, and sensitize judges to the centrality of their role in protecting rights and promoting shared prosperity"
+  }
+}

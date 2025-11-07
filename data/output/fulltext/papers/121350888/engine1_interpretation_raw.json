@@ -1,0 +1,37 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name is provided in the extracted information. The paper appears to be a methodological review of poverty alleviation programs in general."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components. Neither cash support (component_a_present = false) nor asset provision (component_b_present = false) are mentioned. No explicit graduation/TUP terminology found."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study focuses on Paraguay and Honduras, which are both low- and middle-income countries."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false. No evidence of cash support or consumption support in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = []. No evidence of productive asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "women's empowerment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Review/Methodological paper' and is_review_or_policy_analysis = true. This is a methodological review rather than a quantitative impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished methodological findings."
+  }
+}

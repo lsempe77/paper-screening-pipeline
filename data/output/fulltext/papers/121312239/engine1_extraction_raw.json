@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "New Hope Program Impact Study",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "New Hope",
+    "country": "United States",
+    "region": null,
+    "target_population": "Low-income adults with children",
+    "program_name_citation": "Five years after parents entered the New Hope program (and 2 years after benefits ended), many of the effects of the New Hope program on their children's achievement, motivation, and social behavior remained.",
+    "country_citation": null,
+    "target_population_citation": "a package of policies designed to reduce poverty and provide work supports to low-income adults"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "education",
+      "social behavior",
+      "income",
+      "child care use"
+    ],
+    "outcomes_evidence_citation": "New Hope had positive effects on children's school achievement, motivation, and social behavior, primarily for boys, across the age range 6-16... The program produced improvements in family income and use of organized child care and activity settings",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "parents were randomly assigned to program or control groups",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  }
+}

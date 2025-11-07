@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "The study analyzed the impact of the Productive Safety Net Program (PSNP) on Household Asset Building (HAB) in drought-prone areas of Southern Ethiopia",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Productive Safety Net Program (PSNP)",
+    "country": "Ethiopia",
+    "region": "Southern Ethiopia",
+    "target_population": "Smallholder farmers and pastoralists in drought-prone areas"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash-for-work",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Over the last three decades, at least 10 to 12 million people in Ethiopia have received food aid or participated in food/cash-for-work programs within the framework of PSNP Ethiopia"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "asset accumulation",
+      "consumption/expenditure"
+    ],
+    "outcomes_evidence_citation": "The study's findings indicate that the PSNP has positively influenced the asset holdings and consumption patterns of beneficiary households compared to non-beneficiary households",
+    "study_design": "Cross-sectional survey with Propensity Score Matching (PSM)",
+    "design_evidence_citation": "Cross-sectional survey data were collected from 180 randomly sampled households, including both PSNP beneficiaries and nonbeneficiaries. The analysis included both inferential and descriptive methods, utilizing a Propensity Score Matching (PSM) technique",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 180,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "annual budget of nearly 500 million USD",
+    "cost_evidence_citation": "Initiated in 2005, the PSNP, with an annual budget of nearly 500 million USD, reaches more than 7 to 12 million people in Ethiopia"
+  },
+  "evidence_citations": {
+    "program_name_citation": "The study analyzed the impact of the Productive Safety Net Program (PSNP) on Household Asset Building (HAB) in drought-prone areas of Southern Ethiopia",
+    "country_citation": "The study analyzed the impact of the Productive Safety Net Program (PSNP) on Household Asset Building (HAB) in drought-prone areas of Southern Ethiopia",
+    "target_population_citation": "Persistent shocks leading to the depletion of household assets pose ongoing challenges for the livelihoods of smallholder farmers and pastoralists in Ethiopia"
+  }
+}

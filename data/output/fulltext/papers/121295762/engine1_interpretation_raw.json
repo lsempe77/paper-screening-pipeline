@@ -1,0 +1,46 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Women for Women International (WfWI) economic and social empowerment programme'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation program - neither explicit graduation/TUP terminology nor the required combination of cash support and productive assets (both components are absent in the extracted data)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Afghanistan, which is a low-income country, specifically in 'Kabul and Nangarhar' regions"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash transfers or consumption support in the extracted information"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no evidence of productive asset provision in the extracted information"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "earnings",
+      "savings"
+    ],
+    "secondary_outcomes": [
+      "food security"
+    ],
+    "tertiary_outcomes": [
+      "intimate partner violence",
+      "depression",
+      "gender attitudes",
+      "household decision-making",
+      "mobility"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted during 2016-2018 and presents finished findings"
+  }
+}

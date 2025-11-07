@@ -1,0 +1,53 @@
+{
+  "paper_metadata": {
+    "title": "Impact of unconditional cash transfers on educational investments and access in Rwanda",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Concern Worldwide Graduation Programme",
+    "country": "Rwanda",
+    "region": null,
+    "target_population": "Poor households",
+    "program_name_citation": "We draw on an independent evaluation of the Concern Worldwide Graduation Programme, which supported beneficiaries with monthly cash transfers and livelihood training.",
+    "country_citation": "This paper explores the short and medium term impacts of unconditional cash transfers on school-related choices for children of beneficiary households in Rwanda.",
+    "target_population_citation": "Empirically, this paper draws on data from the Concern Worldwide Graduation programme in Rwanda, which supported beneficiary households with unconditional cash transfers over a period of 12 months, and livelihood training for 24 months."
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "unconditional cash transfer",
+      "cash_amount": null,
+      "cash_frequency": "monthly for 12 months",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Empirically, this paper draws on data from the Concern Worldwide Graduation programme in Rwanda, which supported beneficiary households with unconditional cash transfers over a period of 12 months"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "education",
+      "consumption/expenditure"
+    ],
+    "outcomes_evidence_citation": "Our study finds that the programme enabled poor households to overcome income constraints and, consequently, allowed them to make investments in education.",
+    "study_design": "Quasi-experimental",
+    "design_evidence_citation": "The paper benefits from a quasi-experimental design in which households were selected to participate in the programme and a comparable control group was also followed over the same period.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2012",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  }
+}

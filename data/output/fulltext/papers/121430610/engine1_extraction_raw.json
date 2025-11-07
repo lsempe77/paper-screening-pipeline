@@ -1,0 +1,63 @@
+{
+  "paper_metadata": {
+    "title": "Graduating to Resilience RFSA Evaluation",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Graduating to Resilience RFSA",
+    "country": "Uganda",
+    "region": "Kamwenge District (including Rwamwanja refugee settlement)",
+    "target_population": "Extremely poor refugee and Ugandan households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "consumption support and cash transfer",
+      "cash_amount": "$4-5 per household member per month for consumption support, $300 USD for IGA",
+      "cash_frequency": "monthly for consumption support (1 year), one-time for IGA transfer",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "AVSI, with Trickle Up and AIR, designed the RFSA to address the interrelated needs of the extremely poor refugee and Ugandan households in Kamwenge District, Uganda (including the Rwamwanja refugee settlement), with consumption support ($4-5 per household member per month) for a year, coaching and training, group savings through VSLAs, and FFBSs, plus (for most households) a cash transfer of approximately $300 USD to invest in an IGA."
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "cash for income-generating activities"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "plus (for most households) a cash transfer of approximately $300 USD to invest in an IGA"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security",
+      "nutrition",
+      "self-reliance",
+      "asset accumulation",
+      "income/earnings",
+      "consumption/expenditure",
+      "well-being",
+      "mental health"
+    ],
+    "outcomes_evidence_citation": "Comparisons between treatment and control households show large positive impacts on activity participants and their households on key outcomes that the activity aimed to improve, including food security, nutrition, and self-reliance. A measure of productive asset values increased by between 40% (T3) and 88% (T1) on average relative to the control group mean. Total household income increased by between 32% (T3) and 45% (T1) on average relative to the control group mean.",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "IPA worked with AVSI and BHA to design an RCT to answer these questions by evaluating three versions of the activity",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2019-2021",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Cost comparison between three treatment arms, with group coaching version being 13% cheaper and no-asset version 10% cheaper than full program",
+    "cost_evidence_citation": "Three variations of the activity were tested, Graduation Approach with individual coaching and a cash asset transfer (T1), an estimated 13% cheaper Graduation Approach with group coaching and a cash asset transfer (T2), and an estimated 10% cheaper Graduation Approach with individual coaching but without cash asset transfer (T3)"
+  },
+  "evidence_citations": {
+    "program_name_citation": "IPA conducted a randomized evaluation of the Graduating to Resilience RFSA",
+    "country_citation": "AVSI, with Trickle Up and AIR, designed the RFSA to address the interrelated needs of the extremely poor refugee and Ugandan households in Kamwenge District, Uganda (including the Rwamwanja refugee settlement)",
+    "target_population_citation": "AVSI, with Trickle Up and AIR, designed the RFSA to address the interrelated needs of the extremely poor refugee and Ugandan households"
+  }
+}

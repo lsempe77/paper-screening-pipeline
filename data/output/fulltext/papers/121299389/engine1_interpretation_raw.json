@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Ethiopian Productive Safety Net Program (PSNP)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - both cash support and asset provision are absent (component_a_present = false, component_b_present = false). No explicit mention of graduation/TUP approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false, no evidence of cash or consumption support provided in extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = [], no evidence of productive asset provision in extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "consumption/expenditure",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Observational', is_review_or_policy_analysis = false. Uses quantitative methods for impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

@@ -1,0 +1,45 @@
+================================================================================
+FULL-TEXT VALIDATION REPORT (SUBSET: HUMAN-LABELED)
+================================================================================
+Generated: 2025-11-07 11:48:27
+Total processing time: 537.6 minutes
+Average time per paper (all): 49.3 seconds
+
+OVERVIEW
+----------------------------------------
+Subset size (in CSV): 117
+
+CONFUSION MATRIX
+----------------------------------------
+                 Human Decision
+               INCLUDE  EXCLUDE
+AI  INCLUDE       52        6
+    EXCLUDE        6       45
+    MAYBE          8 (flagged for human review)
+
+PERFORMANCE METRICS
+----------------------------------------
+Precision:              0.897 (89.7%)
+Recall:                 0.897 (89.7%)
+F1 Score:               0.897
+Accuracy:               0.890 (89.0%)
+False Positive Rate:    0.118 (11.8%)
+False Negative Rate:    0.103 (10.3%)
+MAYBE Rate:             0.068 (6.8%)
+Human-AI Agreement:     0.829 (82.9%)
+
+DECISION DISTRIBUTION (subset)
+----------------------------------------
+INCLUDE        :  58 papers ( 49.6%)
+EXCLUDE        :  51 papers ( 43.6%)
+MAYBE          :   8 papers (  6.8%)
+
+TITLE VALIDATION
+----------------------------------------
+High Match (>=85%):  12
+Partial Match:       18
+No Match:            73
+Extraction Errors:   14
+Avg Similarity:     0.466 (46.6%)
+Overall Match Rate: 0.256 (25.6%)
+

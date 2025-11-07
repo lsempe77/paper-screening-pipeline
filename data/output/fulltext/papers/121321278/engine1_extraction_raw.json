@@ -1,0 +1,57 @@
+{
+  "paper_metadata": {
+    "title": "The potentials of cassava value adding technology for reducing hunger and poverty, among rural people in Abia State",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Cassava value adding technology training program",
+    "country": "Nigeria",
+    "region": "Abia State",
+    "target_population": "Rural women farmers"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": "The Institute embarked upon a rural empowerment campaign through promotion, popularization and training of rural households on the cassava value addition technologies"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings",
+      "food security/nutrition",
+      "poverty reduction",
+      "employment"
+    ],
+    "outcomes_evidence_citation": "Data concerning income generation, poverty reduction as well as self employment potentialities of the cassava value addition technologies were collected from the respondents",
+    "study_design": "Observational",
+    "design_evidence_citation": "By simple random sampling technique, 50 women farmers who took part in the training workshop were selected from each LGA. This summed up to a sample size of 200 respondents for the study.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": 2008,
+    "study_conducted_year": "2005-2006",
+    "sample_size": 200,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "National Root Crops Research Institute Umudike in 2005, embarked upon a rural empowerment campaign through promotion, popularization and training of rural households on the cassava value addition technologies",
+    "country_citation": "About ten rural communities in Abia State, Nigeria have so far benefited from this participatory training programme",
+    "target_population_citation": "The study was carried out in Abia State. Four Local Government Areas (LGAs) of Abia state were purposively selected for the study area due to their involvement in the training workshop"
+  }
+}

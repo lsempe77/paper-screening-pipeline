@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Analysis of National Poverty Alleviation Policy Effect on Economic Development in the New Period",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "National Program for Rural Poverty Alleviation (2001-2010)",
+    "country": "China",
+    "region": "National",
+    "target_population": "Poor counties"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": "poverty alleviation funds were applied for water, electricity, roads and other infrastructure construction; culture, education and other public welfare services; planting, breeding and other productive projects"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "economic development",
+      "GDP"
+    ],
+    "outcomes_evidence_citation": "The results show that GDP in non-poverty area is varied from 84% to 65.7%, higher than poverty area",
+    "study_design": "Difference-in-differences",
+    "design_evidence_citation": "the influence of national poverty alleviation policy on economic development in the new period was analyzed by the method of difference in difference",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "1997-2010",
+    "sample_size": 592,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "special funds for poverty alleviation reached 182.386 billion, maintaining the growth rate of 11.7 percent a year",
+    "cost_evidence_citation": "From 2001 to 2010, the special funds for poverty alleviation reached 182.386 billion, maintaining the growth rate of 11.7 percent a year"
+  },
+  "evidence_citations": {
+    "program_name_citation": "the state again issued the \"National Program for Rural Poverty Alleviation (2001-2010)\"",
+    "country_citation": "China's poverty-relief work has entered a new period",
+    "target_population_citation": "this plan identified 592 poor counties in order to solve the problem of food and clothing of 80 million poor people"
+  }
+}

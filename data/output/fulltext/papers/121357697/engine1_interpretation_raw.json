@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Targeted Poverty Alleviation (TPA)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - neither cash support nor asset provision is present in the extracted information. No explicit mention of graduation/TUP approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China, which was classified as an upper-middle income country during the study period (2012-2019)."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of any cash transfer or consumption support component in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], no evidence of any productive asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "company value",
+      "earnings persistence",
+      "product market competitiveness"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While study_design = 'Observational' and is_review_or_policy_analysis = false, the study appears to focus on company-level analysis rather than impact evaluation of poverty interventions."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study presents finished research findings covering period 2012-2019."
+  }
+}

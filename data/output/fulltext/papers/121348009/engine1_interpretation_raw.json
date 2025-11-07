@@ -1,0 +1,35 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No valid program name provided - extraction shows 'ERROR' for program_name field."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - both cash support and asset components are marked as 'NO' with no supporting citations."
+  },
+  "criterion_1_lmic": {
+    "assessment": "UNCLEAR",
+    "reasoning": "Country field shows 'ERROR' - unable to determine if implemented in LMIC."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = 'NO', no cash support component mentioned in extraction."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = 'NO', assets_provided is empty, direct_provision = 'NO'. No evidence of asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "UNCLEAR",
+    "reasoning": "Study design shows 'ERROR' - unable to determine if appropriate impact evaluation methods were used."
+  },
+  "criterion_6_completed": {
+    "assessment": "NO",
+    "reasoning": "completed = 'NO' indicates study has not presented finished research findings."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name provided in extraction (program_name = null) and appears to be a general policy/irrigation study rather than evaluation of a specific intervention."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - both cash support (component_a_present = false) and asset provision (component_b_present = false) are absent. Study appears focused on irrigation policy rather than graduation programming."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Tanzania (Morogoro region), which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false, no evidence of any cash support or transfers provided."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, no evidence of direct asset provision. Study appears to examine irrigation access rather than providing productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "irrigation access",
+      "livelihoods"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "is_review_or_policy_analysis = true, study_design = 'Case study'. This appears to be a policy analysis using qualitative methods rather than a quantitative impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished findings."
+  }
+}

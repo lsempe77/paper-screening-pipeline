@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'China's poverty alleviation policy (CPAP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence that this is a graduation/TUP program. While cash support is present, there is no evidence of productive asset provision, and no explicit mention of graduation/TUP approach"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China, which was classified as an upper-middle income country during the study period (2010-2020)"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'cash assistance', and is_loan_or_credit = 'NO'. Program provides cash support, not loans"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no assets listed in assets_provided. No evidence of productive asset provision"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "industrial structure",
+      "economic development"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Difference-in-differences (DID)', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings"
+  }
+}

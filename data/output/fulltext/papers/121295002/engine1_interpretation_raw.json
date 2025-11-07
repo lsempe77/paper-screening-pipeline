@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Maziko trial' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "This is not identified as a graduation program. While it has cash transfers, it lacks the productive asset component characteristic of graduation programs. No mention of graduation/TUP terminology."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Malawi, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, with monthly cash transfers of ~17 USD or ~43 USD per month. Explicitly noted as 'maternal and child cash transfer' and is_loan_or_credit = 'NO'."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no assets provided, direct_provision = 'NO'. No indication of productive asset provision in the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "nutrition"
+    ],
+    "tertiary_outcomes": [
+      "child development",
+      "maternal mental health",
+      "maternal empowerment",
+      "child feeding practices"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Cluster-randomised controlled trial' and is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation design."
+  },
+  "criterion_6_completed": {
+    "assessment": "NO",
+    "reasoning": "completed = false. This is a study protocol, not a completed study with results."
+  }
+}

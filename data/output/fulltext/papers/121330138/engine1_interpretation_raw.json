@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is identified as 'Field experiment on exchange asymmetries' with clear description of intervention components and setting."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes both cash and asset components, there is no explicit mention of this being a graduation/TUP program. The one-time cash transfer and experimental nature suggest this is a research study on exchange behavior rather than a comprehensive graduation program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, with one-time cash amounts of 40-140 EB provided. is_loan_or_credit = NO confirms this is not a loan program."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true with direct_provision = YES. Program directly provides productive assets including tools (plough, hoe or fork) and fertilizer."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "exchange asymmetries",
+      "input demand",
+      "input supply",
+      "price responses"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While study uses appropriate methodology ('Randomized field experiment' and is_review_or_policy_analysis = false), none of the measured outcomes ('exchange asymmetries', 'input demand', 'input supply', 'price responses') fall into primary or secondary outcome categories. All measured outcomes are classified as tertiary."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true indicates the study presents finished research findings."
+  }
+}

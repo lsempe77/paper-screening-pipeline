@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Ujana Salama (Safe Youth) Cash Plus Intervention' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence this is a graduation/TUP program. While it includes a productive grant, it lacks the core graduation model components (no evidence of combined consumption support and productive asset provision)."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Tanzania, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "While component_a_present = true and is_loan_or_credit = 'NO', the only cash support mentioned is a 'productive grant' which appears to be for business/productive purposes rather than consumption support. This should be evaluated under the assets criterion rather than consumption support criterion."
+  },
+  "criterion_3_assets": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While there is a 'productive grant' mentioned, component_b_present = false and direct_provision = 'UNCLEAR'. Without more details about how the productive grant was implemented or what it was used for, cannot determine if this constitutes direct asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "relationships",
+      "mental health",
+      "violence",
+      "gender attitudes",
+      "sexual behaviors"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation design."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study conducted 2018-2021 and presents finished research findings."
+  }
+}

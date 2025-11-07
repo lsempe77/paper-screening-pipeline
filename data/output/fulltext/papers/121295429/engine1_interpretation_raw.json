@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Productive Safety Net Program (PSNP)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - both cash support and asset components are absent (component_a_present = false, component_b_present = false). No explicit mention of graduation/TUP approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false and no cash support evidence provided in extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = [], and no evidence of direct asset provision in extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses Propensity Score Matching, which is an appropriate quasi-experimental impact evaluation method. is_review_or_policy_analysis = false confirms this is primary research."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished research findings. Study was conducted in 2019 with a sample size of 188."
+  }
+}

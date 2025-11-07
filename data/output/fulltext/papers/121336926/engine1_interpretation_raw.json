@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC CFPR (Challenging the Frontiers of Poverty Reduction)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program has both core graduation components: weekly cash stipend (175 Taka) and direct provision of productive assets. BRAC CFPR is a known graduation program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'weekly stipend', amount = '175 Taka', is_loan_or_credit = 'NO'. Program provides regular cash support."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'productive assets', direct_provision = 'YES'. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "asset ownership",
+      "savings"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "women's empowerment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Panel study with comparison group', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2002-2008 with results presented"
+  }
+}

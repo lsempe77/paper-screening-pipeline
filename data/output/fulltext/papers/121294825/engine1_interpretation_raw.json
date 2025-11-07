@@ -1,0 +1,38 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Ultra-poor Graduation (UPG) model' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program is explicitly identified as 'Ultra-poor Graduation (UPG) model', using graduation terminology. However, component evidence is missing to verify implementation details."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false and no evidence citation provided regarding cash support in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false and no evidence citation provided regarding asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption",
+      "wealth"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)' and is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation design."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished research findings."
+  }
+}

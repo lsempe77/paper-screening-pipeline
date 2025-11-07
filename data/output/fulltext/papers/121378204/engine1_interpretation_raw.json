@@ -1,0 +1,35 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Forsa' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While both cash and asset components appear present, there are insufficient citations/quotes to confirm if this is explicitly a graduation program or to verify the nature of the components."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Egypt, which is classified as a lower-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'cash transfer', and is_loan_or_credit = 'NO'. Program provides cash transfers, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While component_b_assets.present = true, the assets_provided list is empty and direct_provision = 'UNCLEAR'. Insufficient information to determine if productive assets are directly provided."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "UNCLEAR",
+    "reasoning": "study_design is null and no design details are provided. Cannot determine if appropriate impact evaluation methods were used."
+  },
+  "criterion_6_completed": {
+    "assessment": "NO",
+    "reasoning": "completed = false indicates this is not a finished study with results."
+  }
+}

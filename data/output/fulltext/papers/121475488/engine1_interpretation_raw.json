@@ -1,0 +1,38 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'BRAC Targeting the Ultra Poor (TUP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program is explicitly identified as 'BRAC Targeting the Ultra Poor (TUP)', which is a canonical graduation/TUP program name. Additionally, evidence shows direct provision of productive assets, though cash support evidence is missing in extraction."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false and no cash support evidence is provided in the extraction"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', and assets_provided includes 'productive assets'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "informal transfers",
+      "socio-economic conditions"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted from 2007-2014 with a sample size of 21000"
+  }
+}

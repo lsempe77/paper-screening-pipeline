@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Program 135-II (P135-II)' is clearly identified, targeting ethnic minority and mountainous areas in Vietnam."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation program - neither explicit graduation/TUP terminology nor the required combination of cash support and productive assets is present in the extracted information."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Vietnam, which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, with no evidence of cash transfers or consumption support in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, direct_provision = NO, with no evidence of productive asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "asset ownership",
+      "income/earnings",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Difference-in-differences', is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2007-2012 with results presented."
+  }
+}

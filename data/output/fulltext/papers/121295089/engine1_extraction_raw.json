@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "The Transfer Payment Policy of National Key Ecological Functional Areas (TPEFAP) and its spatial spillovers on poverty alleviation in China",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Transfer Payment Policy of National Key Ecological Functional Areas (TPEFAP)",
+    "country": "China",
+    "region": "Key ecological functional areas",
+    "target_population": "Rural residents in ecological functional areas"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "ecological compensation subsidies",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "TPEFAP allocates the subsidies to local governments, which then carry out unified planning and management of the development and construction of key ecological function areas"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "environmental conservation",
+      "rural employment",
+      "labor mobility",
+      "agricultural productivity"
+    ],
+    "outcomes_evidence_citation": "For potential channels, rural non-farm employment, rural labor mobility, and agricultural productivity are the key pathways through which the TPEFAP can alleviate poverty both in local and adjacent provinces",
+    "study_design": "Synthetic control method (SCM) and dynamic spatial Durbin model",
+    "design_evidence_citation": "we utilize panel data covering the key ecological functional areas of China during the period 2011-2018 to evaluate the impact of the TPEFAP on poverty alleviation and also its spatial spillovers by employing the synthetic control method (SCM) and the dynamic spatial Durbin model",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2011-2018",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The Transfer Payment Policy of National Key Ecological Functional Areas (TPEFAP), a well-known ecological compensation (eco-compensation) scheme in China",
+    "country_citation": "As the world's largest developing country, China has made a great economic progress in economy owing to reform and opening up",
+    "target_population_citation": "TPEFAP was opposed by local farmers who face poverty and difficulties in finding alternative livelihoods during implementation"
+  }
+}

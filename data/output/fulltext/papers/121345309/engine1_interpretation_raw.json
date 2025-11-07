@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Ukrainian Social Assistance System' is clearly identified as a specific social assistance program."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes both cash support and in-kind transfers, there is no mention of it being a graduation/TUP program. The assets provided (food vouchers, meals, medications) are not productive assets characteristic of graduation programs."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ukraine, which was classified as a lower-middle income country during the study period (2015)."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'social benefits and financial assistance', is_loan_or_credit = 'NO'. Program provides cash-based social assistance, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "While component_b_assets.present = true, the assets provided ['food vouchers', 'food packages', 'free medications', 'free school meals'] are consumption support items, not productive assets. No evidence of provision of income-generating assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction",
+      "income"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "social protection"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Policy analysis' and is_review_or_policy_analysis = true. This is a policy analysis, not a quantitative impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished analysis."
+  }
+}

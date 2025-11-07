@@ -1,0 +1,37 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Food Security Package (FSP) program' is clearly identified"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation program - only mentions credit provision without integrated package of cash support and productive assets. No explicit graduation/TUP terminology used."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia (Tigray region), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "While component_a is present, it is explicitly marked as credit (is_loan_or_credit = 'YES'). Loans/credit do not qualify as cash support under this criterion."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false and no assets are listed in assets_provided array. No evidence of direct asset provision by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "food security"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses quasi-experimental design (Propensity Score Matching) and is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true indicates the study presents finished research findings"
+  }
+}

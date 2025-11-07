@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Effect of Participation in Ecological Public Welfare Positions on Farmers' Household Income Composition: Evidence from China",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Ecological Public Welfare Positions (EPWP)",
+    "country": "China",
+    "region": "Jiangxi Province and Hubei Province",
+    "target_population": "Low-income farmers"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "wage income",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "PEPWP significantly increased farmers' planting income in Jiangxi Province, husbandry income in Hubei Province, and wage income in both provinces"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings",
+      "agricultural productivity",
+      "labor supply"
+    ],
+    "outcomes_evidence_citation": "Results showed that (1) PEPWP was characterized by 'self-selection', which significantly increased farmers' wage level, planting income in Jiangxi Province, and husbandry income in Hubei Province",
+    "study_design": "Propensity Score Matching (PSM)",
+    "design_evidence_citation": "This study explored the effect of participation in ecological public welfare positions (PEPWP) on farmers' household income composition and clarified the internal mechanism by propensity score matching (PSM)",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2019",
+    "sample_size": 508,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The ecological public welfare positions policy, which involves low-income people in ecological conservation work",
+    "country_citation": "based on the field data from 508 formerly registered impoverished households in Jiangxi Province and Hubei Province, China",
+    "target_population_citation": "The ecological public welfare positions policy, which involves low-income people in ecological conservation work"
+  }
+}

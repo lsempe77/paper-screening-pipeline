@@ -1,0 +1,46 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Clear program name 'Graduating to Resilience RFSA' is identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly includes 'Graduating' in name and combines both cash support ($4-5/month consumption support + $300 IGA) and productive assets components, consistent with graduation approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Uganda (Kamwenge District), which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, provides '$4-5 per household member per month for consumption support' and is explicitly not a loan (is_loan_or_credit = NO)."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = YES, provides 'cash for income-generating activities' worth $300 USD as a productive asset transfer."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "asset accumulation",
+      "income/earnings",
+      "consumption/expenditure"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "nutrition"
+    ],
+    "tertiary_outcomes": [
+      "self-reliance",
+      "well-being",
+      "mental health"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted 2019-2021 and presents finished findings."
+  }
+}

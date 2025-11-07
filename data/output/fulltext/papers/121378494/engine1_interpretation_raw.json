@@ -1,0 +1,45 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Clear program name identified: 'Building Pathways Out of Poverty for Ultra-poor IDPs and Vulnerable Host Communities in Baidoa'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program has both core graduation components: unconditional cash transfers (not loans) and direct provision of productive assets (livestock and start-up assets). Program targets ultra-poor populations, consistent with graduation approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Somalia, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'unconditional cash transfers', is_loan_or_credit = 'NO'. Cash support disbursed over nine-month period."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'livestock' and 'start-up assets', direct_provision = 'YES'. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption",
+      "asset ownership",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "livelihoods"
+    ],
+    "tertiary_outcomes": [
+      "resilience",
+      "social capital"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "NO",
+    "reasoning": "completed = false. Study presents midline findings but is not yet complete."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program names clearly identified as 'Tchuma Tchato Project and Kwandu Conservancy CBNRM Programs'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation/TUP program components. Neither cash support nor productive assets are present in the program description."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Mozambique and Namibia, which are both low-middle income countries"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of any cash transfer or consumption support component"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no evidence of direct asset provision"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction",
+      "financial capital"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "household impacts"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study design described as 'Impact evaluation' and is_review_or_policy_analysis = false, indicating quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating study presents finished research findings"
+  }
+}

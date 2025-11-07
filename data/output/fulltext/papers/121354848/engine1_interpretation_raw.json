@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Multifaceted Ultra-Poor Program' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program has both core graduation components: cash support (component_a_cash_support.present = true, is_loan_or_credit = NO) and direct asset provision (component_b_assets.present = true, direct_provision = YES with animals and gardening kit). Program targets ultra-poor households."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Burkina Faso, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'cash transfer', and is_loan_or_credit = NO. Program provides cash support that is not a loan."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = YES, with productive assets listed as 'animals, gardening kit'. Program directly provides productive assets to participants."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": [
+      "child development",
+      "cognitive development"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

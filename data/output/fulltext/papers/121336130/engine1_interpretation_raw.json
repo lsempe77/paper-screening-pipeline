@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Federal Reindeer Program' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes asset provision (reindeer), it lacks the cash/consumption support component required for graduation programs. No evidence of being explicitly labeled as a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "NO",
+    "reasoning": "Study conducted in Alaska (United States), which is a high-income country. The US is not classified as a low- or middle-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false. No evidence of cash transfers or consumption support in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', assets_provided includes 'reindeer' and 'livestock'. Program directly provides productive assets to participants."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "asset accumulation",
+      "savings/financial"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "other"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental' and is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from the late 1930s."
+  }
+}

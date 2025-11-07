@@ -1,0 +1,57 @@
+{
+  "paper_metadata": {
+    "title": "Family Stress Model analysis of integrated poverty reduction intervention impact on child mental health in Burkina Faso",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Graduation program",
+    "country": "Burkina Faso",
+    "region": null,
+    "target_population": "Vulnerable families with children aged 10-15 and their female caregivers",
+    "program_name_citation": "Participants were randomized into a control arm, economic intervention using the Graduation approach (Treatment Arm 1), or a combination of economic strengthening and family coaching (Treatment Arm 2)",
+    "country_citation": "Longitudinal data were collected over the course of 24 months in a cluster-randomized controlled trial conducted among 360 dyads (children aged 10e15 and their female caregivers) in Burkina Faso",
+    "target_population_citation": "Longitudinal data were collected over the course of 24 months in a cluster-randomized controlled trial conducted among 360 dyads (children aged 10e15 and their female caregivers) in Burkina Faso"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "economic strengthening",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "economic intervention using the Graduation approach (Treatment Arm 1), or a combination of economic strengthening and family coaching (Treatment Arm 2)"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": "economic intervention using the Graduation approach (Treatment Arm 1)"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "mental health",
+      "depression",
+      "anxiety",
+      "self-esteem",
+      "parenting practices",
+      "violence exposure"
+    ],
+    "outcomes_evidence_citation": "Cross-lagged autoregressive longitudinal mediation analyses tested the intervention effect on child mental health, examining maternal depression, maternal anxiety, harsh parenting, and child exposure to abuse as potential mediators",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "cluster-randomized controlled trial conducted among 360 dyads",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "24 months",
+    "sample_size": 360,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  }
+}

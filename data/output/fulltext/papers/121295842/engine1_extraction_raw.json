@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Conditional cash transfers and parenting support program effects on child development outcomes",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Prospera CCT with Educación Inicial (EI) parenting program",
+    "country": "Mexico",
+    "region": "Rural communities in three Mexican states",
+    "target_population": "Families with children aged 3-5 years"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "conditional cash transfer",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Conditional cash transfer programs (CCTs) have shown mixed effects on child development outcomes in the context of poverty. | The parenting program (EI: Educación Inicial) was implemented at scale among beneficiaries of Prospera (a CCT, previously Oportunidades and Progresa)."
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "child development",
+      "parenting practices",
+      "home environment"
+    ],
+    "outcomes_evidence_citation": "Here, we use data from a randomized effectiveness trial to examine the pathways connecting parenting support and child development. | Findings were that participation in the T2 arm of the study was associated with a 13% increase in the number of play activities that parents engaged in with their children",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "Communities were stratified by indigenous classification and randomized to one of three arms: (T0) Comparison group (CCT benefits only); (T1) CCT benefits plus availability of EI in the community; or (T2) CCT benefits plus promotion and encouragement by the CCT program to participate in EI.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 1362,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "qualitative reports"
+    ],
+    "qualitative_evidence_citation": "Qualitative reports suggest that recruitment of caregivers to participate in the EI parenting program was more difficult in the T1 arm when compared with T2",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The parenting program (EI: Educación Inicial) was implemented at scale among beneficiaries of Prospera (a CCT, previously Oportunidades and Progresa)",
+    "country_citation": "Here, we use data from a randomized effectiveness trial to examine the pathways connecting parenting support and child development... from 91 rural communities in three Mexican states",
+    "target_population_citation": "Participants included children between the ages of 3 and 5 years old (n = 1,362) from 91 rural communities in three Mexican states"
+  }
+}

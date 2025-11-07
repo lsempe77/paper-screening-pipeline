@@ -1,0 +1,37 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name provided in extracted information (program_name = null). Study appears to examine decentralization policy broadly rather than a specific intervention."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - both cash support (component_a_present = false) and asset provision (component_b_present = false) are absent."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Indonesia (specifically NTT province), which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false. No evidence of any cash support or transfers in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = []. No evidence of any productive asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Policy analysis' and is_review_or_policy_analysis = true. This is a policy analysis rather than a quantitative impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished findings."
+  }
+}

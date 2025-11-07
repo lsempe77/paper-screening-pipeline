@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Impacts of the Productive Safety Net Program in Ethiopia on livestock and tree holdings of rural households",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Productive Safety Net Program (PSNP)",
+    "country": "Ethiopia",
+    "region": "Amhara region",
+    "target_population": "Food-insecure households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": "The PSNP is a public program through which food-insecure people are employed in public work for five days a month during the agricultural slack season"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "asset accumulation",
+      "livestock holdings",
+      "tree holdings"
+    ],
+    "outcomes_evidence_citation": "We studied both livestock and tree holdings. These assets are especially interesting for several reasons. Livestock is usually considered to be the most important productive asset in rural Ethiopia in general, and in our study areas in particular.",
+    "study_design": "Panel data with regression analysis and propensity score matching",
+    "design_evidence_citation": "We used both regression analysis and propensity score matching to evaluate the impacts of the Ethiopian Productive Safety Net Program on rural households' holdings of livestock and forest assets/trees. We used panel data collected in three surveys from 2002 to 2007.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2002-2007",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The PSNP is currently the largest operating social protection program in sub-Saharan Africa outside of South Africa.",
+    "country_citation": "We studied the Productive Safety Net Program (PSNP) in Ethiopia",
+    "target_population_citation": "The PSNP is a public program through which food-insecure people are employed in public work"
+  }
+}

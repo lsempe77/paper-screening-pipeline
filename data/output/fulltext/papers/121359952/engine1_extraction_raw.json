@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Impact of Ghana's Livelihood Empowerment Against Poverty (LEAP) programme on household food security in the Tolon District of the Northern Region",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Livelihood Empowerment Against Poverty (LEAP)",
+    "country": "Ghana",
+    "region": "Tolon District, Northern Region",
+    "target_population": "Poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfer",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Cash transfer programmes such as Ghana's Livelihood Empowerment Against Poverty (LEAP) have been identified as a strategy for poverty reduction among poor households"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security",
+      "consumption/expenditure"
+    ],
+    "outcomes_evidence_citation": "Food security indicators were computed using consumption expenditure on food (Adult equivalent), Household Dietary Diversity Score (HDDS), and Household Food Insecurity Access Scale (HFIAS)",
+    "study_design": "Endogenous Switching Regression (ESR)",
+    "design_evidence_citation": "An Endogenous Switching Regression (ESR) model was used to estimate the effects of participation in the LEAP programme on household food security",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 400,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Cash transfer programmes such as Ghana's Livelihood Empowerment Against Poverty (LEAP) have been identified as a strategy for poverty reduction among poor households",
+    "country_citation": "Cash transfer programmes such as Ghana's Livelihood Empowerment Against Poverty (LEAP) have been identified as a strategy for poverty reduction among poor households",
+    "target_population_citation": "The LEAP programme is focussed on addressing the health, education, and consumption needs of households"
+  }
+}

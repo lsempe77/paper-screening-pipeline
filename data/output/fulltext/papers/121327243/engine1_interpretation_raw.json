@@ -1,0 +1,47 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Clear program name provided: 'Sembrando Oportunidades Familia por Familia (SOF)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program includes both core graduation components: consumption support (component_a_present = true, is_loan_or_credit = NO) and direct provision of productive assets (component_b_present = true, direct_provision = YES, including livestock and productive assets)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Paraguay, which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, type = 'consumption support', and is_loan_or_credit = NO indicates cash/consumption support is provided"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true, direct_provision = YES, with assets_provided including 'livestock' and 'productive assets'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "poverty reduction",
+      "savings/financial",
+      "consumption/expenditure",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "labor supply"
+    ],
+    "tertiary_outcomes": [
+      "well-being",
+      "empowerment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Instrumental Variables (IV)', is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted in 2016-2017 and presents finished findings"
+  }
+}

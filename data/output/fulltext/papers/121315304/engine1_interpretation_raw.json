@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name provided in extraction. Study appears to examine buffalo productivity and supplementation but does not describe a specific intervention program."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation/TUP program components. Neither cash support nor asset provision are present in the intervention."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Punjab, India. India is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false, no evidence of any cash support or transfers in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "animal productivity",
+      "milk yield",
+      "reproductive parameters"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses 'Expost-facto research design' and is_review_or_policy_analysis = false, indicating a quantitative impact evaluation approach."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished research findings."
+  }
+}

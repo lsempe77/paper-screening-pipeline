@@ -1,0 +1,38 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Changshun County Agricultural Development Program' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While program has both cash support (subsidies) and asset provision (baby chicks), there is no explicit mention of this being a graduation/TUP program. The components appear to be part of a general agricultural development program rather than an integrated graduation approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China (Guizhou Province), which was classified as a lower-middle income country during the study period (2008-2012)."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'subsidy', amount = '239 yuan per mu annually', is_loan_or_credit = 'NO'. Program provides regular cash subsidies, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided = ['baby chicks'], direct_provision = 'YES'. Program directly provides productive assets (livestock)."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Case study' without a comparison group. Does not meet criteria for quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study covers period 2008-2012 and presents finished findings."
+  }
+}

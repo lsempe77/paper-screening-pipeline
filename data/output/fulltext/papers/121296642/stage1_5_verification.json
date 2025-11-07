@@ -1,0 +1,6 @@
+{
+  "assessment": "UNCLEAR",
+  "reasoning": "[Specific Program Not Verified] Paper mentions 'Farmstore' but search could not confirm this as graduation program: Perplexity search result: No information could be found about a program specifically named 'Farmstore' in Kenya that matches the description of a graduation or multi-component poverty program. Available results reference other graduation programs in Kenya—such as PROFIT Financial Graduation pilots, Village Enterprise, and BOMA Project’s REAP—and describe their characteristics, including cash transfers and productive asset support. However, there is no evidence connecting the name 'Farmstore' to any established graduation, cash, or asset program for the ultra-poor in Kenya. Without direct references or evaluations, it is not possible to verify the program against the requested criteria. | Graduation: UNCLEAR, Cash: UNCLEAR, Assets: UNCLEAR | Confidence: LOW | Sources: https://bracupgi.org/wp-content/uploads/2021/07/BRAC_PROFIT-Financial-Graduation-Report-Nov-2019.pdf, https://basis.ucdavis.edu/news/big-financial-impacts-poverty-graduation-program-women-northern-kenya, https://villageenterprise.org/blog/what-is-the-village-enterprise-poverty-graduation-model/",
+  "verified_program_name": "Farmstore",
+  "verification_applied": true
+}

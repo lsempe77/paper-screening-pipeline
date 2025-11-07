@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'MCA-N Transportation Project' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "This is a road infrastructure project, not a graduation program. No evidence of cash support or asset provision components typical of graduation programs."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Nicaragua, which is a low-middle income country, specifically in the Departments of León and Chinandega."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false. No evidence of any cash transfer or consumption support component."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, direct_provision = 'NO'. While the program involves road infrastructure, it does not provide productive assets directly to households."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption expenditures",
+      "poverty levels"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "market prices",
+      "transportation costs"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Difference-in-difference-in-differences (DDD)', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methodology."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from 2008-2009."
+  }
+}

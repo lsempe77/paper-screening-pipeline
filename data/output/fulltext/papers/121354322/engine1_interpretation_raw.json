@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'South Asia Poverty Alleviation Programme (SAPAP)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - both cash support and asset provision are absent (component_a_present = false, component_b_present = false). No explicit mention of graduation/TUP approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in India (Andhra Pradesh), which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false, no evidence of cash support or consumption support provided in extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, no evidence of productive assets being provided in extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "health",
+      "nutrition"
+    ],
+    "tertiary_outcomes": [
+      "women's empowerment",
+      "social cohesion",
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "Study design is described as 'Mixed methods (qualitative)' with extensive qualitative methods listed but no clear quantitative impact evaluation methodology."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true indicates the study presents finished research findings."
+  }
+}

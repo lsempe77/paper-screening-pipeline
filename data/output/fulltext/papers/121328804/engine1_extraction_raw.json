@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Fiscal Decentralization and Poverty Reduction: Evidence from Cambodia's Commune Fund",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Commune Sangkat Fund (CSF)",
+    "country": "Cambodia",
+    "region": "National",
+    "target_population": "Rural communes/villages"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": "The program sought to simultaneously create local administrative and political capacity... the law gave its recipients latitude to determine the types of investment projects to finance from the funds, as well as to manage the projects"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "consumption/expenditure",
+      "income/earnings"
+    ],
+    "outcomes_evidence_citation": "Households having access to CS funds experienced, on average, an 8.7% reduction in their likelihood of being in poverty... households in CSF-treated villages, on average, increased their consumption spending by 6.6% or Khmer Riels 293.3 per day and saw their income rise by 13.3%",
+    "study_design": "Difference-in-differences",
+    "design_evidence_citation": "We do so by applying a difference-indifferences econometric approach using household surveys that were collected with the goal of measuring poverty accurately",
+    "is_review_or_policy_analysis": false,
+    "publication_year": 2021,
+    "study_conducted_year": "2002-2004",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Program comprised less than 3% of national budget",
+    "cost_evidence_citation": "comprising less than 3% of the national budget"
+  },
+  "evidence_citations": {
+    "program_name_citation": "We study a policy, mandated by Cambodia's decentralization laws, that provides central funding to the lowest tier of subnational administration, the 2002 Commune Sangkat Fund (or CSF)",
+    "country_citation": "We study a policy, mandated by Cambodia's decentralization laws",
+    "target_population_citation": "provides central funding to the lowest tier of subnational administration"
+  }
+}

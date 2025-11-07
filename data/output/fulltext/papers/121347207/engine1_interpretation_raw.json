@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "Only generic reference to 'IFAD-supported projects' without specific program name or detailed description."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - neither cash support nor asset provision are present in the extracted information."
+  },
+  "criterion_1_lmic": {
+    "assessment": "UNCLEAR",
+    "reasoning": "Country information is null in the extracted data. Cannot determine if implemented in LMIC."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash support in extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided is empty. No evidence of productive asset provision in extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction",
+      "household asset ownership"
+    ],
+    "secondary_outcomes": [
+      "food security"
+    ],
+    "tertiary_outcomes": [
+      "child malnutrition"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "is_review_or_policy_analysis = true indicates this is a review/synthesis rather than primary impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "NO",
+    "reasoning": "completed = false indicates study is not finished or does not present final results."
+  }
+}

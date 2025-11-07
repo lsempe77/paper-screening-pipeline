@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is identified as 'Economic strengthening and family coaching intervention' with clear target population and location."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No explicit mention of graduation/TUP program. While assets are mentioned, there is no cash/consumption support component evidenced, so it does not match graduation program structure."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Burkina Faso, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash transfers or consumption support provided."
+  },
+  "criterion_3_assets": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While component_b_assets.present = true with 'economic resources, assets' listed, direct_provision = 'UNCLEAR' and no specific details provided about how assets were delivered or what specific assets were given."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "women's empowerment",
+      "decision-making power",
+      "children's wellbeing"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating study presents finished research findings."
+  }
+}

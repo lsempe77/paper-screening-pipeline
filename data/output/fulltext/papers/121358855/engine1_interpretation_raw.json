@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Integrated Sustainable Land Management (ISLM) technologies program' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation/TUP program. While it includes asset provision, it lacks the cash/consumption support component characteristic of graduation programs."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia (North Gojjam sub-basin), which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash or consumption support provided in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES'. Program directly provides productive assets including 'agricultural inputs, soil and water conservation structures, improved seeds'."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses quantitative impact evaluation methods (Endogenous Switching Regression), is_review_or_policy_analysis = false."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study presents finished research findings with a sample size of 414."
+  }
+}

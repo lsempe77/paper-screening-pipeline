@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Rural Delivery of Newcastle Disease Vaccines in Nigeria: A Two-Pronged Approach to Poverty Reduction",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Newcastle Disease Vaccine Rural Delivery Programme",
+    "country": "Nigeria",
+    "region": "Rural areas",
+    "target_population": "Rural smallholder poultry farmers, particularly women"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poultry health",
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "Newcastle disease is known to have the most devastating effect on rural flock (chicken owners lose 50 -100% of their flock annually) and on the economic capacity of rural households",
+    "study_design": "Case study",
+    "design_evidence_citation": "Propcom Mai-karfi's Household Assessment, 2013",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": "2013",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Rural Delivery of Newcastle Disease Vaccines in Nigeria A Two-Pronged Approach to Poverty Reduction Programme",
+    "country_citation": "The poultry sector in Nigeria is vital to the livelihoods of the rural poor and for women in particular",
+    "target_population_citation": "Over 60% of the country's poultry population is reared as free range chickens (village chickens) in the backyards of rural households"
+  }
+}

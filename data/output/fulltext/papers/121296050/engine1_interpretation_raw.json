@@ -1,0 +1,46 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC Targeting the Ultra-poor (TUP) Program'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as a TUP (Targeting the Ultra-Poor) program, which is a graduation approach. Additionally, both core components are present: consumption support (not loans) and direct provision of productive assets (livestock, tree nurseries, pushcarts)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh (Rangpur, Kurigram, and Nilphamari districts), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'consumption support', is_loan_or_credit = 'NO'. Program provides consumption support that is not a loan"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', with specific productive assets listed: 'livestock (cows, goats), tree nurseries, pushcarts for vending'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "asset accumulation",
+      "savings/financial"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "women's empowerment",
+      "child labor",
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Panel data with difference-in-differences and matching', is_review_or_policy_analysis = false. Uses appropriate quasi-experimental methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2002-2005 with results presented"
+  }
+}

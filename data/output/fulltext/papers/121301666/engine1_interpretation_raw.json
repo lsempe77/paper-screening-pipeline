@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'One Acre Fund (1AF) core program' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Not identified as a graduation program. While it provides assets (agricultural inputs), it uses loans rather than cash support, which does not match graduation program model."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Kenya (Teso region), which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false and is_loan_or_credit = 'YES'. Program uses loans/credit rather than cash transfers, which does not meet this criterion."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'agricultural inputs', and direct_provision = 'YES'. Program directly provides productive assets to participants."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings"
+    ],
+    "secondary_outcomes": [
+      "work/employment"
+    ],
+    "tertiary_outcomes": [
+      "agricultural output",
+      "yields"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

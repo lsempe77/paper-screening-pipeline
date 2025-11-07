@@ -1,0 +1,8 @@
+{
+  "level": "PARTIAL",
+  "num_agree": 4,
+  "num_partial": 3,
+  "num_conflict": 0,
+  "differences": [],
+  "explanation": "4/8 criteria in agreement, 3 partial. Engines partially agree with some uncertainty."
+}

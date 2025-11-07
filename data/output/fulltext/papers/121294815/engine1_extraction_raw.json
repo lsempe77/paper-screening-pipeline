@@ -1,0 +1,61 @@
+{
+  "paper_metadata": {
+    "title": "SHOUHARDO III Program Evaluation",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "SHOUHARDO III",
+    "country": "Bangladesh",
+    "region": "Char and haor areas",
+    "target_population": "Poor households in environmentally vulnerable areas"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security/nutrition",
+      "women's empowerment",
+      "resilience",
+      "WASH",
+      "youth employment",
+      "child nutrition"
+    ],
+    "outcomes_evidence_citation": "Overall, the research team found that there was progress over time in each of SHOUHARDO III's focus areas... including WASH-associated outcomes such as access to improved water sources... women's empowerment and related outcomes... child nutrition outcomes",
+    "study_design": "Quasi-experimental with matched comparison villages",
+    "design_evidence_citation": "The evaluation also includes a rigorous impact evaluation using a matched comparison village design and a qualitative performance evaluation of project implementation, performance, and sustainability.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2021-2022",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "qualitative performance evaluation"
+    ],
+    "qualitative_evidence_citation": "Data Management Aid and a team of local consultants collect qualitative data from October to November 2021.",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The SHOUHARDO III evaluation enhanced the originally planned endline evaluation of the SHOUHARDO III project",
+    "country_citation": "Bangladesh has made progress addressing some of the key challenges facing its population including health access, job availability, and poverty.",
+    "target_population_citation": "SHOUHARDO III trained select youth in industries that required them to leave char and haor areas in order to find employment."
+  }
+}

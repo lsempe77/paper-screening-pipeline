@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Nicaragua CCT program' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program has both cash transfers and business grants, it is not explicitly identified as a graduation/TUP program. The target population and program structure (CCT for education) suggests this is a standard CCT program rather than an integrated graduation approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study was conducted in Nicaragua, which is classified as a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true and is_loan_or_credit = 'NO'. Program provides conditional cash transfers, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', and assets_provided includes 'business grant for non-farming enterprise'. The program directly provides productive assets through business grants."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "household income"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "child labor",
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)' and is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation design."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. The study presents finished research findings from 2006."
+  }
+}

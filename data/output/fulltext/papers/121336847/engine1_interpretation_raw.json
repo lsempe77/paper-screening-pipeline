@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Nepal Poverty Alleviation Fund (PAF)' is clearly identified"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program provides productive assets, there is no evidence of cash/consumption support component, and no explicit mention of this being a graduation/TUP program"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Nepal, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, and no evidence of cash transfers or consumption support in the extracted information"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', with assets including 'income generating activities (IG)' and 'small-scale village and community infrastructure'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": [
+      "education",
+      "social cohesion",
+      "women's empowerment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2007-2010 with results presented"
+  }
+}

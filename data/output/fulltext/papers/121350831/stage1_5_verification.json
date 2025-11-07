@@ -1,0 +1,6 @@
+{
+  "assessment": "UNCLEAR",
+  "reasoning": "[Specific Program Not Verified] Paper mentions 'Youth-in-Agribusiness program (YIAP)' but search could not confirm this as graduation program: Perplexity search result: Available academic sources confirm that the Youth-in-Agribusiness Program (YIAP) in Nigeria aims to reduce youth poverty by promoting participation in agricultural businesses. The cited impact assessment paper finds positive effects on income and asset ownership among participating youth, suggesting provision or facilitation of productive assets[5]. However, there is no direct evidence in the research for a structured graduation model as per BRAC or IPA specifications, nor any explicit reference to cash transfers or stipends for participants. The literature focuses on skills training, empowerment, and income increases, but does not specify transfer modalities or whether the program is multipronged in the conventional graduation sense. | Graduation: UNCLEAR, Cash: UNCLEAR, Assets: YES | Confidence: MEDIUM | Sources: https://www.cabidigitallibrary.org/doi/pdf/10.5555/20220242261, https://poverty-action.org/nigeria-graduation-roundtable-sharing-lessons-and-charting-way-forward",
+  "verified_program_name": "Youth-in-Agribusiness program (YIAP)",
+  "verification_applied": true
+}

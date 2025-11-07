@@ -1,0 +1,57 @@
+{
+  "paper_metadata": {
+    "title": "Pro-Poor Tourism and Indigenous Communities",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": null,
+    "region": null,
+    "target_population": null
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income",
+      "well-being",
+      "food security",
+      "natural resource use"
+    ],
+    "outcomes_evidence_citation": "Different groups and individuals will adopt different livelihood strategies in seeking to minimise their vulnerability whilst maximising a diverse range of livelihood outcomes including cash and subsistence incomes; increased well-being -for example education and health; improved food security and, more sustainable use of natural resources",
+    "study_design": "Case study",
+    "design_evidence_citation": "This approach has been used by Ashley (2000) in Namibia, Wood (2005) in Peru and Saville (2001) in Nepal",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": null,
+    "target_population_citation": null
+  }
+}

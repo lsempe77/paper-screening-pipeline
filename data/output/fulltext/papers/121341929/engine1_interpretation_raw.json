@@ -1,0 +1,46 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'One House One Farm (Ektee Bari Ektee Khamar)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No explicit mention of graduation/TUP program, and while assets are provided, there is no evidence of cash/consumption support component"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh (Mymensingh district), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash transfers or consumption support in extracted information"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', with assets including 'farming inputs' and 'agricultural resources'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings"
+    ],
+    "secondary_outcomes": [
+      "employment",
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": [
+      "human capital",
+      "social capital",
+      "natural capital",
+      "physical capital",
+      "financial capital"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating study presents finished research findings"
+  }
+}

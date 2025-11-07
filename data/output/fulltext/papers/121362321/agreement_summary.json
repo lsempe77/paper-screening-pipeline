@@ -1,0 +1,8 @@
+{
+  "level": "CONFLICT",
+  "num_agree": 0,
+  "num_partial": 4,
+  "num_conflict": 3,
+  "differences": [],
+  "explanation": "Conflicts on: Criterion 0: Program Name, Criterion 3: Productive Assets, Criterion 6: Study Completed. Engines disagree."
+}

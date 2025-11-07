@@ -1,0 +1,61 @@
+{
+  "paper_metadata": {
+    "title": "Evaluation of Government Programs for Mitigating Drug and Substance Abuse in Kilifi and Mombasa Counties, Kenya",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Government drug and substance abuse mitigation programs",
+    "country": "Kenya",
+    "region": "Kilifi and Mombasa Counties (coastal region)",
+    "target_population": "General population, with focus on youth"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "program effectiveness",
+      "law enforcement outcomes",
+      "prevention outcomes",
+      "treatment outcomes",
+      "harm reduction outcomes"
+    ],
+    "outcomes_evidence_citation": "Government programs in the study region focused on prevention, treatment, law enforcement, and harm reduction, proving effective to varying degrees. The study revealed that law enforcement programs were more effective than the others.",
+    "study_design": "Evaluative research design with mixed methods",
+    "design_evidence_citation": "The study adopted an evaluative research design, which helps to ascertain the effectiveness of government-related programs in the mitigation of drug and substance abuse.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 552,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "interviews",
+      "focus group discussions"
+    ],
+    "qualitative_evidence_citation": "Data was collected through interviews, focus group discussions, observations, and questionnaires.",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The objective of this paper was to evaluate the government's programs for mitigating drug and substance abuse in the Kilifi and Mombasa Counties of the coastal region of Kenya.",
+    "country_citation": "The study was conducted in Kilifi and Mombasa Counties. The two counties were purposively selected because they have a high prevalence of drugs and substance abuse in the coastal region.",
+    "target_population_citation": "Almost all countries across the world have been contending with the endemic problem of drug abuse, especially among the young generation."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "paper_metadata": {
+    "title": "Individual Development Accounts (IDAs) Asset Accumulation Study",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Individual Development Accounts (IDAs)",
+    "country": "United States",
+    "region": "Tulsa",
+    "target_population": "Low-income households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": "matched savings",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Using a longitudinal experimental research design, the study tests whether the experiment affects accumulation in five types of assets: liquid assets, other financial assets, total financial assets, real assets, and total assets."
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": "Results show that the experimental and control groups do not differ to a statistically significant degree on the five measures."
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "liquid assets",
+      "financial assets",
+      "real assets",
+      "total assets"
+    ],
+    "outcomes_evidence_citation": "the study tests whether the experiment affects accumulation in five types of assets: liquid assets, other financial assets, total financial assets, real assets, and total assets",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "Using a longitudinal experimental research design",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This study examines whether participation in Individual Development Accounts (IDAs) provides low-income participants with significant accumulation in assets beyond matched savings",
+    "country_citation": "the Tulsa IDA program",
+    "target_population_citation": "provides low-income participants with significant accumulation in assets beyond matched savings"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name clearly identified as 'Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Program is a credit/loan program without evidence of being a graduation program. No mention of graduation/TUP approach, and lacks core graduation components (only provides loans, no direct asset provision or non-loan cash support)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Brazil, which was classified as a middle-income country during the study period (2001-2009)"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "Component is present but is_loan_or_credit = 'YES' and type = 'credit/loans'. Loans/credit do not qualify as cash support under this criterion"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, direct_provision = 'NO', and no assets listed in assets_provided. No evidence of direct asset provision by the program"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "inequality"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses panel data analysis (GMM-System), is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true and study covers period 2001-2009 with analysis of results"
+  }
+}

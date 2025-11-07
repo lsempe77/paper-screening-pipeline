@@ -1,0 +1,45 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Livelihood Empowerment Against Poverty (LEAP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation program - only has cash transfers (component_a_present = true) but lacks asset component (component_b_present = false). No explicit mention of graduation/TUP approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ghana, which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'cash transfer', is_loan_or_credit = 'NO'. Program provides cash transfers, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no assets listed as being provided. While asset ownership is measured as an outcome, there is no evidence of direct asset provision by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty",
+      "asset ownership"
+    ],
+    "secondary_outcomes": [
+      "nutrition",
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "water",
+      "sanitation",
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Difference-in-differences', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from 2010-2012."
+  }
+}

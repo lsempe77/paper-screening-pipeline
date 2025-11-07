@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "The Maziko trial: study protocol for a cluster-randomised controlled trial evaluating the effectiveness of integrating early childhood development, nutrition-sensitive social behaviour change and cash transfers to improve maternal diets and child nutrition and development in Malawi",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Maziko trial",
+    "country": "Malawi",
+    "region": "Two districts",
+    "target_population": "Pregnant women and children < 2 years of age"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "maternal and child cash transfer",
+      "cash_amount": "~17 USD per month (low CT arm) or ~43 USD per month (high CT arm)",
+      "cash_frequency": "monthly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "(3) low CT arm: SoC plus SBC plus a maternal and child cash transfer ~ 17 USD per month; and (4) high CT arm: SoC plus SBC plus a maternal and child CT ~ 43 USD per month"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "maternal diet",
+      "child development",
+      "maternal mental health",
+      "maternal empowerment",
+      "child feeding practices",
+      "child nutritional status"
+    ],
+    "outcomes_evidence_citation": "The primary outcomes are maternal diet assessed using the mean probability of adequacy and child development assessed using the Malawi Developmental Assessment Tool. Intermediate outcomes along the programme impact pathways will also be measured, including maternal mental health, maternal empowerment, child feeding practices, and child nutritional status.",
+    "study_design": "Cluster-randomised controlled trial",
+    "design_evidence_citation": "We designed a 3-year cluster-randomised controlled trial in two districts of Malawi, including 156 communities randomised to one of four treatment arms",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 156,
+    "completed": false
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Will evaluate cost-effectiveness",
+    "cost_evidence_citation": "The Maziko trial is aimed at evaluating the effectiveness and cost-effectiveness of using CBCCs and parenting care groups as platforms"
+  },
+  "evidence_citations": {
+    "program_name_citation": "The Maziko trial is aimed at evaluating the effectiveness and cost-effectiveness",
+    "country_citation": "We designed a 3-year cluster-randomised controlled trial in two districts of Malawi",
+    "target_population_citation": "The trial will enrol pregnant women and children < 2 years of age"
+  }
+}

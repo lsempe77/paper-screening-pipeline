@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Social assistance influences effects of flooding on household consumption and adult diets in southern Bangladesh",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Transfer Modality Research Initiative (TMRI)",
+    "country": "Bangladesh",
+    "region": "Southern coastal region",
+    "target_population": "Poor rural households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfers",
+      "cash_amount": null,
+      "cash_frequency": "monthly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "TMRI provided monthly cash or food transfers, with or without nutrition behavior change communication (BCC)"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "consumption/expenditure",
+      "food security/nutrition",
+      "savings/financial"
+    ],
+    "outcomes_evidence_citation": "We assess whether a social assistance program influenced the effects of prior monsoon flooding on household consumption and adult diets in southern Bangladesh | Our findings suggest that, without TMRI, a one-standard-deviation increase in lagged flooding led to households smoothing consumption by drawing down savings and reducing diet quality among both men and women",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "TMRI provided monthly cash or food transfers, with or without nutrition behavior change communication (BCC), following a randomized control trial design in two regions of rural Bangladesh",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2012-2014",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "We study the Transfer Modality Research Initiative (TMRI), implemented by the World Food Programme between 2012-2014",
+    "country_citation": "We assess whether a social assistance program influenced the effects of prior monsoon flooding on household consumption and adult diets in southern Bangladesh",
+    "target_population_citation": "among poor households in southern Bangladesh who did not receive TMRI"
+  }
+}

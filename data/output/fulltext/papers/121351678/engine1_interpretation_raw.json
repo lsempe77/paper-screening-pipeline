@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'State-Owned Asset Management Companies (SOAMCs) and SASAC' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation/TUP program components. Neither cash support nor productive asset provision is present."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China, which was classified as a low-middle income country during the study period (1994-2003)."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false. No evidence of any cash transfer or consumption support component."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, direct_provision = 'NO'. No evidence of productive asset provision to participants."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "firm profitability",
+      "operating margins"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses quantitative analysis of firm performance data and is_review_or_policy_analysis = false, indicating appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings covering 1994-2003 period."
+  }
+}

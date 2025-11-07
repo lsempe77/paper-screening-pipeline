@@ -1,0 +1,46 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Child Development Grant Program (CDGP)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash transfers, it lacks the productive asset component required for graduation programs. No evidence of being explicitly labeled as a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Nigeria (Northern Nigeria), which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'unconditional cash transfer', amount = 'US$22 per month', is_loan_or_credit = 'NO'. Program provides regular cash transfers."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "consumption/expenditure",
+      "savings/financial"
+    ],
+    "secondary_outcomes": [
+      "health",
+      "nutrition",
+      "food security",
+      "labor supply"
+    ],
+    "tertiary_outcomes": [
+      "child anthropometrics"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2015-2017 with results presented. Study presents finished research findings."
+  }
+}

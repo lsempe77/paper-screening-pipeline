@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Kenya Social and Economic Inclusion Programme (KSEIP)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program includes both core graduation components: cash transfers (component_a_present = true, is_loan_or_credit = NO) and productive assets (component_b_present = true, direct_provision = YES including 'asset building' and 'income generation investments')."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Kenya, which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, type = 'cash transfers', is_loan_or_credit = NO. Program provides cash support, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true, assets_provided includes 'asset building' and 'income generation investments', direct_provision = YES. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "consumption/expenditure"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "business performance",
+      "economic inclusion"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation design."
+  },
+  "criterion_6_completed": {
+    "assessment": "NO",
+    "reasoning": "completed = false, study_conducted_year indicates 'endline planned' for 2025. This is a baseline report without completed results."
+  }
+}

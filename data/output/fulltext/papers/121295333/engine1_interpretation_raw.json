@@ -1,0 +1,38 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'Citizens Damage Compensation (Watan Card) Program'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "This is not a graduation program - it's a disaster relief program with only cash transfers. No evidence of being a graduation/TUP program and lacks the productive asset component required for graduation programs."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Pakistan, which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, is_loan_or_credit = 'NO'. Program provides cash transfers of 20,000 Pakistan Rupees annually for three years"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no assets provided, direct_provision = 'NO'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "aspirations",
+      "well-being"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While study uses quasi-experimental methods, it only measures tertiary outcomes (aspirations, well-being). No primary or secondary outcomes are measured."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study presents finished research findings from 2010-2013"
+  }
+}

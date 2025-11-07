@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Bolsa Familia' is clearly identified as Brazil's conditional cash transfer program."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Program is not identified as a graduation/TUP program. While it has cash transfers (component_a_present = true), it lacks productive asset provision (component_b_present = false). This is a standard CCT program, not a graduation program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Brazil, which was classified as a middle-income country during the study period (2003-2006)."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, type = 'conditional cash transfer', amount = 'R$50 fixed monthly stipend for very poor families + R$15 variable payment per child', is_loan_or_credit = 'NO'. Program provides regular cash transfers, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision in the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "health",
+      "nutrition"
+    ],
+    "tertiary_outcomes": [
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Policy analysis', is_review_or_policy_analysis = true. This is a policy analysis, not a quantitative impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished analysis of the program."
+  }
+}

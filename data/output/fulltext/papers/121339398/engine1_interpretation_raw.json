@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name or clear program description provided in the extracted information. Study appears to be a macro-level analysis of foreign capital and economic freedom."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components. Neither cash support (component_a_present = false) nor asset provision (component_b_present = false) are present."
+  },
+  "criterion_1_lmic": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While study mentions 'developing and least developed countries', no specific country information is provided in the extracted data (country = null)."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false. No evidence of any cash support or transfers in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = []. No evidence of any productive asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "economic growth",
+      "economic freedom"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "is_review_or_policy_analysis = true. Study is a panel analysis of macro-level factors rather than an impact evaluation of a specific intervention."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings covering 1995-2018."
+  }
+}

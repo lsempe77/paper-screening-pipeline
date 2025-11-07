@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "The contribution of forest cooperatives in reducing poverty in woreda Medbay Zana, Northern West of Tigray Zone, Ethiopia",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Forest Management Cooperatives",
+    "country": "Ethiopia",
+    "region": "Medebay Zana, Northern West of Tigray Zone",
+    "target_population": "Landless farmers"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": "Forests Cooperatives play an important role in the livelihoods of rural people as a subsistence safety net, and as a source of cash income, a capital asset, and a source of employment"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings",
+      "poverty reduction",
+      "women's empowerment"
+    ],
+    "outcomes_evidence_citation": "The results from the poverty and inequality analysis show that incorporating forest cooperative incomes in household accounts contribute significantly to the reduction of rural poverty and income inequality... the result of the study indicated that the impact of forest coopertaives in women's empowerment is significant",
+    "study_design": "Quasi-experimental",
+    "design_evidence_citation": "Propensity score matching method of analysis was used to analyze the data and impact of the forest cooperatives",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 181,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "qualitative assessments"
+    ],
+    "qualitative_evidence_citation": "Qualitative as well as quantitative assessments were used",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Forest Management cooperative significantly reduces the level of poverty",
+    "country_citation": "This study was principally conducted to identify the role of forest management on reducing poverty, especially in its economic and social benefits to the poor farmers at the micro-level in the northern-west zone of Tigray",
+    "target_population_citation": "There are around 35,109 landless farmers in the Woreda; around 20,000 (57%) landless farmers have been participating in FMP individually and in a group"
+  }
+}

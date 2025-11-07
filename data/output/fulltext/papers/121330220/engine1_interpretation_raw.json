@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'Ethiopian Livelihood Investment Grant (LIG) pilot program'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While targeting ultra-poor, no explicit mention of being a graduation/TUP program. Only has cash component (no direct asset provision evidence), so does not meet combined component requirement."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'cash transfer for livelihood investment', and is_loan_or_credit = 'NO'. Program provides cash support that is not a loan."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no assets listed as being provided directly by the program"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income generation",
+      "asset building"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "fund allocation behavior",
+      "internal rate of return",
+      "capital growth rate"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental' and is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted in 2015/2016 and presents finished findings"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name is provided (program_name = null) and the study appears to be a general case study of environmental conditions and poverty rather than evaluating a specific intervention."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - both cash support (component_a_present = false) and asset provision (component_b_present = false) are absent. No mentions of graduation/TUP programming."
+  },
+  "criterion_1_lmic": {
+    "assessment": "NO",
+    "reasoning": "Study conducted in Costa Rica, which is classified as a high-income country by the World Bank."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false, no evidence of any cash support or transfers provided."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "environmental conditions",
+      "indigenous rights",
+      "capabilities"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "Study design is listed as 'Case study' and is_review_or_policy_analysis = true. Does not use quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished findings."
+  }
+}

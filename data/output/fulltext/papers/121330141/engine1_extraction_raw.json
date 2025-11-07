@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Enabling graduation for whom? Identifying and explaining heterogeneity in livelihood trajectories post-cash transfer exposure",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Graduation programme",
+    "country": "Rwanda",
+    "region": null,
+    "target_population": "Poor households",
+    "program_name_citation": "We use a data set from a graduation programme in Rwanda",
+    "country_citation": "We use a data set from a graduation programme in Rwanda",
+    "target_population_citation": "Many social protection programmes (frequently labelled as graduation programmes) that rely on a combination of cash transfers, savings and training for the protection and promotion of poor people's lives and livelihoods"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfer",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Many social protection programmes (frequently labelled as graduation programmes) that rely on a combination of cash transfers, savings and training"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security/nutrition",
+      "asset accumulation",
+      "livestock ownership",
+      "basic needs"
+    ],
+    "outcomes_evidence_citation": "Results for value of assets and TLUs are similar to those found for the food security and basic needs indicator",
+    "study_design": "Observational",
+    "design_evidence_citation": "Using novel panel survey data from a NGO-implemented graduation model programme in Rwanda",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Impact of urban productive safety net program on asset accumulation and consumption rate in Dessie city",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Urban Productive Safety Net Program (PSNP)",
+    "country": "Ethiopia",
+    "region": "Dessie city",
+    "target_population": "Poor urban households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfers",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The program combines two main components: direct support through cash and/or food transfers to eligible households, and support for public works programs. The cash and food transfers are intended to meet immediate consumption needs"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "asset accumulation",
+      "consumption",
+      "food security"
+    ],
+    "outcomes_evidence_citation": "Based on the econometric estimation results... The impact of program participation was also found to be positive and significant for both home asset and community asset. While food and non-food consumption even the total consumption and food security status are also positive.",
+    "study_design": "Randomized selection",
+    "design_evidence_citation": "A total of 112 households were selected randomly among the public work Urban Productive Safety Net Program beneficiary and non-beneficiary households.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 112,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Urban Productive Safety Net Program is designed to support the poor households and establish urban safety net mechanisms.",
+    "country_citation": "The Productive Safety Net Program (PSNP) is a large-scale social protection program implemented in Ethiopia since 2005.",
+    "target_population_citation": "Urban Productive Safety Net Program is designed to support the poor households"
+  }
+}

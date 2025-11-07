@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Economic Impact of International Fund for Agricultural Development-Value Chain Development Programme (IFAD-VCDP) on Rice Farmers in North Central Zone, Nigeria",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "International Fund for Agricultural Development-Value Chain Development Programme (IFAD-VCDP)",
+    "country": "Nigeria",
+    "region": "North Central Zone",
+    "target_population": "Rice farmers"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings",
+      "food security/nutrition",
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "Data obtained show a positive trend in net farm income per hectare, increasing from N390, 897.90 to N686, 652.91 before and after IFAD-VCDP intervention respectively. Before IFAD-VCDP intervention, 41.95% of the respondents were food-secured, improving to 61.43% after intervention. Poverty status of the respondents decreased from 50.5% before IFAD-VCDP to 43.8% after the programme intervention",
+    "study_design": "Quasi-experimental",
+    "design_evidence_citation": "The study assessed the economic impact of International Fund for Agricultural Development-Value Chain Development Programme (IFAD-VCDP) on rice farmers in North Central Zone, Nigeria using appropriate standard techniques with a well structured questionnaire",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The study assessed the economic impact of International Fund for Agricultural Development-Value Chain Development Programme (IFAD-VCDP) on rice farmers in North Central Zone, Nigeria",
+    "country_citation": "The study area was North Central Zone, Nigeria",
+    "target_population_citation": "The study assessed the economic impact of International Fund for Agricultural Development-Value Chain Development Programme (IFAD-VCDP) on rice farmers in North Central Zone, Nigeria"
+  }
+}

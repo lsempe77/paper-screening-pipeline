@@ -1,0 +1,38 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Productive Safety Net Program (PSNP) - Conditional Cash Transfer Component' in Ethiopia"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No explicit mention of graduation/TUP program. Only has cash component (CCT) without asset provision, so does not match graduation program structure"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia (Ebinat district, Amhara region), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'conditional cash transfer', is_loan_or_credit = 'NO'. Program provides conditional cash transfers on a monthly basis"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = []. No evidence of productive asset provision in the extracted information"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "food security",
+      "nutrition"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Cross-sectional', is_review_or_policy_analysis = false. While cross-sectional is a basic quantitative design, it qualifies as an impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings with a sample size of 365 conducted in 2018"
+  }
+}

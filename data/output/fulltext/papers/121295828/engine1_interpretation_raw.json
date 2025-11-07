@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS/NREGS)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Not a graduation program - this is an employment guarantee scheme. Only has wage employment component without productive asset transfers. No mention of graduation/TUP approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in India (Andhra Pradesh), which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, provides cash through wage employment guarantee for up to 100 days per year, is_loan_or_credit = 'NO'"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure",
+      "asset accumulation",
+      "income/earnings"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition",
+      "labor supply"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Difference-in-differences with propensity score matching', is_review_or_policy_analysis = false. Appropriate quasi-experimental design"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study presents finished findings from 2004-2008 with sample size of 3904"
+  }
+}

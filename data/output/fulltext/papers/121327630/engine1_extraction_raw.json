@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Using an exclusive data set from Indonesia in 2018-2020, this study aims to prove whether there is a relationship between the allocation of village funds and the level of hunger in the community",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Village Fund Program",
+    "country": "Indonesia",
+    "region": "National",
+    "target_population": "Rural villages"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "hunger",
+      "poverty"
+    ],
+    "outcomes_evidence_citation": "this study aims to prove whether there is a relationship between the allocation of village funds and the level of hunger in the community",
+    "study_design": "Regression analysis",
+    "design_evidence_citation": "Using a quantitative method with regression analysis",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2018-2020",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Based on Law No. 6 of 2014, the Indonesian Government began to allocate Village Funds in 2015 to eradicate poverty, especially in rural areas",
+    "country_citation": "Using an exclusive data set from Indonesia in 2018-2020",
+    "target_population_citation": "Based on Law No. 6 of 2014, the Indonesian Government began to allocate Village Funds in 2015 to eradicate poverty, especially in rural areas"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "Impact of a multifaceted program for ultra-poor women in eastern Democratic Republic of Congo",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Women for Women International (WfWI) program",
+    "country": "Democratic Republic of Congo",
+    "region": "Eastern",
+    "target_population": "Ultra-poor women",
+    "program_name_citation": "We study the impact of a multifaceted program for ultra-poor women in eastern Democratic Republic of Congo",
+    "country_citation": "We study the impact of a multifaceted program for ultra-poor women in eastern Democratic Republic of Congo",
+    "target_population_citation": "We study the impact of a multifaceted program for ultra-poor women in eastern Democratic Republic of Congo"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash stipend",
+      "cash_amount": "10 USD per month",
+      "cash_frequency": "monthly for 12 months",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "This 8.2 USD increase in savings represents approximately 7% of the total stipend of 120 USD (i.e. 10 USD a month for 12 months) disbursed over the course of the program"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": "We note that assets and livestock increase, despite the program lacking the large assets transfer component which characterizes graduation programs"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "consumption/expenditure",
+      "income/earnings",
+      "asset accumulation",
+      "women's empowerment",
+      "health",
+      "intimate partner violence",
+      "savings/financial",
+      "social cohesion"
+    ],
+    "outcomes_evidence_citation": "we measure the program impacts one and two years after the program start on four families of outcomes: household consumption and assets, and women's employment and finances, empowerment, and health",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "We cross-randomized the primary treatment -a holistic set of services and financial support -with a 16-week men's engagement program (MEP) for spouses and male household members",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2015-2017",
+    "sample_size": 2039,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "BCR of 368 percent and IRR of 19.9 percent",
+    "cost_evidence_citation": "Using only non-durable consumption, we estimate that the WfWI intervention breaks even after 4-5 years and has a BCR of 368 percent and an IRR of 19.9 percent"
+  }
+}

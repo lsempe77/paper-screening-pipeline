@@ -1,0 +1,38 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name or clear program description provided. Study appears to examine general tourism impacts rather than a specific intervention."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components. Neither cash support nor asset provision are present in the extracted information."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Mexico, which is classified as an upper-middle income country by the World Bank."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false. No evidence of any cash transfer or consumption support component."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false. No evidence of any productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty",
+      "consumption/expenditure"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "Study uses time series analysis (ARDL cointegration), which examines macro-level trends rather than program impacts. This is not an impact evaluation design comparing treatment and control groups."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings covering the period 1980-2017."
+  }
+}

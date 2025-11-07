@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'GiveDirectly Cash Transfer + Aspirations Workshop Program' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Program only includes cash transfers and workshops. No evidence of being a graduation program - lacks productive asset component and is not explicitly identified as graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Kenya (Western Kenya), which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'unconditional cash transfer', amount = '2,237 USD PPP', is_loan_or_credit = 'NO'. Program provides substantial cash transfer."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure",
+      "income/earnings",
+      "asset accumulation",
+      "savings/financial"
+    ],
+    "secondary_outcomes": [
+      "labor supply"
+    ],
+    "tertiary_outcomes": [
+      "well-being"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings with endline results mentioned in cost data."
+  }
+}

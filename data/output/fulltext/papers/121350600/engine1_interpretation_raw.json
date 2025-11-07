@@ -1,0 +1,37 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'Three-stage poverty alleviation projects (World Bank-China collaboration)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components. Only mentions microcredit (loans), no evidence of combined cash support and asset transfers. No explicit graduation/TUP terminology used."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China (specifically nine western provinces), which was a lower-middle or upper-middle income country during the study period (1980s-2010)"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "Component mentions only 'micro credit' with is_loan_or_credit = 'YES'. Loans/credit do not qualify as cash support for this criterion."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, no assets listed as being provided by the program"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "is_review_or_policy_analysis = true, indicating this is a review/synthesis rather than primary impact evaluation"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study presents finished findings covering period from 1980s-2010"
+  }
+}

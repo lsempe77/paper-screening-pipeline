@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Early Child Development (ECD) intervention adapted from National Wawa Wasi programme'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence this is a graduation/TUP program. Missing cash/consumption support component and productive assets are educational materials rather than income-generating assets"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Peru (Cajamarca region), which is a middle-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of any cash or consumption support provided"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "While component_b_assets.present = true and direct_provision = YES, the assets provided ('toys, learning materials') are not productive assets for income generation"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "basic habits",
+      "personal and social development",
+      "gross motor skills",
+      "fine motor skills",
+      "relationship between objects",
+      "space and time",
+      "communication"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted 2008-2010 and published in 2017 with results"
+  }
+}

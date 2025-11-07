@@ -1,0 +1,6 @@
+{
+  "assessment": "NO",
+  "reasoning": "[Specific Program Not Verified] Paper mentions 'UniCampo Pilot Project' but search could not confirm this as graduation program: Perplexity search result: The search results provided do not mention a program called 'UniCampo Pilot Project' in Brazil. The results refer to the University of Campinas (Unicamp) and its pilot projects, graduate programs, and alumni platforms, but none of these are related to a poverty graduation or multi-component poverty alleviation program. There is no evidence that the 'UniCampo Pilot Project' provides cash transfers, productive assets, or targets ultra-poor or extreme poverty populations. The available information focuses on academic and research activities at Unicamp, not on social protection or poverty alleviation programs. | Graduation: NO, Cash: NO, Assets: NO | Confidence: HIGH | Sources: https://www.magna-charta.org/activities-and-projects/living-values-tool-box/the-university-of-campinas.pdf/@@download/file/The%20University%20of%20Campinas.pdf, https://unicamp.br/en/noticias/2024/11/13/universidades-publicas-paulistas-implantam-novo-modelo-na-pos-graduacao/, https://prpg.unicamp.br/en/unicamps-graduate-programs/",
+  "verified_program_name": "UniCampo Pilot Project",
+  "verification_applied": true
+}

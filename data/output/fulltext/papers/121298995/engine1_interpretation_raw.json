@@ -1,0 +1,37 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No program name provided in extracted information (program_name = null) and no clear program description available."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation/TUP program components - both cash support and asset components are absent (component_a_present = false, component_b_present = false)."
+  },
+  "criterion_1_lmic": {
+    "assessment": "UNCLEAR",
+    "reasoning": "Country information is missing (country = null). Cannot determine if implemented in LMIC."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false. No evidence of cash support or consumption support in extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = []. No evidence of productive asset provision in extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "entrepreneurial competencies"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Observational', is_review_or_policy_analysis = false. While observational, this represents a quantitative impact evaluation approach."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

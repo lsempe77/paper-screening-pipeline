@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Forsa Program Implementation Progress Note",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Forsa Program",
+    "country": "Egypt",
+    "region": "Eight governorates: Fayoum, Beni Suef, Assiut, Minya, Sohag, Luxor, Menoufia, and Qalyubia",
+    "target_population": "Poor households and Takaful and Karama program beneficiaries",
+    "program_name_citation": "‫فرصة‬ ‫برنامج‬ ‫تصميم‬ ‫يعتمد‬",
+    "country_citation": "‫مصر‬ ‫في‬ ‫وكرامة‬ ‫تكافل‬ ‫برنامج‬ ‫إطالق‬ ‫تم‬",
+    "target_population_citation": "‫المنخفض‬ ‫الدخل‬ ‫ذات‬ ‫االسر‬ ‫تنمية‬ ‫لتعزيز‬"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "consumption support",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "‫االستهالكي‬ ‫الدعم‬ ‫من‬ ‫باقة‬ ‫التدخالت‬ ‫من‬ ‫المجموعة‬ ‫هذه‬ ‫تجمع‬"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "productive assets"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "‫اإلنتاجية،‬ ‫األصول‬ ‫من‬ ‫التحويالت‬ ‫من‬ ‫واحدة‬ ‫دفعة‬"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings",
+      "poverty reduction",
+      "economic empowerment"
+    ],
+    "outcomes_evidence_citation": "‫االقتصادي‬ ‫والتمكين‬ ‫المالي‬ ‫االستقالل‬ ‫فوائد‬",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "‫عشوائي‬ ‫تحكم‬ ‫تجربة‬ ‫باستخدام‬ ‫دقيق‬ ‫بشكل‬ ‫التأثير‬ ‫لتقييم‬",
+    "is_review_or_policy_analysis": false,
+    "publication_year": 2022,
+    "study_conducted_year": "2021-2022",
+    "sample_size": 39151,
+    "completed": false
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "behavioral change sessions"
+    ],
+    "qualitative_evidence_citation": "‫السلوك‬ ‫تغيير‬ ‫جلسات‬",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  }
+}

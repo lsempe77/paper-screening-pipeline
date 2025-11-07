@@ -1,0 +1,6 @@
+{
+  "assessment": "NO",
+  "reasoning": "[Specific Program Not Verified] Paper mentions 'Integrated Early Childhood Development (IECD) programme' but search could not confirm this as graduation program: Perplexity search result: The Integrated Early Childhood Development (IECD) programme in China is a multisectoral intervention focusing on improving nurturing care for children aged 0-35 months and their caregivers in poor rural counties. Its components include child and caregiver health, nutrition, early learning support, child protection, and social security[1][4]. There is no evidence from official sources or evaluations indicating that IECD provides direct cash transfers or productive assets to beneficiaries; instead, the support is centered on health, education, and parenting practices. There is also no indication that the IECD is a 'graduation program' or follows the graduation model typical for ultra-poor or extreme poverty targeting (such as BRAC or multi-component livelihood interventions with cash and assets)[1][4]. | Graduation: NO, Cash: NO, Assets: NO | Confidence: HIGH | Sources: https://pubmed.ncbi.nlm.nih.gov/29429198/, https://www.unicef.cn/media/10196/file",
+  "verified_program_name": "Integrated Early Childhood Development (IECD) programme",
+  "verification_applied": true
+}

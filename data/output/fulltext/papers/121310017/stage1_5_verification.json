@@ -1,0 +1,6 @@
+{
+  "assessment": "YES",
+  "reasoning": "[Specific Program Verified] Paper mentions 'Trickle Up (TU)'. Internet search confirms this is a graduation program: Perplexity search result: Multiple sources confirm that Trickle Up implements a Graduation Approach program in Burkina Faso targeting rural women living in extreme poverty. The Graduation Approach is defined by sequencing several components, prominently including cash grants or transfers and productive asset transfers, typically combined with savings groups, skills/technical training, and ongoing coaching. Specific program documentation for Burkina Faso describes an individual grant of 50,000 CFA (a cash component) disbursed to each participant to fund livelihood plans, which constitute productive asset transfers. Sources directly refer to this as an integrated, time-bound graduation program with sequenced cash and productive asset supports. | Graduation: YES, Cash: YES, Assets: YES | Confidence: HIGH | Sources: https://trickleup.org/wp-content/uploads/2020/03/OurWorkBurkinaFaso_2016_10.pdf, https://www.peiglobal.org/themes/custom/pei_b5/kc_files/Karimli,%20Bose%20and%20Kagotho%202019.pdf, https://trickleup.org/our-work-burkina-faso/",
+  "verified_program_name": "Trickle Up (TU)",
+  "verification_applied": true
+}

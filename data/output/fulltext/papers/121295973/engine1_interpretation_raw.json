@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'TUP program' (Targeting the Ultra Poor)"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program is explicitly identified as a TUP (Targeting the Ultra Poor) program, which is a standard term for graduation programs. While cash support is not mentioned in the extraction, the program includes direct asset provision (livestock)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study was conducted in Bangladesh, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false and no cash support evidence is provided in the extraction"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', and assets_provided includes 'livestock'. Program directly provides productive assets"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "labor supply"
+    ],
+    "tertiary_outcomes": [
+      "well-being",
+      "occupational change"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings"
+  }
+}

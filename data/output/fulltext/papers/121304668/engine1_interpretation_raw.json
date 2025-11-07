@@ -1,0 +1,38 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'High Yielding Varieties (HYVs) Technology Adoption Program'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation/TUP program. Missing core graduation component of cash/consumption support, and no explicit graduation/TUP terminology used."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of any cash or consumption support provided"
+  },
+  "criterion_3_assets": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While component_b_assets.present = true with assets listed as 'modern seed technology' and 'HYVs of rice', direct_provision = 'UNCLEAR'. Cannot determine if assets were directly provided to participants or if participants had to purchase them"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "poverty"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses appropriate quantitative impact evaluation method: 'Quasi-experimental (Propensity Score Matching)', and is_review_or_policy_analysis = false"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating study presents finished research findings"
+  }
+}

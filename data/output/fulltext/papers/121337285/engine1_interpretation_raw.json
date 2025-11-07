@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Indian Land Reform Programs' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "This is a land reform program, not a graduation/TUP program. While it provides assets (land), it lacks the consumption support component characteristic of graduation programs."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in India, which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash or consumption support provided in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', assets_provided includes 'land'. Program directly provides productive assets (land) to beneficiaries."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "consumption/expenditure",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "human capital",
+      "economic growth"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Panel data analysis', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings using 20-year panel data."
+  }
+}

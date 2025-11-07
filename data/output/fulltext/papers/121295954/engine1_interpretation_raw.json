@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "Only generic name 'Economic assistance program' provided without specific program identity or detailed description"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No explicit mention of graduation/TUP program. Only has one component (start-up capital) without evidence of integrated package combining consumption support and productive assets"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Uganda (Northern Uganda), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "While component_a is present and not a loan, the type is 'start-up capital' which is a productive asset grant rather than consumption/cash support. No evidence of separate consumption support or regular transfers for basic needs"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false and no assets listed in assets_provided. While start-up capital is mentioned, there's no evidence of direct asset provision"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "savings"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "mental health/depression",
+      "business activity"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings"
+  }
+}

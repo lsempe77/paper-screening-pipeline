@@ -1,0 +1,37 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'IGMG Kurban Project' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence this is a graduation program. Only mentions meat distribution, lacks integrated package of cash support and productive assets characteristic of graduation programs."
+  },
+  "criterion_1_lmic": {
+    "assessment": "UNCLEAR",
+    "reasoning": "Program operates in '70+ countries' but specific countries are not listed in extraction. Cannot determine if implementation locations are LMICs."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false. No evidence of cash transfers or consumption support in extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "While component_b_assets.present = true, the only asset listed is 'meat distribution' which is food aid/consumption support, not a productive asset. No evidence of provision of productive assets like livestock, equipment, or business assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Case study' and is_review_or_policy_analysis = true. This is not a quantitative impact evaluation but rather a case study/policy analysis."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished findings from 2004-2009."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'World Vision International Graduation Program' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program is explicitly identified as a 'Graduation Program' in its name. However, while asset provision is present, there is no clear evidence of consumption support component in the extracted information."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study was conducted in India (Assam, Bihar and West Bengal), which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false and no evidence of cash/consumption support provided in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', and assets_provided includes 'household assets' and 'income generating assets'. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction",
+      "asset accumulation",
+      "savings/financial",
+      "income/earnings"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "social development"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Pre-post intervention study', is_review_or_policy_analysis = false. While not the strongest design, it represents a quantitative impact evaluation approach."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings over a 2-year period with a sample size of 750."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "paper_metadata": {
+    "title": "Water for Life: Sustainable Management of Water in Agriculture in Africa",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": null,
+    "region": "Africa",
+    "target_population": null
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [],
+    "outcomes_evidence_citation": null,
+    "study_design": "Policy analysis",
+    "design_evidence_citation": "The paper presents policy recommendations and analysis of water management in African agriculture",
+    "is_review_or_policy_analysis": true,
+    "publication_year": 2009,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": "Agriculture is the main source of Africa's food supply and prime source of livelihood for millions of people in rural areas in Africa",
+    "target_population_citation": null
+  }
+}

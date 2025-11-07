@@ -1,0 +1,37 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name or clear program description is provided in the extracted information (program_name = null)."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation/TUP program components - both cash support and asset components are absent (component_a_cash_support.present = false, component_b_assets.present = false)."
+  },
+  "criterion_1_lmic": {
+    "assessment": "UNCLEAR",
+    "reasoning": "Country information is missing from extraction (country = null). Cannot determine if implemented in LMIC."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "No cash support component present in program (component_a_cash_support.present = false)."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "No asset provision component present in program (component_b_assets.present = false, assets_provided = [])."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "savings"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "Study is marked as a review/policy analysis (is_review_or_policy_analysis = true), which does not qualify as an impact evaluation design."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "Study is marked as completed (completed = true)."
+  }
+}

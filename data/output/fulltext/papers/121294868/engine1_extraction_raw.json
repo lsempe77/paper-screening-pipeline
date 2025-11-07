@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Rural Minimum Living Standard Guarantee (Rural Dibao) and Child Nutrition Outcomes in China",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Rural Minimum Living Standard Guarantee (Rural Dibao)",
+    "country": "China",
+    "region": "Rural areas",
+    "target_population": "Poor rural households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "unconditional cash transfer",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "This program is one of the most extensive unconditional cash transfer (UCT) programs targeted at rural households in China"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "nutrition",
+      "health",
+      "food security"
+    ],
+    "outcomes_evidence_citation": "Our results suggest that Rural Dibao significantly impacts the nutrition outcomes of children up to 15 years of age. Specifically, our results suggest that Rural Dibao improves child height-to-age z-scores by 1.05 standard deviations and lowers the probability of stunting by 11.9 percentage points",
+    "study_design": "Difference-in-differences with propensity score matching",
+    "design_evidence_citation": "We exploit propensity score matching and difference-in-differences techniques to evaluate the effects of the Rural Dibao program on child nutrition outcomes",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2012-2014",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The Rural Minimum Living Standard Guarantee (Rural Dibao) is an important unconditional cash transfer program to alleviate poverty in rural China",
+    "country_citation": "The Rural Minimum Living Standard Guarantee (Rural Dibao) is an important unconditional cash transfer program to alleviate poverty in rural China",
+    "target_population_citation": "One primary goal of the Rural Minimum Living Standard Guarantee (Rural Dibao) Program is to establish a social safety net for alleviating poverty and related issues facing vulnerable households"
+  }
+}

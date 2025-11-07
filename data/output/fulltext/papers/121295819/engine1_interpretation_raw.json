@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Productive Safety Net Program (PSNP)' in Ethiopia"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash support (cash for work), there is no evidence of productive asset provision, and no explicit mention of this being a graduation/TUP program"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia (Tigrai region), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'cash for work', and is_loan_or_credit = 'NO'. Program provides cash transfers through work program"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no assets provided, direct_provision = 'NO'. Program does not directly provide productive assets"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "food security"
+    ],
+    "tertiary_outcomes": [
+      "manure use",
+      "agricultural productivity"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Double-hurdle method', is_review_or_policy_analysis = false. Uses quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study presents finished research findings with data from 2015 and sample size of 630"
+  }
+}

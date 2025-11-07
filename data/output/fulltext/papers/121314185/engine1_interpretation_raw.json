@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name or clear program description is provided in the extracted information. The study appears to be about trade impacts rather than a specific intervention program."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components. Neither cash support (component_a_present = false) nor productive assets (component_b_present = false) are present."
+  },
+  "criterion_1_lmic": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While Burkina Faso is an LMIC, the country field is null and it's unclear if this is where a program was implemented versus being analyzed for trade effects."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false and no evidence of any cash support component in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false and no evidence of any productive asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "economic growth",
+      "trade",
+      "prices",
+      "household welfare"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "is_review_or_policy_analysis = true and study uses CGE modeling rather than impact evaluation methods. This appears to be a policy analysis rather than an impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true indicating the study presents finished findings."
+  }
+}

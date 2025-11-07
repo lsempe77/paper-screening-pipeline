@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Clear program name provided: 'MAUNLAD (Maunlad na Niyugan Tugon sa Kahirapan/Progressive Coconut Farming to Address Poverty)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation program. Only has asset provision component (planting materials) but no consumption support. Credit/loans mentioned instead of cash transfers."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Philippines, which is a lower-middle income country, across multiple regions including Batangas, Biliran, Davao"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false and is_loan_or_credit = 'YES'. Program appears to use loans/credit rather than cash transfers, which does not meet criterion."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true with direct_provision = 'YES'. Program directly provides productive assets in the form of 'planting materials' and 'improved coconut varieties'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "farm productivity"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Panel data with propensity score matching', is_review_or_policy_analysis = false. Uses appropriate quasi-experimental methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

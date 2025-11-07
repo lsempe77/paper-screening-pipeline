@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Evaluating anti-poverty programs using satellite imagery and deep learning",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "GiveDirectly Unconditional Cash Transfer Program",
+    "country": "Kenya",
+    "region": "Rural Kenya",
+    "target_population": "Rural households with thatched roofs"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "unconditional cash transfer",
+      "cash_amount": "$1,000",
+      "cash_frequency": "lump sum",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "GiveDirectly, a US charity, implemented a randomized controlled trial of unconditional cash transfers to rural households via mobile money, using as sole eligibility criterion whether the household lived under a thatched roof... Each treatment household received $1,000-equivalent to about 75% of annual household expenditures-in lump sum, and could spend it however it wished."
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "housing quality",
+      "household wealth",
+      "total assets"
+    ],
+    "outcomes_evidence_citation": "We then map housing quality to household wealth for these households by inverting an 'Engel curve,'... to measure program impacts as is the current practice in the evaluation literature.",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "GiveDirectly randomly selected 328 villages as the treatment group, where eligible households (about 1/3 of the population) received transfers, and used the remaining 325 villages as the control group.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2014-2017",
+    "sample_size": 653,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Cost of $0.006 per household for satellite approach vs $18-300 per household for surveys",
+    "cost_evidence_citation": "Using this approach, we accurately recover the program effects on household wealth for a fraction of the cost ($0.006 per household, see Supplementary Text A) that would typically be spent on household surveys ($18-300 per household)"
+  },
+  "evidence_citations": {
+    "program_name_citation": "GiveDirectly, a US charity, implemented a randomized controlled trial of unconditional cash transfers to rural households via mobile money",
+    "country_citation": "We evaluate a development intervention that was conducted in 2014-2017 in 653 villages in rural Kenya",
+    "target_population_citation": "using as sole eligibility criterion whether the household lived under a thatched roof (a low quality roof material that served as a simple means test)"
+  }
+}

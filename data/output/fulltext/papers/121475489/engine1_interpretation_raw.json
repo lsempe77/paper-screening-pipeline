@@ -1,0 +1,47 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Challenging the Frontiers of Poverty Reduction-Targeting the Ultra Poor (CFPR-TUP)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program is explicitly identified as a TUP (Targeting the Ultra Poor) program in its name. Additionally, both core components are present: weekly cash allowance and direct provision of livestock assets."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'weekly allowance', is_loan_or_credit = 'NO'. Program provides regular cash support."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided = ['livestock assets'], direct_provision = 'YES'. Program directly provides productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "savings"
+    ],
+    "secondary_outcomes": [
+      "self-employment",
+      "food consumption"
+    ],
+    "tertiary_outcomes": [
+      "health seeking behavior",
+      "empowerment",
+      "social awareness",
+      "sanitation",
+      "hygiene"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental (propensity score matching)', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

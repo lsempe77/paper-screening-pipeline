@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Bangladesh Rajshahi Division Maternal and Child Nutrition (BRDMCN) program' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program provides productive assets (ducks, chickens, seeds), there is no evidence of cash/consumption support component. The paper's title mentions 'graduation approach' but the extracted components do not match the full graduation model requirements."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh (Rajshahi Division), which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash or consumption support provided in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, with direct_provision = 'YES'. Program directly provides productive assets including 'ducks (9-26)', 'chickens (11)', and 'vegetable seeds'."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "consumption/expenditure",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Secondary data analysis', is_review_or_policy_analysis = false. While not an RCT, this appears to be a quantitative impact evaluation using secondary data."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished research findings."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'Jordan's Poverty Reduction Strategy (PRS)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While both cash and asset components are present, there is no explicit mention of this being a graduation/TUP program, and the program structure appears to be a broader poverty reduction strategy rather than an integrated graduation approach"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Jordan, which is classified as a middle-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, is_loan_or_credit = 'NO', and provides 'welfare assistance through National Aid Fund (NAF)'"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', with assets including 'SME financing' and 'microprojects'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "education",
+      "social assistance"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While study_design is listed as 'Quasi-experimental', is_review_or_policy_analysis = true indicates this is a policy analysis rather than an impact evaluation"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study covers period 2012-2020 and presents finished findings"
+  }
+}

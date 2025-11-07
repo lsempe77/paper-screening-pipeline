@@ -1,0 +1,62 @@
+{
+  "paper_metadata": {
+    "title": null,
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Government-led national cash transfer programme",
+    "country": null,
+    "region": "Sahel",
+    "target_population": "Extremely poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfer",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The multi-faceted interventions were delivered through a government-led national cash transfer programme"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "livestock"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "the Full and Capital arms had relatively larger effects on livestock than the Psychosocial arm"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "consumption/expenditure",
+      "income/earnings",
+      "asset accumulation",
+      "women's empowerment",
+      "psychosocial well-being",
+      "business revenues",
+      "agricultural revenues"
+    ],
+    "outcomes_evidence_citation": "Our findings show that three modalities of a multi-faceted intervention induced widespread improvements in consumption, revenues and psychosocial well-being",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "Our experimental design has two limitations",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Sustained effects were obtained at low cost, leading to considerably higher benefit-cost ratios than graduation programmes implemented by NGOs elsewhere",
+    "cost_evidence_citation": "Sustained effects were obtained at low cost, leading to considerably higher benefit-cost ratios than graduation programmes implemented by NGOs elsewhere"
+  },
+  "evidence_citations": {
+    "program_name_citation": "The multi-faceted interventions were delivered through a government-led national cash transfer programme",
+    "country_citation": null,
+    "target_population_citation": "to open pathways out of extreme poverty"
+  }
+}

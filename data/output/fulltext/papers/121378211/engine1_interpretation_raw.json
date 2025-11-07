@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Ultra-poor Graduation Program (UPG)' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program is explicitly identified as an 'Ultra-poor Graduation Program' and includes both cash support (component_a_present = true) and assets (component_b_present = true), though details are limited."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Somalia, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true and is_loan_or_credit = 'NO', indicating cash support is provided, though specific details about amount and frequency are not available."
+  },
+  "criterion_3_assets": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While component_b_assets.present = true, direct_provision = 'UNCLEAR' and no specific assets are listed in assets_provided. Cannot determine if assets are directly provided to participants."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": [
+      "livelihoods"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Mixed methods' and is_review_or_policy_analysis = false, indicating quantitative impact evaluation methods are included."
+  },
+  "criterion_6_completed": {
+    "assessment": "NO",
+    "reasoning": "completed = false and study_conducted_year = '2023-2025' indicates this is an ongoing study without completed results."
+  }
+}

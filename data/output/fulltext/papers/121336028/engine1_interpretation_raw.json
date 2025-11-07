@@ -1,0 +1,46 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC Targeting the Ultra-poor (TUP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as 'Targeting the Ultra-poor (TUP)' and includes both core components: livelihood protection support (cash) and direct provision of productive assets (livestock)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'livelihood protection support', is_loan_or_credit = 'NO'. Program provides cash support, not loans"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'livestock' and 'productive assets', direct_provision = 'YES'. Program directly provides productive assets"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "clothing",
+      "child labor",
+      "education",
+      "women's empowerment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Panel data with fixed effects', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2002-2005 with results presented"
+  }
+}

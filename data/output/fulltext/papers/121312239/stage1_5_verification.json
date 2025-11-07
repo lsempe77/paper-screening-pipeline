@@ -1,0 +1,6 @@
+{
+  "assessment": "NO",
+  "reasoning": "[Specific Program Not Verified] Paper mentions 'New Hope' but search could not confirm this as graduation program: Perplexity search result: The 'New Hope Project,' implemented in Milwaukee, USA, was a multi-year anti-poverty intervention for low-income adults willing to work full-time. Participants received earnings supplements (cash), subsidized health insurance, child care subsidies, and access to subsidized community service jobs, along with job coaching and counseling. However, there is no evidence that the program provided productive assets (such as livestock, business grants, or capital goods) typical of 'graduation' or 'ultra poor' programs. Furthermore, established definitions of graduation programs involve asset transfer and intensive livelihood coaching to create sustainable self-employment, which New Hope did not provide. Therefore, New Hope is not a graduation program, though it included a significant cash component through earnings supplements. | Graduation: NO, Cash: YES, Assets: NO | Confidence: HIGH | Sources: https://pathwaystowork.acf.gov/intervention-detail/306, https://pmc.ncbi.nlm.nih.gov/articles/PMC3235034/, https://www.mdrc.org/work/publications/new-hope-families-and-children/file-full",
+  "verified_program_name": "New Hope",
+  "verification_applied": true
+}

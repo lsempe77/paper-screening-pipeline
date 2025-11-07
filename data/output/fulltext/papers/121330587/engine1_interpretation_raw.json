@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Gerbang Sadu Mandara (GSM)' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation program - the program appears to be a village development fund/loan program without the characteristic graduation components. No evidence of combined cash support and asset provision."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Indonesia, which is a lower-middle income country. Location specifically identified as 'Bali Province, Bungaya Village, Bebandem District, Karangasem Regency'."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "While component_a is present, it is explicitly marked as is_loan_or_credit = 'YES'. The intervention is a village development fund of 1.2 billion rupiahs described as a loan, which does not qualify as cash/consumption support."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false and no assets are listed in assets_provided array. No evidence of direct asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "employment"
+    ],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "Study design is described as 'Qualitative case study' which does not meet the criteria for quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true indicates the study presents finished research findings."
+  }
+}

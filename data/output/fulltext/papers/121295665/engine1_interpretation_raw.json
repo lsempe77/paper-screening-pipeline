@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Ethiopia Food Security Programme (FSP) - PSNP and OFSP/HABP' with specific components named (PSNP and HABP)"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program combines both cash support (through public works) and direct provision of productive assets (improved seeds, irrigation, agricultural inputs). Cash evidence: 'income transfers through public works'; Asset evidence: direct provision of 'improved seeds, irrigation, agricultural inputs'"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, is_loan_or_credit = 'NO'. Program provides income transfers through public works, not loans"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES'. Program directly provides productive assets including 'improved seeds, irrigation, agricultural inputs'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "agricultural output",
+      "agricultural investment"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "yields",
+      "fertiliser use"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Dose-response model', is_review_or_policy_analysis = false. Uses quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2006-2010 with results presented"
+  }
+}

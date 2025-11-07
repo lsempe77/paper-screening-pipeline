@@ -1,0 +1,46 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Bridges to Success (BtS)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash incentives, it lacks the direct provision of productive assets characteristic of graduation programs. No explicit mention of being a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "NO",
+    "reasoning": "Study conducted in United States (Rochester, New York), which is a high-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, is_loan_or_credit = 'NO'. Program provides cash incentives, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, direct_provision = 'NO'. No productive assets are provided by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "earnings"
+    ],
+    "secondary_outcomes": [
+      "employment",
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "housing",
+      "family relationships",
+      "networks",
+      "finances",
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from 2017-2020."
+  }
+}

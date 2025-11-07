@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC Challenging the Frontiers of Poverty Reduction-Targeting the Ultra-Poor (CFPR-TUP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as TUP (Targeting the Ultra-Poor) program and includes both core components: weekly stipends (cash support) and direct provision of productive assets (cows, goats, poultry, non-farm assets)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh (three districts in northwestern Bangladesh), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'weekly stipends', is_loan_or_credit = 'NO'. Program provides regular cash support through weekly stipends"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', with specific productive assets listed: 'cow, goat, poultry, non-farm assets'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "household economic status"
+    ],
+    "secondary_outcomes": [
+      "food security"
+    ],
+    "tertiary_outcomes": [
+      "domestic violence",
+      "depressive symptoms",
+      "subjective well-being",
+      "women's empowerment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2002-2006 with results presented"
+  }
+}

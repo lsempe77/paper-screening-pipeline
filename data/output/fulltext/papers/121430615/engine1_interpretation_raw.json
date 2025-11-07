@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'Cash and In-Kind Grant Experiment' in Ghana"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes both cash and asset components, it is not explicitly identified as a graduation/TUP program. The target population (microenterprise owners) and one-time nature of support differs from typical graduation programs targeting ultra-poor households."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study was conducted in Ghana, which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "While component_a_present = true and is_loan_or_credit = NO, the cash grant (150 Ghanaian cedis) appears to be for business investment rather than consumption support. This should be considered under criterion 3 as productive asset support rather than consumption/cash support."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true, direct_provision = YES, with program providing equipment, materials, and inventories. Additionally, the cash grant is explicitly for business investment, making it a form of productive asset support."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "business profits",
+      "capital stock",
+      "transfers"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted in 2009-2010 and presents finished findings"
+  }
+}

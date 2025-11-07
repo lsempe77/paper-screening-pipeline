@@ -1,0 +1,60 @@
+{
+  "paper_metadata": {
+    "title": "A rural livelihoods approach to irrigation policy in Tanzania",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": "Tanzania",
+    "region": "Morogoro region",
+    "target_population": null
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "irrigation access",
+      "livelihoods"
+    ],
+    "outcomes_evidence_citation": "The discussion explores livelihoods access to irrigation, including the subject of livelihoods diversification alongside irrigation",
+    "study_design": "Case study",
+    "design_evidence_citation": "Research methods The discussion is supported by data collected in the Morogoro region of Tanzania. Three out of six sub-villages in the village of Chanzuru were sampled",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 35,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "PRA wealth-ranking",
+      "qualitative surveys",
+      "PRA exercises",
+      "irrigation interviews"
+    ],
+    "qualitative_evidence_citation": "Alongside qualitative and quantitative surveys general PRA exercises and more focussed irrigation interviews were conducted",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": "Research methods The discussion is supported by data collected in the Morogoro region of Tanzania",
+    "target_population_citation": null
+  }
+}

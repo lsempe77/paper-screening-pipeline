@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Education as one of the fundamental factors of poverty reduction according to multi-dimensional poverty line in Vietnam",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": "Vietnam",
+    "region": "National",
+    "target_population": "Poor and near-poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "education"
+    ],
+    "outcomes_evidence_citation": "Multi-dimensional poverty in Vietnam in the period of 2016-2020 calculated by Alkire-Foster method consists of 5 dimensions (education, health, housing, living conditions, access to information)",
+    "study_design": "Policy analysis",
+    "design_evidence_citation": "This article takes the method of dialectical materialism and historical materialism of Marxism-Leninism as the theoretical basis",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": "2016-2020",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": "Vietnam's achievements in poverty reduction are one of the most successful stories in social economic development",
+    "target_population_citation": "poor and near-poor households according to multi-dimensional poverty line for the stage of 2016-2020 in Vietnam"
+  }
+}

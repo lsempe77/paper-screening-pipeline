@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Reclaiming Our Spirits (ROS)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "This is not a graduation/TUP program. No evidence of cash support or productive asset provision, and program focuses on health promotion for Indigenous women who experienced intimate partner violence."
+  },
+  "criterion_1_lmic": {
+    "assessment": "NO",
+    "reasoning": "Study was conducted in Canada, which is a high-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false. No evidence of any cash support or transfers in the program."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false. No evidence of any productive asset provision in the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "quality of life",
+      "trauma symptoms",
+      "depressive symptoms",
+      "social support",
+      "mastery",
+      "personal agency",
+      "interpersonal agency",
+      "chronic pain disability"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses quantitative methods as part of a longitudinal, mixed methods design, and is_review_or_policy_analysis = false."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings with a sample size of 152 participants."
+  }
+}

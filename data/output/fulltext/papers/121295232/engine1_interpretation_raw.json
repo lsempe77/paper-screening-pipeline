@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Productive Safety Net Program (PSNP)' in Ethiopia"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program provides cash support, there is no evidence of productive asset provision, and the program is not explicitly identified as a graduation/TUP program. It appears to be a safety net program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ethiopia, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, is_loan_or_credit = 'NO'. Program provides safety net transfers for six months per year (January through June). Not a loan/credit program."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no assets listed in assets_provided. No evidence of direct asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "food security",
+      "nutrition"
+    ],
+    "tertiary_outcomes": [
+      "child outcomes"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses marginal structural modeling, which is a quantitative impact evaluation method. is_review_or_policy_analysis = false confirms this is not a review."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true indicates the study presents finished research findings"
+  }
+}

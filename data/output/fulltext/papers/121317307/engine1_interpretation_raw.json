@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is identified as 'ADB-funded pilot project for poverty reduction' in Nayong County, Guizhou Province."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation/TUP program. While assets are provided (infrastructure), there is no cash/consumption support component, and no explicit mention of graduation approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in People's Republic of China, which was a lower-middle or upper-middle income country during the study period."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of any cash transfers or consumption support provided to participants."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "While component_b_assets.present = true, the assets provided are community infrastructure (roads, water supply, irrigation) rather than productive assets directly to households. These public goods do not meet the criterion for household-level productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "household assets"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "infrastructure access",
+      "farming capacity",
+      "poverty reduction"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "Study is identified as a case study and is_review_or_policy_analysis = true, indicating this is not a quantitative impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished findings."
+  }
+}

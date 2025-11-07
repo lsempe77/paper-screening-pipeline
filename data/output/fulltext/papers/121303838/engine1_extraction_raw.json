@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "Changes in children and mothers' nutritional status in extreme poor households after raising out of poverty through income-generating activities programme in rural Bangladesh",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Income-generating activities (IGA) programme",
+    "country": "Bangladesh",
+    "region": "Rural",
+    "target_population": "Extreme poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "nutrition",
+      "food security",
+      "income/earnings",
+      "savings/financial",
+      "health",
+      "sanitation"
+    ],
+    "outcomes_evidence_citation": "After 2 years of the IGA programme, the prevalence of stunting significantly declined from 40•3 % to 33•0 % (P = 0•003), anaemia declined from 51•6 % to 44•0 % (P = 0•020) while mothers' CED (Chronic Energy Deficiency) declined from 52•0 % to 42•7 % (P < 0•001)",
+    "study_design": "Pre-post evaluation",
+    "design_evidence_citation": "Children and mothers were measured with regarding their nutritional status before and after the IGA programme commenced",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 382,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Extreme poor households took part in the IGA programme for 2 years",
+    "country_citation": "Settings: Rural Bangladesh",
+    "target_population_citation": "Extreme poor households took part in the IGA programme"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Variations in saving behavior among poor families enrolled in a Child Savings Account program in Uganda",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Child Savings Account program (Suubi-Maka)",
+    "country": "Uganda",
+    "region": "Rakai District",
+    "target_population": "Orphaned and vulnerable school-going children"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "savings behavior",
+      "financial socialization",
+      "family relations"
+    ],
+    "outcomes_evidence_citation": "Our analyses reveal the following significant results: (1) given the average number of months during which the account was open (18 months), families saved on average, USD 54.72... (2) children's saving behavior was not associated with quality of family relations; it was, however, significantly associated with family financial socialization",
+    "study_design": "Cluster-randomized experimental design",
+    "design_evidence_citation": "We employ multilevel analyses using longitudinal data from a cluster-randomized experimental design",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Cost of education approximately Uganda Shillings 65,000 per academic term",
+    "cost_evidence_citation": "Given the average cost of approximately Uganda Shillings 65,000 per academic term in a typical public secondary school in the study area (rural Rakai District)"
+  },
+  "evidence_citations": {
+    "program_name_citation": "This study examines variations in saving behavior among poor families enrolled in a Child Savings Account program for orphaned and vulnerable school-going children in Uganda",
+    "country_citation": "This study examines variations in saving behavior among poor families enrolled in a Child Savings Account program for orphaned and vulnerable school-going children in Uganda",
+    "target_population_citation": "This study examines variations in saving behavior among poor families enrolled in a Child Savings Account program for orphaned and vulnerable school-going children in Uganda"
+  }
+}

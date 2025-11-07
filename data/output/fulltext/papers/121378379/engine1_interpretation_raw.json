@@ -1,0 +1,47 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'NASFAM Agricultural Support Program' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While program includes both cash transfers and productive assets, it is not explicitly identified as a graduation/TUP program. The program appears to be an agricultural support intervention rather than a comprehensive graduation program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Malawi, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, is_loan_or_credit = 'NO'. Program provides framed cash transfers of 'US$84 total ($36 at planting, $22 midseason, $26 at harvest)' in three installments."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES'. Program directly provides productive assets including 'seeds, hoes, inoculant, storage sacks'."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "household assets",
+      "savings"
+    ],
+    "secondary_outcomes": [
+      "food consumption"
+    ],
+    "tertiary_outcomes": [
+      "crop production",
+      "yields",
+      "productive investments",
+      "agricultural practices",
+      "farm management",
+      "nonfood consumption"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study conducted 2015-2017 and presents finished research findings."
+  }
+}

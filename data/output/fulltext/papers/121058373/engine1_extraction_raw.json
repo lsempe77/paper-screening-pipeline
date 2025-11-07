@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "Working in six countries with an international consortium: Investigating the Graduation program",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Graduation program",
+    "country": "Multiple (Ethiopia, Ghana, Honduras, India, Pakistan, Peru)",
+    "region": "Multiple countries",
+    "target_population": "Extreme poor/ultrapoor"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "temporary cash consumption support",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The program targets the poorest members in a village and provides a productive asset grant, training and support, life skills coaching, temporary cash consumption support"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "productive assets"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "The program targets the poorest members in a village and provides a productive asset grant"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "consumption",
+      "income",
+      "revenue",
+      "productive assets"
+    ],
+    "outcomes_evidence_citation": "Productive assets, income, and revenue go up. Although results vary across countries, the general pattern of positive effects that persist for at least a year after the program concludes is common across all countries",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "Following standard practice in the analysis of multi-site trials, we estimate a single model, with strata and country dummies",
+    "is_review_or_policy_analysis": false,
+    "publication_year": 2015,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "cost-effective",
+    "cost_evidence_citation": "poor is sustainable and cost-effective"
+  },
+  "evidence_citations": {
+    "program_name_citation": "Working in six countries with an international consortium, we investigate whether a multifaceted Graduation program can help the extreme poor",
+    "country_citation": "Ethiopia Ghana Honduras India Pakistan Peru",
+    "target_population_citation": "The program targets the poorest members in a village"
+  }
+}

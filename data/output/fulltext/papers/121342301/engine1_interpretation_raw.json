@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'ACIAR Pulse Production Project' implemented in Southern Bangladesh"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program has both cash support and asset components, there is no explicit mention of this being a graduation/TUP program. The program appears to be an agricultural intervention rather than an integrated graduation approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study was conducted in Bangladesh, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While component_a_cash_support.present = true and is_loan_or_credit = NO, there are no details about the type, amount, or frequency of the 'project support'. Cannot determine if this constitutes meaningful cash/consumption support."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true with direct_provision = YES of 'agricultural inputs' as productive assets"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [
+      "food security"
+    ],
+    "tertiary_outcomes": [
+      "crop diversification",
+      "women's empowerment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental' and is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation design."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true and study was conducted in 2020-2021 with a sample size of 240 participants"
+  }
+}

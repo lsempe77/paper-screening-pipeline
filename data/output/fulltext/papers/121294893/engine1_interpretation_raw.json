@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Sloping Land Conversion Program (SLCP)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation/TUP program. Only has cash component (subsidies) without asset provision, and no mention of being a graduation or ultra-poor program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China, which was classified as a lower-middle or upper-middle income country during the study period (1995-2010)."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'subsidy', and is_loan_or_credit = 'NO'. Program provides cash support in form of subsidies."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = []. No evidence of productive asset provision by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income"
+    ],
+    "secondary_outcomes": [
+      "work/employment"
+    ],
+    "tertiary_outcomes": [
+      "livelihood diversification",
+      "climate change sensitivity",
+      "environmental impacts"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Propensity Score Matching Difference-in-Differences (PSM-DID)', is_review_or_policy_analysis = false. Uses appropriate quasi-experimental methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings covering period 1995-2010."
+  }
+}

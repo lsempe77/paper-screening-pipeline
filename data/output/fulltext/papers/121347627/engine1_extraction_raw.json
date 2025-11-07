@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "International Tourism and Poverty in Mexico: An ARDL Cointegration Analysis with a Structural Break",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": "Mexico",
+    "region": "National",
+    "target_population": null
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "consumption/expenditure"
+    ],
+    "outcomes_evidence_citation": "It was found that for every 1% increase in international tourism, household consumption per capita increases 0.46% (and, therefore, poverty decreases)",
+    "study_design": "Time series analysis (ARDL cointegration)",
+    "design_evidence_citation": "through the use of an autoregressive distributed lags (ARDL) cointegration model with a structural break",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "1980-2017",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": "to investigate, with respect to the case of Mexico, the relationship between international tourism and the magnitude of poverty",
+    "target_population_citation": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Kalobeyei Settlement Development Program' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash transfers, it lacks the productive asset component typical of graduation programs. No explicit mention of being a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Kenya (North-West Kenya), which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'mobile money transfers (Bamba Chakula)', amount = 'KES1400 (~US$14) per person per month', is_loan_or_credit = 'NO'. Program provides regular cash transfers."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "assets"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "employment"
+    ],
+    "tertiary_outcomes": [
+      "well-being",
+      "independence from aid",
+      "agriculture participation"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Regression Discontinuity Design', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

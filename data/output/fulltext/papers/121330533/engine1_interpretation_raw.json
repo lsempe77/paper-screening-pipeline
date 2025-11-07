@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name is provided in the extracted information. The study appears to be a general assessment of poverty dynamics rather than evaluation of a specific intervention."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components. Both component_a_cash_support.present = false and component_b_assets.present = false. No mentions of graduation/TUP programming."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Nepal (Tarai region, Sunsari district), which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false. No evidence of any cash transfer or consumption support component in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "asset accumulation",
+      "income/earnings",
+      "poverty dynamics"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "UNCLEAR",
+    "reasoning": "Study design described as 'Mixed methods with participatory assessment' but insufficient detail about quantitative impact evaluation methods. Cannot determine if appropriate counterfactual methods were used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study was conducted in 2012-2013 and presents finished findings."
+  }
+}

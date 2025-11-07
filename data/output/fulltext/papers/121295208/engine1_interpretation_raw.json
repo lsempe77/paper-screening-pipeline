@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Harmonized Social Cash Transfer Programme (HSCT)' is clearly identified"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Program only includes cash transfers without productive asset provision. No mention of graduation/TUP approach."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Zimbabwe, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'unconditional cash transfer', amount = 'USD 10 to USD 25' bi-monthly, is_loan_or_credit = 'NO'"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision by the program"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "savings"
+    ],
+    "secondary_outcomes": [
+      "labor supply",
+      "food security/nutrition"
+    ],
+    "tertiary_outcomes": [
+      "social networks"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Non-experimental difference-in-differences', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2012-2014 with results presented"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Economic activities in disaster-prone areas are significantly susceptible to mountain disasters, and enhancing the resilience of new rural collective economies (RRCEs) is a pressing challenge that needs to be overcome in the areas of disaster risk management and sustainable development",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "New Rural Collective Economies (NRCE)",
+    "country": "China",
+    "region": "Liangshan Yi Autonomous Prefecture (LP)",
+    "target_population": "Rural villages in disaster-prone mountainous areas"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "economic resilience",
+      "transformational capacity"
+    ],
+    "outcomes_evidence_citation": "The results show that (1) typical villages in the new rural collective economies (NRCE) have a low level of resilience. (2) Transformational capacity is the key to improving RRCEs.",
+    "study_design": "Observational",
+    "design_evidence_citation": "An assessment framework based on the Resilience Index Measurement Analysis (RIMA) model is established to evaluate the RRCEs in the face of mountain disasters",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 48,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "New rural collective economies are forms of rural public economic systems that are based on rural collective economic organizations.",
+    "country_citation": "Mountainous areas comprise approximately 20% of the total global land area, with China alone accounting for approximately two-thirds of this area",
+    "target_population_citation": "The target research area comprises 48 representative villages in Liangshan Yi Autonomous Prefecture (LP)"
+  }
+}

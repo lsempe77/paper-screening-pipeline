@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Trickle Up (TU)' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While Trickle Up typically implements graduation programs, this specific intervention only shows evidence of capital seed grants without clear indication of both core graduation components (cash support and productive assets). No explicit graduation/TUP language is cited."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study was conducted in Burkina Faso, which is classified as a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true and is_loan_or_credit = 'NO'. Program provides capital seed grants which are not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false and no assets are listed in assets_provided. While seed grants are mentioned, there is no evidence of direct asset provision by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "women's empowerment",
+      "violence reduction",
+      "financial autonomy",
+      "marital relationships"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While the study design is appropriate (RCT), the study only measures tertiary outcomes (empowerment, violence, relationships) with no primary or secondary outcomes measured."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "study_characteristics.completed = true, indicating the study presents finished research findings."
+  }
+}

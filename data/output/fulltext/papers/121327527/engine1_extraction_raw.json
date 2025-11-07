@@ -1,0 +1,54 @@
+{
+  "paper_metadata": {
+    "title": "Estimating the causal effect of Funds to Combat Poverty on poverty reduction in Brazil's Northeast region",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Funds to Combat Poverty (FCP)",
+    "country": "Brazil",
+    "region": "Northeast region",
+    "target_population": "Poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "No specific mention of cash transfers or allowances in program description"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": "No specific mention of asset transfers in program description"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "The results provide evidence of a positive impact of the policy on reducing poverty",
+    "study_design": "Generalized synthetic control method",
+    "design_evidence_citation": "We applied the generalized synthetic control method to evaluate this policy",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2003-2014",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This article estimates the causal effect of an anti-poverty mechanism dating to early this century called 'Funds to Combat Poverty' (Fundos de Combate à Pobreza -FCP)",
+    "country_citation": "In Brazil, although the effects have been more modest, the leading program emerging from the FCP, 'Family Stipend' (Bolsa Família), has reduced the quadratic poverty gap by 15%",
+    "target_population_citation": "The Northeast is considered the region with the highest poverty rate"
+  }
+}

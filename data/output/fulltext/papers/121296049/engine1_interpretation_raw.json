@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC Targeting the Ultra-Poor (TUP) Program'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as 'Targeting the Ultra-Poor (TUP)' which is a canonical graduation program name. Program includes direct asset provision, though cash support evidence is missing."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country, specifically in '15 poorest districts'"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false and no evidence citation provided for cash support. While this is unusual for a TUP program, must assess based on extracted data only."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', with specific assets listed: 'livestock (cow/bulls, goat/sheep, duck/hens)'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "housing quality",
+      "women's empowerment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses 'Difference-in-differences with matching' methodology, is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation design."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2002-2005 with results presented"
+  }
+}

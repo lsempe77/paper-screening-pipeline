@@ -1,0 +1,60 @@
+{
+  "paper_metadata": {
+    "title": "Impact evaluation of Zimbabwe's Harmonized Social Cash Transfer Programme",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Harmonized Social Cash Transfer Programme (HSCT)",
+    "country": "Zimbabwe",
+    "region": "National (20 districts)",
+    "target_population": "Food-poor and labour-constrained households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "unconditional cash transfer",
+      "cash_amount": "USD 10 to USD 25",
+      "cash_frequency": "bi-monthly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The transfer size ranges from USD 10 to USD 25, based on household size, and is delivered bi-monthly. Estimates suggest the transfer size represents around 20 percent of sample median household consumption expenditure"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "crop production",
+      "livestock production",
+      "savings/credit",
+      "labor supply",
+      "food security/nutrition",
+      "agricultural assets",
+      "social networks"
+    ],
+    "outcomes_evidence_citation": "This section shows the impact of the HSCT on beneficiary households over several broad groups of outcome variables: crop production, livestock production, NFES, savings/credit decisions, household labour supply and household dietary diversity",
+    "study_design": "Non-experimental difference-in-differences",
+    "design_evidence_citation": "This impact evaluation report uses a 12-month panel data set with a non-experimental design... The general framework for empirical analysis consists of a double-difference estimation approach with a counterfactual",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2012-2014",
+    "sample_size": 55509,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "20 percent of sample median household consumption expenditure",
+    "cost_evidence_citation": "Estimates suggest the transfer size represents around 20 percent of sample median household consumption expenditure"
+  },
+  "evidence_citations": {
+    "program_name_citation": "This paper reports findings from a household quantitative impact evaluation of Zimbabwe's Harmonized Social Cash Transfer (HSCT)",
+    "country_citation": "The programme was launched in 2012, covering 10 districts and 16 637 households. As of March 2014, the programme had expanded to cover 20 districts and include 55 509 households. Efforts are ongoing to continue expansion to cover all 65 districts of Zimbabwe",
+    "target_population_citation": "Consequently, the two eligibility criteria for the HSCT are that a given household must be a) living below the food poverty line and unable to meet its most urgent basic needs; and b) face household labour constraints"
+  }
+}

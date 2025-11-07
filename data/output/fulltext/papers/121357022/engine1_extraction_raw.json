@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Evaluation of Family Hope Program (PKH) on Poverty Alleviation in Aceh Province, Indonesia",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Family Hope Program (PKH)",
+    "country": "Indonesia",
+    "region": "Aceh Province",
+    "target_population": "Impoverished families"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "conditional cash transfer",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "a national initiative launched in 2007 to support impoverished families through conditional cash transfers aimed at improving access to education and healthcare"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "education",
+      "health"
+    ],
+    "outcomes_evidence_citation": "approximately 85% of families reported that the financial assistance aimed explicitly at education helped them keep their children in school | A health survey conducted prior to and after PKH's implementation indicated a 40% increase in the utilization of healthcare services among enrolled families",
+    "study_design": "Mixed-methods",
+    "design_evidence_citation": "This study adopted a mixed-methods approach, specifically a sequential explanatory design that integrates both qualitative and quantitative research methods",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "interviews"
+    ],
+    "qualitative_evidence_citation": "A mixedmethods approach, combining quantitative data analysis and qualitative interviews, was employed to measure the welfare-improving effects of PKH and validate the survey results",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The Family Hope Program (PKH) is one of the national anti-poverty initiatives implemented by the Indonesian government",
+    "country_citation": "This study presents an evaluation conducted in Indonesia to assess the impact of the Family Hope Program (PKH) on poverty alleviation",
+    "target_population_citation": "Communities that are eligible and entitled to receive PKH assistance are those that have met the following requirements: 1) Pregnant women 2) Having young children (toddlers) 3) Having children who are still in school 4) Requiring additional working capital"
+  }
+}

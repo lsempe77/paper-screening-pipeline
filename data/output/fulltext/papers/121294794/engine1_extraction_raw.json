@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Impact of productive social safety net on households' vulnerability to food insecurity in Tanzania",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Productive Social Safety Net (PSSN)",
+    "country": "Tanzania",
+    "region": "National",
+    "target_population": "Extremely poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "conditional cash transfer (CCT)",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Findings indicated that social safety nets significantly reduced households' vulnerability to food insecurity, with CCT and PW combined having more impact than CCT alone"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security",
+      "vulnerability",
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "We use the Tanzanian 2017-18 Household Budget Survey dataset, comprising 9,463 households, to evaluate the impact of the productive social safety net (PSSN) program on households' vulnerability to food insecurity (VFI)",
+    "study_design": "Instrumental Variable (IV)",
+    "design_evidence_citation": "the impact is estimated using the Instrumental Variable (IV) approach",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2017-2018",
+    "sample_size": 9463,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "We use the Tanzanian 2017-18 Household Budget Survey dataset, comprising 9,463 households, to evaluate the impact of the productive social safety net (PSSN) program",
+    "country_citation": "We use the Tanzanian 2017-18 Household Budget Survey dataset",
+    "target_population_citation": "Overall, the results provide evidence in support of policies that encourage wider expansion of SSNs as a policy instrument for assisting extremely poor households"
+  }
+}

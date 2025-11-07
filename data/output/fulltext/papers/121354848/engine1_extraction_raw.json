@@ -1,0 +1,61 @@
+{
+  "paper_metadata": {
+    "title": "Impact of a Multifaceted Program on Child Development in Burkina Faso",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Multifaceted Ultra-Poor Program",
+    "country": "Burkina Faso",
+    "region": null,
+    "target_population": "Ultra-poor households with young children or pregnant women"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfer",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The design includes a cash transfer program (T1), T1 plus animal transfer (T2) and T2 plus a nutrition bundle"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "animals",
+        "gardening kit"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "The design includes a cash transfer program (T1), T1 plus animal transfer (T2) and T2 plus a nutrition bundle which includes fortified flour, a gardening kit and nutrition education (T3)"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "food security/nutrition",
+      "asset accumulation",
+      "child development",
+      "cognitive development"
+    ],
+    "outcomes_evidence_citation": "We find that the program reduces extreme poverty in all treatment branches, but only T3 positively impacts child nutrition. T3 also impacts motor and cognitive development of new born children.",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "We employ the False Discovery Rate (FDR) to control for multiple hypothesis testing when analyzing indices",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "nutrition interventions valued at $24 per household",
+    "cost_evidence_citation": "the relative cost effectiveness of nutrition interventions (in our case valued by the household head at $24 per household)"
+  },
+  "evidence_citations": {
+    "program_name_citation": "We study the impacts of a multifaceted program implemented in Burkina Faso that targets ultra-poor households with young children or pregnant women",
+    "country_citation": "We study the impacts of a multifaceted program implemented in Burkina Faso",
+    "target_population_citation": "targets ultra-poor households with young children or pregnant women"
+  }
+}

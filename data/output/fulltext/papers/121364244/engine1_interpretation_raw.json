@@ -1,0 +1,48 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'SADA-Northern Ghana Millennium Village Project (MVP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No explicit mention of graduation/TUP program, and while assets are provided (agricultural inputs), there is no cash/consumption support component present"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Ghana, which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of cash transfers or consumption support provided"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', with agricultural inputs and fertilizer provided directly to participants"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "employment"
+    ],
+    "tertiary_outcomes": [
+      "education",
+      "gender equality",
+      "child mortality",
+      "maternal health",
+      "disease prevention",
+      "environmental sustainability",
+      "health services access"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses difference-in-differences with matched villages and households, is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation design"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted during 2015-2017 with results presented"
+  }
+}

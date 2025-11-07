@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "This paper evaluates the impact of China's poverty alleviation policy (CPAP) on the evolution of the industrial structure in poverty-stricken counties",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "China's poverty alleviation policy (CPAP)",
+    "country": "China",
+    "region": "National",
+    "target_population": "Poverty-stricken counties"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash assistance",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Many countries have attempted to alleviate poverty directly by providing social welfare to impoverished households, such as offering cash and in-kind assistance"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "industrial structure",
+      "economic development",
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "Using a panel dataset of 2099 counties from 2010 to 2020, we construct an industrial classification framework and measure diversification through the equilibrium index",
+    "study_design": "Difference-in-differences (DID)",
+    "design_evidence_citation": "employing a difference-in-differences (DID) model to examine the impact of CPAP on the industrial structure of newly established enterprises in poverty-stricken counties",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2010-2020",
+    "sample_size": 2099,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This paper evaluates the impact of China's poverty alleviation policy (CPAP) on the evolution of the industrial structure in poverty-stricken counties",
+    "country_citation": "Since the founding of the People's Republic of China, poverty alleviation has been one of the government's top priorities",
+    "target_population_citation": "By 2020, tens of millions of impoverished rural populations, according to current standards, had been lifted out of poverty, and all poverty-stricken counties had fully exited the poverty-stricken county list"
+  }
+}

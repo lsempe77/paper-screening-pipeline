@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'GiveDirectly Unconditional Cash Transfer Program'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Not a graduation program - only has cash transfers (component_a_present = true) but lacks asset provision (component_b_present = false). No mention of being a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Kenya, which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'unconditional cash transfer', amount = '$1,000' as lump sum, is_loan_or_credit = 'NO'. Program provides direct cash support."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. Program does not provide productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "total assets"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "housing quality",
+      "household wealth"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2014-2017 with results presented"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Alleviation and Increases the Income Che for of Farmers in Liupanshui City",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Liupanshui City Kiwi Fruit Industry Development Program",
+    "country": "China",
+    "region": "Liupanshui City",
+    "target_population": "Poor farmers"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings"
+    ],
+    "outcomes_evidence_citation": "For these farmers, the wage working here in this fruit base can amount to 2,500 yuan each month",
+    "study_design": "Case study",
+    "design_evidence_citation": "Talking about these changes, he beamed and said, 'these changes are brought by the decision that companies join to develop kiwi fruit industry.'",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": false
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "case studies"
+    ],
+    "qualitative_evidence_citation": "Li Ruming, a poor household in Ejia Village, Miluo Town, Shuicheng County, Liupanshui City, is picking fresh kiwi fruit while pruning branches with other farmers.",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "In recent years, Liupanshui city makes use of its advantages of abundant rainfall, mild climate and suitable soil, which makes the area an important natural domain and an ideal planting area of wild kiwi fruit in the whole country.",
+    "country_citation": "Alleviation and Increases the Income Che for of Farmers in Liupanshui City",
+    "target_population_citation": "Li Ruming, a poor household in Ejia Village, Miluo Town, Shuicheng County, Liupanshui City"
+  }
+}

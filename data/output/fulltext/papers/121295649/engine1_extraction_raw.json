@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Effect of zinc supplementation on growth and morbidity of Bangladeshi infants aged 4-24 weeks",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Zinc supplementation trial",
+    "country": "Bangladesh",
+    "region": "Dhaka slums",
+    "target_population": "Infants aged 4-24 weeks"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "growth",
+      "morbidity",
+      "serum zinc levels"
+    ],
+    "outcomes_evidence_citation": "We assessed the effect of zinc supplementation on growth and morbidity in poor Bangladeshi infants aged 4-24 wk",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "Infants from Dhaka slums were enrolled at 4 wk of age and randomly assigned to receive 5 mg elemental Zn/d (n = 152) or placebo (n = 149) until 24 wk of age",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 301,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This study evaluates the effect of zinc supplementation on growth and morbidity in poor Bangladeshi infants aged 4-24 wk",
+    "country_citation": "Infants from Dhaka slums were enrolled at 4 wk of age",
+    "target_population_citation": "We assessed the effect of zinc supplementation on growth and morbidity in poor Bangladeshi infants aged 4-24 wk"
+  }
+}

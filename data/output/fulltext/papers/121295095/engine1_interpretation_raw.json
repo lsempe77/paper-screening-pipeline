@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is identified as 'Government-led national cash transfer programme' - while generic, it provides a clear program description"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "While not explicitly called a graduation program, it contains both core graduation components: cash transfers (not loans) and direct provision of productive assets (livestock)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While program is in 'Sahel' region (typically LMICs), specific country is not provided in extracted information"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'cash transfer', and is_loan_or_credit = 'NO'. Program provides cash support that is not a loan"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'livestock', and direct_provision = 'YES'. Program directly provides productive assets"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure",
+      "income/earnings",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "women's empowerment",
+      "psychosocial well-being",
+      "business revenues",
+      "agricultural revenues"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings"
+  }
+}

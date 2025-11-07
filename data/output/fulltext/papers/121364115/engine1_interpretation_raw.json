@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Precision Poverty Alleviation Policy' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While both cash support and productive assets are mentioned as components, there is insufficient detail/quotes to confirm this is explicitly a graduation/TUP program. No clear citations provided showing integrated package design."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China, which was classified as an upper-middle income country during the study period (2017)."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'transfer payment', and is_loan_or_credit = 'NO'. Program provides cash support that is not a loan."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'productive assets', and direct_provision = 'YES'. Program directly provides productive assets to participants."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "income inequality",
+      "distribution fairness",
+      "social equity"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Propensity Score Matching (PSM) and OLS regression', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from 2017 with a sample size of 909."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "paper_metadata": {
+    "title": "SPIR (Strengthen PSNP Institutions and Resilience) Graduation Program Evaluation",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "SPIR (Strengthen PSNP Institutions and Resilience)",
+    "country": "Ethiopia",
+    "region": "Amhara and Oromia regions",
+    "target_population": "PSNP beneficiaries (poorest 20% of rural Ethiopian households)"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "lump sum transfer",
+      "cash_amount": "$200",
+      "cash_frequency": "one-time",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The core set of interventions includes $200 lump sum transfer for the poorest households"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "poultry"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "The primary livelihoods intervention package is a $200 transfer (randomly assigned to be cash or poultry) in conjunction with training and establishment of savings groups"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "asset accumulation",
+      "savings/financial",
+      "income/earnings",
+      "consumption/expenditure",
+      "food security/nutrition"
+    ],
+    "outcomes_evidence_citation": "Outcomes of interest [...] Assets Total asset value; value of productive assets, consumer durables, livestock assets [...] Credit and savings [...] Income from livestock sales [...] Consumption and food security Consumption expenditure (total, food, nonfood); food insecurity experience scale",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "We evaluate the effects of SPIR in a large randomized controlled trial",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2018-2021",
+    "sample_size": 3314,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "SPIR (Strengthen PSNP Institutions and Resilience) • In this talk, I will present new evidence from a randomized trial of a lighter-touch graduation model implemented at scale in rural Ethiopia, during the first phase of SPIR",
+    "country_citation": "implemented at scale in rural Ethiopia [...] in 192 kebeles in 13 woredas in two regions, Amhara and Oromia",
+    "target_population_citation": "SPIR targets households who are beneficiaries of the Productive Safety Net Program (PSNP), and thus are among the poorest 20% of rural Ethiopian households"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is identified as 'Cash and In-kind Grants Experiment' with clear description of intervention components."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While program has both cash and asset components, it is not explicitly identified as a graduation/TUP program. The target population (small retail firms) and one-time nature of support differs from typical graduation programs targeting ultra-poor households."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Mexico, which is classified as a middle-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "While component_a_present = true and is_loan_or_credit = 'NO', the cash grant appears to be solely for business investment/capital rather than consumption support. This should be assessed under Criterion 3 (productive assets) rather than Criterion 2 (consumption support)."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true, direct_provision = 'YES'. Program provides in-kind grants and business capital directly to participants. Both the cash grants and in-kind grants are for productive purposes."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "business outcomes"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings including returns and profit outcomes."
+  }
+}

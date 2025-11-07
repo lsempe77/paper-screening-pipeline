@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Deriving a Poverty-Efficient Allocation of Aid",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": null,
+    "region": null,
+    "target_population": null
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "economic growth"
+    ],
+    "outcomes_evidence_citation": "We first utilize new World Bank ratings of twenty different aspects of national policy to establish the current relationship between aid, policies and growth. Onto this we add a mapping from growth to poverty reduction",
+    "study_design": "Policy analysis",
+    "design_evidence_citation": "This paper derives a poverty-efficient allocation of aid and compares it with actual aid allocations",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": "1974-1997",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Cost per person lifted out of poverty calculations",
+    "cost_evidence_citation": "If the present global flow of aid were efficiently allocated, the marginal cost of lifting a person permanently above the $2 per day threshold would be $1,626"
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": null,
+    "target_population_citation": null
+  }
+}

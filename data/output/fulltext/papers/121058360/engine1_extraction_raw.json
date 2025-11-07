@@ -1,0 +1,62 @@
+{
+  "paper_metadata": {
+    "title": "Building resilience against droughts: Evidence from a graduation model program in Ethiopia",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Strengthen PSNP4 Institutions and Resilience (SPIR)",
+    "country": "Ethiopia",
+    "region": "National",
+    "target_population": "PSNP beneficiaries, ultra-poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "livelihood transfer",
+      "cash_amount": null,
+      "cash_frequency": "one-time",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "in some arms, there was also a one-time livelihoods transfer targeting the poorest beneficiaries"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "livestock",
+        "poultry"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "The SPIR program led to substantial increases in accumulation of livestock assets as well as increased income from livestock products"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security",
+      "asset accumulation",
+      "women's empowerment",
+      "nutrition",
+      "intimate partner violence",
+      "consumption/expenditure"
+    ],
+    "outcomes_evidence_citation": "We measure impacts on food security, livestock holdings, women's diet diversity, women's body mass index and intimate partner violence",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "We use data from a cluster randomized control trial (RCT) that evaluated a multifaceted graduation model program within the context of Ethiopia's Productive Safety Net Programme",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2016-2021",
+    "sample_size": 3314,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Strengthen PSNP4 Institutions and Resilience (SPIR) was a five-year project delivering bundled livelihoods, nutrition, and gender interventions to PSNP beneficiaries",
+    "country_citation": "We use data from a cluster randomized control trial (RCT) that evaluated a multifaceted graduation model program within the context of Ethiopia's Productive Safety Net Programme",
+    "target_population_citation": "The study population is formed of beneficiaries of a large-scale and long running safety net program that provides regular albeit small cash or food payments against labor intensive public works"
+  }
+}

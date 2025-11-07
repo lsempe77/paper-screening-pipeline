@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Targeted Poverty Alleviation (TPA)' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes asset provision (breeding and farming projects), there is no evidence of cash/consumption support component. The program is not explicitly identified as a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China, which was classified as an upper-middle income country during the study period (2012-2020)."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, and no evidence of cash transfers or consumption support in the extracted information."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, with direct provision of productive assets including 'crop farming project' and 'breeding project'. Direct_provision is marked as 'YES'."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "energy consumption",
+      "climate adaptation",
+      "electricity usage"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While the study uses an appropriate method (difference-in-differences) and is_review_or_policy_analysis = false, none of the measured outcomes fall into primary or secondary outcome categories. Only tertiary outcomes (energy consumption, climate adaptation, electricity usage) are measured."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished research findings, covering the period 2012-2020."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Targeted Poverty Alleviation (TPA) with Pairing-up Support System (PSS)' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash support, there is no evidence of productive asset provision, and the program is not explicitly identified as a graduation/TUP program. Component_b_assets.present = false."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China, which was classified as a middle-income country during the study period (2012-2018)."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, is_loan_or_credit = 'NO', with financial aid of 40,000 yuan (US$558) per capita provided. This represents direct cash support, not a loan."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, with no assets listed in assets_provided. No evidence of direct provision of productive assets."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "governance efficiency",
+      "resource distribution"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses a 'Natural randomized trial' design and is_review_or_policy_analysis = false, indicating a quantitative impact evaluation approach."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, and study covers a completed period from 2012-2018 with results."
+  }
+}

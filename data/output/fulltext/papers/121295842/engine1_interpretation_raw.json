@@ -1,0 +1,39 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Prospera CCT with Educación Inicial (EI) parenting program'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation program. While it includes CCT (cash component), it lacks productive asset provision and is not described as a graduation/TUP program. Program appears to be focused on child development and parenting support."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Mexico, which is classified as a middle-income country. Location specified as 'Rural communities in three Mexican states'"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'conditional cash transfer', is_loan_or_credit = 'NO'. Program provides conditional cash transfers, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "child development",
+      "parenting practices",
+      "home environment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While study design is appropriate (RCT), the study only measures tertiary outcomes (child development, parenting practices, home environment). No primary or secondary outcomes (assets, income, expenditure, employment, etc.) are measured."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings with a sample size of 1362 participants."
+  }
+}

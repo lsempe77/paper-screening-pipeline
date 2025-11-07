@@ -1,0 +1,54 @@
+{
+  "paper_metadata": {
+    "title": "Can the World Feed its Growing Population? [EJDR Special Debate Forum]",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": null,
+    "region": null,
+    "target_population": null
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security/nutrition"
+    ],
+    "outcomes_evidence_citation": "The target of halving the proportion of people suffering from hunger has only marginally improved since 1990 | According to the United Nations, nearly a quarter of children in developing countries under the age of five are expected to remain undernourished in 2015",
+    "study_design": "Review/Policy Analysis",
+    "design_evidence_citation": "This EDJR Special Debate Forum... We posed this question to renowned experts in agricultural economics, economic policy, environment and nutrition to provide insights from their respective fields",
+    "is_review_or_policy_analysis": true,
+    "publication_year": 2013,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": null,
+    "target_population_citation": null
+  }
+}

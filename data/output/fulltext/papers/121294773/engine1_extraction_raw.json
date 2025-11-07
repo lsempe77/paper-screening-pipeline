@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Labor impact of the National Program of direct support to the poorest JUNTOS in Peru for the year 2021",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "JUNTOS (National Program of direct support to the poorest)",
+    "country": "Peru",
+    "region": "National",
+    "target_population": "Poorest households with children"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "conditional cash transfer",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "JUNTOS places conditions on households to grant the money, these requirements are related to nutrition, health and education of children and adolescents who are part of the family structure, as well as pregnant mothers | the Conditional Cash Transfer Program 'Juntos' is a national program of direct support to the poorest"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "labor supply",
+      "working hours"
+    ],
+    "outcomes_evidence_citation": "the effect of the Juntos Social Program on the length of the working day is negative for the year 2021; it is found that the value of the average treatment effect in the treated population (ATT) is -1.167",
+    "study_design": "Quasi-experimental (Propensity Score Matching)",
+    "design_evidence_citation": "The methodology used is the Propensity Score Matching (PSM) through the nearest neighbor method",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2021",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "the Conditional Cash Transfer Program 'Juntos' is a national program of direct support to the poorest, which is part of the social policy to fight poverty",
+    "country_citation": "In Peru, the aforementioned program began in 2005",
+    "target_population_citation": "JUNTOS places conditions on households to grant the money, these requirements are related to nutrition, health and education of children and adolescents who are part of the family structure, as well as pregnant mothers"
+  }
+}

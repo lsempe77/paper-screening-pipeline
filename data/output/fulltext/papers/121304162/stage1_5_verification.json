@@ -1,0 +1,6 @@
+{
+  "assessment": "NO",
+  "reasoning": "[Specific Program Not Verified] Paper mentions 'Livelihood Empowerment Against Poverty (LEAP)' but search could not confirm this as graduation program: Perplexity search result: The Livelihood Empowerment Against Poverty (LEAP) program in Ghana is a social protection initiative that provides unconditional cash transfers to extremely poor and vulnerable households, including those with elderly, disabled, orphans, and vulnerable children. The program also links beneficiaries to health insurance but does not provide productive assets or a structured graduation pathway (such as skills training, asset transfers, or business development support) that are typical of graduation or multi-component poverty programs. The evidence from multiple sources confirms that LEAP is primarily a cash transfer program without an assets or livelihood development component. | Graduation: NO, Cash: YES, Assets: NO | Confidence: HIGH | Sources: https://transfer.cpc.unc.edu/countries/ghana/, https://www.ssph-journal.org/journals/international-journal-of-public-health/articles/10.3389/ijph.2023.1605336/full, http://akatsinorth.gov.gh/reassessment-of-the-leap-program/",
+  "verified_program_name": "Livelihood Empowerment Against Poverty (LEAP)",
+  "verification_applied": true
+}

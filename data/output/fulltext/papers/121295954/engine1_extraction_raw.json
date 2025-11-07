@@ -1,0 +1,57 @@
+{
+  "paper_metadata": {
+    "title": "Economic assistance program impact on depression in post-conflict Northern Uganda",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Economic assistance program",
+    "country": "Uganda",
+    "region": "Northern Uganda",
+    "target_population": "Vulnerable women (and some men)"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "start-up capital",
+      "cash_amount": null,
+      "cash_frequency": "one-time",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Participants in treatment villages received training, start-up capital, and follow-up support."
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings",
+      "business activity",
+      "savings",
+      "mental health/depression"
+    ],
+    "outcomes_evidence_citation": "Sixteen months after the program, monthly cash earnings doubled from UGX 22 523 to 51 124, non-household and non-farm businesses doubled, and cash savings roughly quadrupled. There was no measurable effect on a locally derived measure of symptoms of depression.",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "This study used a cluster-randomized design to test the hypothesis that a poverty alleviation program would improve economic security and reduce symptoms of depression",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2009",
+    "sample_size": 1800,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This study used a cluster-randomized design to test the hypothesis that a poverty alleviation program would improve economic security",
+    "country_citation": "By 2009, two decades of war and widespread displacement left the majority of the population of Northern Uganda impoverished.",
+    "target_population_citation": "Community committees were asked to identify the most vulnerable women (and some men) to participate."
+  }
+}

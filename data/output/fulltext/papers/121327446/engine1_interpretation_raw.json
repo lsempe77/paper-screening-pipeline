@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC Targeting the Ultra-Poor (TUP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as 'Targeting the Ultra-Poor (TUP)' and includes both core components: weekly cash stipends for 40 weeks (not loans) and direct provision of productive assets (livestock)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country, specifically in '13 of the poorest districts'"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'weekly cash stipends', frequency = 'weekly for first 40 weeks', is_loan_or_credit = 'NO'. Program provides regular cash support that is not a loan"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided = ['livestock (cows, goats, poultry)'], direct_provision = 'YES'. Program directly provides productive assets in the form of livestock"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "expectations about children's occupations",
+      "education",
+      "enrollment",
+      "dropout rates",
+      "private tutoring"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from 2007-2011"
+  }
+}

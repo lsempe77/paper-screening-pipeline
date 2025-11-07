@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Returns to Capital in Microenterprises: Evidence from a Field Experiment",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Cash and In-kind Grants Experiment",
+    "country": "Mexico",
+    "region": "Urban",
+    "target_population": "Small retail firms/microenterprises"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash grants",
+      "cash_amount": "1,500 pesos",
+      "cash_frequency": "one-time",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "In a randomized experiment that gave cash and in-kind grants to small retail firms, providing an exogenous shock to capital"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "in-kind grants"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "In a randomized experiment that gave cash and in-kind grants to small retail firms"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "profits",
+      "returns to capital",
+      "business investment"
+    ],
+    "outcomes_evidence_citation": "the shock generated large increases in profits, with the effects concentrated among firms that were more financially constrained. The estimated return to capital was at least 20-33 percent a month",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "In a randomized experiment that gave cash and in-kind grants to small retail firms",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Returns of 20-33% per month, 3-5 times higher than market rates",
+    "cost_evidence_citation": "The estimated return to capital was at least 20-33 percent a month -three to five times higher than market interest rates"
+  },
+  "evidence_citations": {
+    "program_name_citation": "In a randomized experiment that gave cash and in-kind grants to small retail firms",
+    "country_citation": "These vendors earn their living using their own labor and small amounts of capital... in Mexico",
+    "target_population_citation": "small retail firms... These vendors earn their living using their own labor and small amounts of capital"
+  }
+}

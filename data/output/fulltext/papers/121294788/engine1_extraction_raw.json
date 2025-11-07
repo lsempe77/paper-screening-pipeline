@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "The impact of fiscal poverty alleviation funds on economic growth and poverty reduction: Evidence from China",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "China's Targeted Poverty Alleviation Policy",
+    "country": "China",
+    "region": "National",
+    "target_population": "Rural impoverished population"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "economic growth"
+    ],
+    "outcomes_evidence_citation": "This study aims to address two key questions: What role do fiscal poverty alleviation funds play in reducing poverty? Additionally, do these funds contribute to economic growth?",
+    "study_design": "Panel data analysis with two-stage least squares (2SLS)",
+    "design_evidence_citation": "Provincial panel data in China from 2010 to 2020 are used to test the impact of fiscal poverty alleviation funds on poverty reduction and economic growth. The empirical study of this paper primarily employs panel data within difference and two-stage least squares (2SLS) estimation for causal identification.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2010-2020",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Analysis of fiscal poverty alleviation funds' contribution to growth and poverty reduction",
+    "cost_evidence_citation": "During the sample period, the contribution of poverty alleviation funds to economic growth reached 7.3%, and the contribution to the reduction of the poverty incidence rate was 8.4%"
+  },
+  "evidence_citations": {
+    "program_name_citation": "The strategy of 'targeted poverty alleviation' was introduced in 2014, with a commitment to lift all impoverished counties out of poverty by 2020.",
+    "country_citation": "Since 2013, China has implemented targeted poverty alleviation policies, successfully eradicating absolute poverty nationwide by 2021.",
+    "target_population_citation": "According to the poverty standard set in 2010, China's rural impoverished population was a staggering 770 million in 1978, with a poverty rate of 97.5%."
+  }
+}

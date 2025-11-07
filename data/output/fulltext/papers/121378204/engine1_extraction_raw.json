@@ -1,0 +1,52 @@
+{
+  "paper_metadata": {
+    "title": null,
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Forsa",
+    "country": "Egypt",
+    "region": "National",
+    "target_population": "Takaful cash transfer beneficiaries"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfer",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "targeted to current beneficiaries of the Takaful cash transfer program"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": "has been designed as a graduation program"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [],
+    "outcomes_evidence_citation": null,
+    "study_design": null,
+    "design_evidence_citation": null,
+    "is_review_or_policy_analysis": false,
+    "publication_year": 2021,
+    "study_conducted_year": "2021",
+    "sample_size": null,
+    "completed": false
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The Forsa program, launched in 2021 by the Egyptian Ministry of Social Solidarity",
+    "country_citation": "The Forsa program, launched in 2021 by the Egyptian Ministry of Social Solidarity",
+    "target_population_citation": "targeted to current beneficiaries of the Takaful cash transfer program"
+  }
+}

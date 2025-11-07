@@ -1,0 +1,57 @@
+{
+  "paper_metadata": {
+    "title": "The contribution of irrigation to poverty reduction: A case study of the Tono irrigation scheme in Ghana",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Tono Irrigation Scheme",
+    "country": "Ghana",
+    "region": "Kassena-Nankana District, Upper East Region",
+    "target_population": "Irrigation farmers"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": "The paper describes an irrigation scheme but does not indicate direct provision of assets to farmers"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income",
+      "agricultural output",
+      "employment",
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "The Tono irrigated scheme has, to a considerable extent, created a platform for employment and high agricultural output. However, the high agricultural output has not been translated into increased income and improved livelihoods for the farmers",
+    "study_design": "Treatment and control experimental approach",
+    "design_evidence_citation": "A treatment and control experimental approach was adopted in the investigation. The treatment group comprised a sample of 93 out of the 1,328 Tono irrigation tomato farmers and the control group sampled 86 out of 614 irrigation tomato farmers operating outside the Tono irrigation scheme.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 179,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The study was conducted in the Kassena-Nankana District in the Upper East Region of Ghana... the Tono irrigation scheme",
+    "country_citation": "In northern Ghana, where the climatic conditions do not allow for an all-year-around rain-fed agriculture",
+    "target_population_citation": "The target group or units of investigation comprise the farmers engaged in crop production in the Tono irrigation project"
+  }
+}

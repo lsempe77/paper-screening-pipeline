@@ -1,0 +1,57 @@
+{
+  "paper_metadata": {
+    "title": "Land Reform and Property Rights in South Africa",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": "South Africa",
+    "region": "National",
+    "target_population": null
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "land ownership",
+      "land reform policy"
+    ],
+    "outcomes_evidence_citation": "This study has discussed several social, economic, political and psychological motivations for land reform in contemporary South Africa",
+    "study_design": "Qualitative case study",
+    "design_evidence_citation": "Through a purposive sampling technique, the study adopts face-to-face unstructured interviews. Participants (22) were selected out of the 255 households under study",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": "2017",
+    "sample_size": 22,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "unstructured interviews"
+    ],
+    "qualitative_evidence_citation": "Qualitative research involves an in-depth interrogation of a given topic, hence the choice of this research design",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": "This book presents an opportunity to contribute to the intellectual exposition on land and to reconceptualize land and land policy in the 'new' South Africa",
+    "target_population_citation": null
+  }
+}

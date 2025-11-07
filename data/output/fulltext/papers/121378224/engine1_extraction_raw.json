@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Household Choice Between Cash Transfers and Economic Inclusion Programs: Evidence from Egypt",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Forsa",
+    "country": "Egypt",
+    "region": "National",
+    "target_population": "Cash transfer recipients"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "consumption support",
+      "cash_amount": null,
+      "cash_frequency": "monthly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Since the Egyptian government decided early on that the economic inclusion program's consumption support would be equivalent to current monthly cash transfers | Takaful transfers will continue until we make sure that you have already stood on your feet"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "income-generating assets"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "returns from the economic inclusion program are a function of the size, frequency and duration of any consumption support and the expected income from the income-generating activity provided by the program | The Forsa program offers two tracks: the asset transfer track and the wage employment track"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "program uptake",
+      "household preferences",
+      "program perceptions"
+    ],
+    "outcomes_evidence_citation": "We start by presenting estimates from Model 1, the Simple Model in Section 2, which estimates that 45 percent of households would prefer Forsa. We also find that it is a statistically significant predictor of interest in the economic inclusion program.",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "To test the model, we conduct a household survey during the period of recruitment for the economic inclusion program... we embed an experiment that randomizes the delivery of video messages",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 2540,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "To garner support for the new option, the government provided cash transfer recipient households with a choice: would you rather remain eligible for the monthly cash transfer or opt into the economic inclusion program?",
+    "country_citation": "One such country is Egypt, where the government is piloting an economic inclusion program that aims to directly support exit from its popular but fiscally constrained national cash transfer program",
+    "target_population_citation": "To garner support for the new option, the government provided cash transfer recipient households with a choice: would you rather remain eligible for the monthly cash transfer or opt into the economic inclusion program?"
+  }
+}

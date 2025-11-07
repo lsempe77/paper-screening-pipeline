@@ -1,0 +1,65 @@
+{
+  "paper_metadata": {
+    "title": "Building Pathways Out of Poverty for Ultra-poor IDPs and Vulnerable Host Communities in Baidoa - Midline Findings",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Building Pathways Out of Poverty for Ultra-poor IDPs and Vulnerable Host Communities in Baidoa",
+    "country": "Somalia",
+    "region": "Baidoa",
+    "target_population": "Ultra-poor internally displaced households and host communities"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "unconditional cash transfers",
+      "cash_amount": null,
+      "cash_frequency": "disbursed over a nine-month period",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The intervention includes an initial phase of unconditional cash transfers disbursed over a nine-month period to stabilize ultra-poor households' food security."
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "livestock",
+        "start-up assets"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "A number of respondents emphasized that they are now engaging in new income-generating activities using the assets transferred (primarily livestock)"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security",
+      "consumption",
+      "poverty reduction",
+      "resilience",
+      "social capital",
+      "asset ownership",
+      "livelihoods"
+    ],
+    "outcomes_evidence_citation": "Midline findings from this randomized trial of the UPG intervention suggest UPG programming is leading to significantly enhanced food security; higher consumption and reduced poverty; and enhanced resilience among households exposed to the intervention.",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "The project employs an RCT design in which households who were eligible for the intervention were randomly assigned to participate in the program or to serve as part of the control arm.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": 2023,
+    "study_conducted_year": "2022-2023",
+    "sample_size": 4116,
+    "completed": false
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "focus group discussions"
+    ],
+    "qualitative_evidence_citation": "These were criteria identified as important for program eligibility by the program team and validated by participants and community members through focus group discussions.",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This brief reports on midline findings from a randomized controlled trial (RCT) evaluating the project Building Pathways Out of Poverty for Ultra-poor IDPs and Vulnerable Host Communities in Baidoa",
+    "country_citation": "Somalia is one of the poorest countries in the world, and severe poverty, ongoing armed conflict, and recurring droughts and floodings have created a humanitarian crisis",
+    "target_population_citation": "The project seeks to enable ultra-poor internally displaced households to graduate from extreme poverty and begin an upward trajectory to self-reliance for displacement-affected communities"
+  }
+}

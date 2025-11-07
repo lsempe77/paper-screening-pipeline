@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Health Poverty Alleviation Project (HPAP) effectiveness study in China",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Health Poverty Alleviation Project (HPAP)",
+    "country": "China",
+    "region": "Five prefectures",
+    "target_population": "Farm households, particularly those in poverty due to illness",
+    "program_name_citation": "China has implemented the Health Poverty Alleviation Project (HPAP) since 2016. HPAP includes a series of policies aimed at implementing medical assistance and improving medical conditions",
+    "country_citation": "This study examines the effectiveness and mechanisms of action of HPAP using data from a special survey conducted in five Chinese prefectures in 2018-2019",
+    "target_population_citation": "Disease is a significant cause of poverty in China today, with approximately 40% of poverty arising from it"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "vulnerability to poverty",
+      "medical expenditure",
+      "human capital"
+    ],
+    "outcomes_evidence_citation": "This study has found that HPAP significantly reduces poverty and is more effective in reducing the vulnerability of non-poor farm households than poor farm households. Additionally, the results suggest that improving human capital stock and reducing medical expenditure are the two pathways through which HPAP can alleviate farm households' vulnerability to poverty",
+    "study_design": "Quasi-experimental",
+    "design_evidence_citation": "Hierarchical linear regression and propensity score matching were employed to assess the poverty-reduction effects of HPAP",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2018-2019",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  }
+}

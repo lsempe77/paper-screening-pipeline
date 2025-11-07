@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Exchange asymmetries in productive assets: Tools versus fertilizer in Ethiopia",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Field experiment on exchange asymmetries",
+    "country": "Ethiopia",
+    "region": "Rural areas",
+    "target_population": "Poor rural farming households",
+    "program_name_citation": "We used a field experiment to investigate exchange asymmetries in productive assets among poor rural respondents in Ethiopia",
+    "country_citation": "We used a field experiment to investigate exchange asymmetries in productive assets among poor rural respondents in Ethiopia",
+    "target_population_citation": "The participants in the experiment were male heads and the spouses (or female heads) of households that participated in a household survey in 2012"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "random cash amount",
+      "cash_amount": "40-140 EB",
+      "cash_frequency": "one-time",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The random amount of cash for each player was identified in advance through a random number generator, within the range 40-140 EB"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "tools (plough, hoe or fork)",
+        "fertilizer"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "We used two types of assets that should be of productive value to the farm household respondents in our sample: fertilizer, which is a divisible and consumable productive asset; and a tool (plough, hoe or fork), which is a durable productive asset that is a necessary piece of equipment on their farm"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "exchange asymmetries",
+      "input demand",
+      "input supply",
+      "price responses"
+    ],
+    "outcomes_evidence_citation": "We illustrate the input demand and supply curves in price and probability space, where demands for input (tool or fertilizer) are estimated for receivers (winners) of cash and where input supplies are estimated for receivers (winners) of the commodity as probabilities that they will trade these when prices change",
+    "study_design": "Randomized field experiment",
+    "design_evidence_citation": "The experiment was set up to first elicit the preference ordering of the respondents. What each respondent received was then determined through coin tosses, first, to determine whether the commodity was a tool or a small bag of fertilizer, and second, to determine whether they would first receive the commodity or a random amount of cash",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2012",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Market value of 100 EB for tools and fertilizer",
+    "cost_evidence_citation": "The small bag of fertilizer and the tool each have a market value of approximately 100 EB"
+  }
+}

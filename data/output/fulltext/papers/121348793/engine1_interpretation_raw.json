@@ -1,0 +1,35 @@
+{
+  "criterion_0_program": {
+    "assessment": "NO",
+    "reasoning": "No specific program name or clear program description is provided in the extracted information (program_name = null)."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - both cash support and asset provision are absent (component_a_cash_support.present = false, component_b_assets.present = false)."
+  },
+  "criterion_1_lmic": {
+    "assessment": "UNCLEAR",
+    "reasoning": "Country information is not provided in the extracted data (country = null)."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "No cash support component mentioned in the extracted information (component_a_cash_support.present = false)."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "No asset provision component mentioned in the extracted information (component_b_assets.present = false, assets_provided = [])."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": []
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "Document is identified as a review or policy analysis (is_review_or_policy_analysis = true), which does not qualify as an impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "Study is marked as completed (completed = true)."
+  }
+}

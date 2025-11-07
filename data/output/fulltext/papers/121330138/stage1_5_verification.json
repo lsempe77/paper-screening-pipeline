@@ -1,0 +1,6 @@
+{
+  "assessment": "NO",
+  "reasoning": "[Specific Program Not Verified] Paper mentions 'Field experiment on exchange asymmetries' but search could not confirm this as graduation program: Perplexity search result: The program referenced is a field experiment titled 'Tools, Fertilizer or Cash? Exchange Asymmetries in Productive Assets' led by Holden and Bezu on poor rural Ethiopians. The experiment randomly allocated productive assets (farm tools or fertilizer) or cash among participants, allowing them to exchange between these forms. This confirms the presence of both cash and asset components. However, it is not a graduation or multi-component poverty alleviation program; rather, it is a behavioral economics experiment to study exchange asymmetries and preferences, not an intervention like the BRAC Graduation model or similar comprehensive ultra-poor programs. | Graduation: NO, Cash: YES, Assets: YES | Confidence: HIGH | Sources: https://www.econstor.eu/bitstream/10419/242735/1/clts-wp2014-13.pdf",
+  "verified_program_name": "Field experiment on exchange asymmetries",
+  "verification_applied": true
+}

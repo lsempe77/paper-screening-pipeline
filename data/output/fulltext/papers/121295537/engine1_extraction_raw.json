@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "A quantitative analysis of China's focused poverty reduction policy in the Three Gorges Reservoir region",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "China's focused poverty reduction policy",
+    "country": "China",
+    "region": "Three Gorges Reservoir region (Chongqing City)",
+    "target_population": "Rural poor households in poverty-stricken counties"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings",
+      "agricultural production",
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "peasants' net income per capita from 2011 to 2013 increased by 13.9%, as compared to that during 2008-2010. Meanwhile, the net earnings of each farmer grew by 22% from 2011 to 2015",
+    "study_design": "Instrumental variables panel regression",
+    "design_evidence_citation": "Empirical results of the instrumental variable panel regression In order to control the individual differences in geographical locations and climate of the impoverished districts in the TGRR, we have considered regional effects.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "1998-2015",
+    "sample_size": 21,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "To mitigate the issue, China implemented the targeted poverty alleviation policy in 2011.",
+    "country_citation": "A quantitative analysis of the panel data of 21 districts in Chongqing City in the Three Gorges Reservoir region from 1998 to 2015",
+    "target_population_citation": "The TGRR in Chongqing covers 21 counties, including 9 poor and 12 non-poor districts. Within the poverty is particularly severe in nine poverty-stricken counties located in the hinterland of Qinba and Wuling Mountains"
+  }
+}

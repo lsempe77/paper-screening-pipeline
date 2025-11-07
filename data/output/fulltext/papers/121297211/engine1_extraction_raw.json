@@ -1,0 +1,61 @@
+{
+  "paper_metadata": {
+    "title": "Teaching to Fish or Providing Fish: China's 'Targeted Poverty Alleviation' in the Tibetan Pastoral Areas of Qinghai Province",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Targeted Poverty Alleviation (Jingzhun fupin)",
+    "country": "China",
+    "region": "Qinghai Province, Tibetan pastoral areas",
+    "target_population": "Rural poor, particularly pastoral populations"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "direct subsidies",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "direct distribution of money, grain, objects of utility, or even houses, have been the predominant methods aimed at improving the socioeconomic situation of households in Tibetan pastoral areas of western China"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "houses"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "the officials fall back on the method of constructing new houses and distributing them among the rural population"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "modernization",
+      "livelihood changes"
+    ],
+    "outcomes_evidence_citation": "The Targeted Poverty Alleviation program should once again accomplish China's fight against poverty through countryside reforms",
+    "study_design": "Case study",
+    "design_evidence_citation": "In the spring of 2017 the Jingzhun fupin caused a commotion in rural Qinghai",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": "2017",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "policy analysis",
+      "case study"
+    ],
+    "qualitative_evidence_citation": "In the spring of 2017 the Jingzhun fupin caused a commotion in rural Qinghai, especially among the officials invested with the task of eliminating poverty by 2020",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "the latest ambitious program of the current state-initiated rural development program of Targeted Poverty Alleviation-the Jingzhun fupin 精准扶贫",
+    "country_citation": "in the Tibetan pastoral areas of Qinghai itself",
+    "target_population_citation": "the rural population of the Tibetan pasturelands"
+  }
+}

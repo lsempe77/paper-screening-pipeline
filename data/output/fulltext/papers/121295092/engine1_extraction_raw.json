@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Quantitative evidence on the impact of social protection such as livelihood programs (LPs) on reducing vulnerability to poverty (VtP)",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Odisha Tribal Empowerment and Livelihoods Program (OTELP)",
+    "country": "India",
+    "region": "Tribal zone of Odisha (eastern India)",
+    "target_population": "Poor tribal households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": "Specifically, the program is consisted of four sets of activities: (1) to build the capacity of marginal groups; (2) to enhance the access of poor tribal people to natural resources and increase their productivity; (3) to encourage and facilitate off-farm enterprises; and (4) to ensure basic entitlements of tribal households"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "vulnerability to poverty"
+    ],
+    "outcomes_evidence_citation": "The ESR results indicate that a household's VtP is reduced by 3% for those that participate in LPs",
+    "study_design": "Endogenous switching regression (ESR)",
+    "design_evidence_citation": "We correct for observed and unobserved selection bias using the endogenous switching regression (ESR) model to obtain the average treatment effect on the treated of OTELP on VtP",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2018-19",
+    "sample_size": 479,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "We selected the OTELP, which specifically targeted the tribal zone of Odisha for economic development and to uplift the poor and vulnerable households",
+    "country_citation": "The analysis is based on the primary data collected in 2018-19 from 479 households in a tribal region of eastern India",
+    "target_population_citation": "We selected the OTELP, which specifically targeted the tribal zone of Odisha for economic development and to uplift the poor and vulnerable households"
+  }
+}

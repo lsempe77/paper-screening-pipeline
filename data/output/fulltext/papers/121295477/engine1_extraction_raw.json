@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Child Sponsorship and Child Psychology: Evidence from Compassion's Christian-Values-Based Approach",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Compassion International Child Sponsorship Program",
+    "country": "Multiple (Kenya, Indonesia, Mexico)",
+    "region": null,
+    "target_population": "Children in developing countries"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "self-esteem",
+      "optimism",
+      "aspirations",
+      "education",
+      "vocational aspirations"
+    ],
+    "outcomes_evidence_citation": "We study whether international child sponsorship increases educational and vocational aspirations among a sample of 2,022 children in Kenya, Indonesia, and Mexico. While effects are heterogeneous and strongest in Kenya, we find that over the three countries sponsorship increased indices of self-esteem (0.25), optimism (0.26), aspirations (0.29) and expected grade of completed education (0.43 years).",
+    "study_design": "Instrumental Variables",
+    "design_evidence_citation": "Using an age-eligibility rule applied during program rollout to identify causal effects",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2011-2017",
+    "sample_size": 2022,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Child sponsorship programs transfer resources from sponsors in wealthy countries to children in developing countries, helping to provide them access to healthcare, nutritious meals, tuition, and school uniforms.",
+    "country_citation": "We study whether international child sponsorship increases educational and vocational aspirations among a sample of 2,022 children in Kenya, Indonesia, and Mexico.",
+    "target_population_citation": "Child sponsorship programs transfer resources from sponsors in wealthy countries to children in developing countries"
+  }
+}

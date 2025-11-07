@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Tanzania Social Action Fund (TASAF) Cash Plus Program'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program includes both cash support (PSSN payments) and productive assets (productive grant with direct provision)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Tanzania (Mbeya and Iringa regions), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'government cash transfer (PSSN payments)', is_loan_or_credit = 'NO'. Program provides cash transfers, not loans"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'productive grant', direct_provision = 'YES'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "violence experiences",
+      "violence perpetration",
+      "self-esteem",
+      "school attendance",
+      "sexual behavior",
+      "gender attitudes"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While study design is appropriate (Cluster RCT), study only measures tertiary outcomes (violence, self-esteem, school attendance, sexual behavior, gender attitudes) with no primary or secondary outcomes measured"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating study presents finished research findings"
+  }
+}

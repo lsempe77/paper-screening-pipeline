@@ -1,0 +1,61 @@
+{
+  "paper_metadata": {
+    "title": null,
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Wayalailai Ecotourism Resort Community-Based Tourism",
+    "country": "Fiji",
+    "region": "Yasawa Island Group",
+    "target_population": "Indigenous community members"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "social cohesion",
+      "well-being"
+    ],
+    "outcomes_evidence_citation": "clan members believe the resort is a success, but place a higher level of importance on village development; livelihood impacts -housing, running water, toilets, payment of church tithes and school fees; increased living standards; and the ability to contribute to traditional obligations and ceremonies",
+    "study_design": "Case study",
+    "design_evidence_citation": "Data, mostly qualitative, were gathered (over a period of three years during visits that varied from a few days to six months) by means of a detailed literature review, together with participant observation, and in-depth and focus interviews of community groups",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "participant observation",
+      "in-depth interviews",
+      "focus group interviews",
+      "talanoa sessions"
+    ],
+    "qualitative_evidence_citation": "Data, mostly qualitative, were gathered (over a period of three years during visits that varied from a few days to six months) by means of a detailed literature review, together with participant observation, and in-depth and focus interviews of community groups",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Using a case study of Wayalailai Ecotourism Resort in the Yasawa Island Group",
+    "country_citation": "In the context of Fiji, where strict protocols exist regarding the interaction between men and women of different ages",
+    "target_population_citation": "CBT at Wayalailai has provided extensive economic and social benefits for a once marginalised, remote, island community"
+  }
+}

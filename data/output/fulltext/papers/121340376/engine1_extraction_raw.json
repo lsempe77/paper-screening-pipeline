@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "The Impact of Workplace Inspections on Understanding and Compliance with Occupational Safety and Health Legislation in Sri Lanka",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Factory Inspection Program",
+    "country": "Sri Lanka",
+    "region": "National",
+    "target_population": "Factories"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "understanding of legislation",
+      "compliance with legislation"
+    ],
+    "outcomes_evidence_citation": "The outcome variables are understanding of and compliance with the FO",
+    "study_design": "Quasi-experimental with propensity score matching",
+    "design_evidence_citation": "This study utilizes the propensity score matching technique to estimate data that closely match factories from both the treatment and control groups based on similar characteristics",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 102,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "In Sri Lanka, occupational safety and health legislation is implemented by the factories ordinance (FO), which is enforced by factory inspecting engineers through factory inspection",
+    "country_citation": "In Sri Lanka, occupational safety and health legislation is implemented by the factories ordinance (FO)",
+    "target_population_citation": "Among the 102 factories in the study, 50 factories had been inspected (treatment) previously, and the remaining 52 had not been inspected (control) during the last five years"
+  }
+}

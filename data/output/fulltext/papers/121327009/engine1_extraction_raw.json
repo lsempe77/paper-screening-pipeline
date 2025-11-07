@@ -1,0 +1,61 @@
+{
+  "paper_metadata": {
+    "title": "A randomized controlled trial of comprehensive case management for poverty reduction",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Bridges to Success (BtS)",
+    "country": "United States",
+    "region": "Rochester, New York",
+    "target_population": "Very low-income residents"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash incentives",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Treatment participants were assigned a navigator/mentor who worked intensively with clients over two years to identify their short-and long-term goals, create step-by-step plans for progress, and provide cash incentives for completing planned steps."
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "employment",
+      "earnings",
+      "housing",
+      "family relationships",
+      "health",
+      "networks",
+      "finances",
+      "education"
+    ],
+    "outcomes_evidence_citation": "The program recruited very low-income residents and collected detailed baseline information in seven domains: housing, family relationships, health, networks, finances, education, and employment.",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "we report the results of a randomized controlled trial (RCT) evaluation of a CCM anti-poverty program",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2017-2020",
+    "sample_size": 430,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Program cost effectiveness discussed in relation to earnings gains",
+    "cost_evidence_citation": "the program we study is somewhat less expensive so that the present discounted value of earnings gains to participants would exceed the cost of the program if they persist for about seven years"
+  },
+  "evidence_citations": {
+    "program_name_citation": "we report the results of a randomized controlled trial (RCT) evaluation of a CCM anti-poverty program, \"Bridges to Success\" (BtS), inspired by Mobility Mentoring and implemented in Rochester, New York",
+    "country_citation": "we report the results of a randomized controlled trial (RCT) evaluation of a CCM anti-poverty program, \"Bridges to Success\" (BtS), inspired by Mobility Mentoring and implemented in Rochester, New York",
+    "target_population_citation": "The program recruited very low-income residents | Study participants were very poor, facing both long-term economic barriers and particular crises around the time of enrollment"
+  }
+}

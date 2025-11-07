@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Community Empowerment Program (CEP)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program has asset provision, the cash support is identified as loans/credit (is_loan_or_credit = 'YES'). No explicit mention of being a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Jordan, which is classified as an upper-middle-income country by the World Bank."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "While component_a_present = true, is_loan_or_credit = 'YES' indicates this is a loan/credit program, not cash support. Loans/credit do not meet the cash support criterion."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true, direct_provision = 'YES', with specific assets listed including 'productive plantations', 'lemon trees', 'household wells', and 'agricultural inputs'."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "well-being",
+      "social cohesion",
+      "education",
+      "women's empowerment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Case study' without a comparison group does not meet criteria for quantitative impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true indicates the study presents finished research findings."
+  }
+}

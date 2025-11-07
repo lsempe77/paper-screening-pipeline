@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'Land Consolidation (LC) Program' implemented in China"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of being a graduation/TUP program. Neither cash support nor productive asset provision components are present, and no mention of graduation approach"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China, which is classified as an upper-middle income country by the World Bank"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of any cash transfers or consumption support provided to participants"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, direct_provision = NO, no evidence of productive assets being provided to participants"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income generation"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "economic development",
+      "social governance",
+      "ecological restoration",
+      "rural comprehensive development capacity"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses difference-in-differences with event study design, is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study presents finished research findings covering period 2014-2023"
+  }
+}

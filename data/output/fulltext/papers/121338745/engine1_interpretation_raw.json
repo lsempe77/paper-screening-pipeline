@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is identified as 'Non-contributory pension programmes' with clear description of pension schemes in specific countries."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation/TUP program components. Program is a pension scheme without productive asset transfers or other graduation elements."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study examines programs in Brazil, South Africa, and Bangladesh - all classified as low or middle-income countries."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'cash transfer pension', is_loan_or_credit = 'NO'. Program provides cash transfers through pensions."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty reduction"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "inequality",
+      "household investment",
+      "well-being"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "study_design = 'Policy analysis', is_review_or_policy_analysis = true. This is a policy analysis rather than an impact evaluation."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished analysis."
+  }
+}

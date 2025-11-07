@@ -1,0 +1,61 @@
+{
+  "paper_metadata": {
+    "title": "SPIR Impact Evaluation Report",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Strengthen PSNP4 Institutions and Resilience Development Food Security Activity (SPIR)",
+    "country": "Ethiopia",
+    "region": "Oromia and Amhara regions",
+    "target_population": "Poor and extremely poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfers",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "the combination of T2 and cash transfers led to decreases in women's (but not men's) depressive symptoms"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "poultry"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "targeting women for the poultry and cash transfers (L*)"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "mental health",
+      "gender attitudes",
+      "women's empowerment",
+      "intimate partner violence",
+      "marital dynamics",
+      "credit access"
+    ],
+    "outcomes_evidence_citation": "We investigate the impacts of the SPIR intervention on men's and women's mental health, marital dynamics, women's agency, and gender equitable attitudes and roles",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "randomly assigning kebeles to one of the following four intervention arms",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "the SPIR intervention",
+    "country_citation": "Many of these effects were worse in Oromia than Amhara",
+    "target_population_citation": "among the subsample of extremely poor households"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Tanzania Social Action Fund (TASAF) Productive Social Safety Nets (PSSN)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash transfers, there is no evidence of productive asset provision, and no explicit mention of this being a graduation/TUP program. Component_b_assets.present = false."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Tanzania, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "Component_a_cash_support.present = true, is_loan_or_credit = NO. Program provides both conditional and unconditional cash transfers of 'TZS 10,000 (USD6) per household per month basic transfer, up to TZS 38,000 (USD 23) additional conditional transfer'"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "Component_b_assets.present = false, no assets listed in assets_provided. No evidence of direct asset provision in the program"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption expenditure"
+    ],
+    "secondary_outcomes": [
+      "food security"
+    ],
+    "tertiary_outcomes": [
+      "farm productivity"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses quasi-experimental design and is_review_or_policy_analysis = false, indicating appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted in 2020/21 and presents finished findings"
+  }
+}

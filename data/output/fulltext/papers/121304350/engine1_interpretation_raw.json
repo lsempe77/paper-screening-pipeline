@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Multiple specific programs clearly identified: CT-OVC (Kenya), CGP (Lesotho), CGP (Zambia), LEAP (Ghana)"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence these are graduation programs. Only cash transfers mentioned (component_a_present = true) but no productive asset provision (component_b_present = false). No mention of graduation/TUP terminology."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "All countries mentioned (Kenya, Lesotho, Zambia, Ghana) are low- or middle-income countries"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, is_loan_or_credit = 'NO'. Regular cash transfers provided with specific amounts: Kenya (Ksh 2,000/month), Lesotho (120-250 Maloti/month), Zambia (60 Kwacha/month), Ghana (8-15 Cedi/month)"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, no assets provided, direct_provision = 'NO'. No evidence of productive asset provision"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [
+      "work/employment"
+    ],
+    "tertiary_outcomes": [
+      "social networks",
+      "risk-coping strategies",
+      "livelihood diversification"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design indicates 'Mixed methods with experimental and quasi-experimental designs', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings"
+  }
+}

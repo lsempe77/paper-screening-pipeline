@@ -1,0 +1,57 @@
+{
+  "paper_metadata": {
+    "title": "Impact of unconditional cash transfers on early marriage and pregnancy in Malawi and Zambia",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Social Cash Transfer Program (SCTP) and Multiple Categorical Targeted Grant (MCTG)",
+    "country": "Malawi and Zambia",
+    "region": "Rural districts (Salima and Mangochi in Malawi; Luwingu and Serenje in Zambia)",
+    "target_population": "Ultra-poor and labor-constrained households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "unconditional cash transfer",
+      "cash_amount": "Malawi: 2,000-4,800 kwacha bimonthly; Zambia: 120 kwacha (US$24) bimonthly",
+      "cash_frequency": "bimonthly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Both programs aim at helping the most vulnerable households meet their basic needs by providing regular bimonthly transfers that represent around 20 percent of baseline consumption. In Zambia, the transfer is a flat sum of 120 kwacha (ZMW) (US$24 per exchange rate at program start) per household bimonthly, whereas in Malawi, the transfer increases with household size (ranging from approximately 2,000 to 4,800 kwacha [Mk] with additional amounts for school-age children)"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty",
+      "education",
+      "early marriage",
+      "pregnancy"
+    ],
+    "outcomes_evidence_citation": "We examine whether cash transfers delayed early marriage and pregnancy among youth aged 14 to 21 years at baseline. Although we find strong impacts on poverty and schooling",
+    "study_design": "Cluster Randomized Controlled Trial (cRCT)",
+    "design_evidence_citation": "The evaluations of both programs were designed as cRCTs and carried out in two rural districts in each country covering 29 clusters in Malawi and 92 clusters in Zambia",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2013-2015 (Malawi), 2011-2013 (Zambia)",
+    "sample_size": 6609,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The SCTP in Malawi is the government's flagship social protection program and is targeted to ultra-poor, labor-constrained households. | The MCTG in Zambia is directed to households with a disabled member, or other vulnerable households such as those with a female or elderly head keeping orphans.",
+    "country_citation": "The evaluations of both programs were designed as cRCTs and carried out in two rural districts in each country covering 29 clusters in Malawi and 92 clusters in Zambia",
+    "target_population_citation": "The SCTP in Malawi is the government's flagship social protection program and is targeted to ultra-poor, labor-constrained households."
+  }
+}

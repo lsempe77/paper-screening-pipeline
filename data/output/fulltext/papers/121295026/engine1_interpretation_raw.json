@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is identified as 'Government drug and substance abuse mitigation programs' in Kenya, with clear scope and location."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation/TUP program components. Neither cash support nor productive assets are present in the intervention."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Kenya (Kilifi and Mombasa Counties), which is a low-middle income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of any cash transfer or consumption support component in the program."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no evidence of any productive asset provision in the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "program effectiveness",
+      "law enforcement outcomes",
+      "prevention outcomes",
+      "treatment outcomes",
+      "harm reduction outcomes"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "UNCLEAR",
+    "reasoning": "Study described as 'Evaluative research design with mixed methods' but insufficient detail to determine if it meets impact evaluation criteria. is_review_or_policy_analysis = false, but specific quantitative impact evaluation methodology not clearly specified."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating the study presents finished research findings."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "WINGS program evaluation",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "WINGS (Women's Income Generating Support)",
+    "country": "Uganda",
+    "region": null,
+    "target_population": "extremely poor and conflict-affected villagers, mostly women",
+    "program_name_citation": "The WINGS program had four components",
+    "country_citation": "300,000 UGX or $150 at 2009 market exchange rates",
+    "target_population_citation": "a doubling of new nonfarm enterprises and a significant rise in incomes among extremely poor and conflict-affected villagers, most of whom were women who had never operated such an enterprise before"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash grant",
+      "cash_amount": "300,000 UGX or $150",
+      "cash_frequency": "two equal installments about two and six weeks after training",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Once a plan was approved, the participant received a grant of 300,000 UGX or $150 at 2009 market exchange rates. The grant was framed as funds to implement the business plan. AVSI delivered cash in two equal installments about two and six weeks after training."
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings",
+      "business creation",
+      "consumption/expenditure",
+      "social cohesion"
+    ],
+    "outcomes_evidence_citation": "These results show that a package of $150 cash ($375 in PPP terms), five days of business training, and ongoing supervision led to a doubling of new nonfarm enterprises and a significant rise in incomes",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "We were not able to test the effects of a grant with or without supervision against a pure control group in Phase 1 of the study",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2009",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "$860 per person: $150 for grants; $125 for targeting and disbursement; $124 for business training; $82 for group dynamics training; $348 for five supervisory visits; and $31 in other costs",
+    "cost_evidence_citation": "On average, WINGS cost $860 per person at market exchange rates: $150 for grants; $125 for targeting and disbursement; $124 for business training; $82 for group dynamics training; $348 for five supervisory visits; and $31 in other costs. This is equivalent to PPP $2,150."
+  }
+}

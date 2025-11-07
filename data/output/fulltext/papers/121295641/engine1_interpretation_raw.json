@@ -1,0 +1,48 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Targeting the Ultra Poor (TUP)' in Afghanistan"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as 'Targeting the Ultra Poor (TUP)' and includes both core components: consumption support ('USD 54 PPP monthly for 12 months') and direct asset provision ('livestock (cows, sheep, goats)')"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Afghanistan, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, provides consumption stipend of 'USD 54 PPP monthly for 12 months', and is_loan_or_credit = 'NO'"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES', with program directly providing productive assets: 'livestock (cows, sheep, goats)'"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure",
+      "asset accumulation",
+      "savings/financial",
+      "income/earnings"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition",
+      "labor supply"
+    ],
+    "tertiary_outcomes": [
+      "psychological well-being",
+      "women's empowerment",
+      "child health",
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2015-2017 with results presented"
+  }
+}

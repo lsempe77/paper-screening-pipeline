@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Targeting, Implementation and Evaluation of Social Protection Programs: Evidence from Indonesia",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Multiple Indonesian social protection programs (PKH, BLT, BLSM, Rastra/BPNT)",
+    "country": "Indonesia",
+    "region": "National",
+    "target_population": "Poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "conditional and unconditional cash transfers",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Conditional cash transfers (CCTs) are a particularly popular type of program, which typically give cash to poor households that meet some conditions, usually related to child health and education. More than 60 countries have some type of CCT program, up from 27 in 2008, and more than 90 countries have some type of unconditional cash transfer (UCT) program"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "well-being"
+    ],
+    "outcomes_evidence_citation": "And finally, when looking at the bigger picture, does any of this matter? Are these programs effective in reducing poverty and improving well-being?",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "Through this unique partnership, we have worked together to conduct a number of randomised policy evaluations-the gold standard of evidence.",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Indonesia has implemented a number of social protection programs targeted directly towards poor households, including rice subsidy programs, Rastra/the BPNT, and their predecessors, Raskin and the OPK; direct cash transfer programs, the BLT and BLSM; and CCT programs, the PKH and BSM, among others",
+    "country_citation": "In this paper, I describe the results from more than a decade of collaboration with the Indonesian government",
+    "target_population_citation": "Indonesia has implemented a number of social protection programs targeted directly towards poor households"
+  }
+}

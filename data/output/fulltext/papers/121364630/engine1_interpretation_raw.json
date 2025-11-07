@@ -1,0 +1,43 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name clearly identified as 'Urban Program on Livelihoods and Income Fortification and Socio-civic Transformation (UPLIFT)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Program does not appear to be a graduation program - it only mentions micro-loans through VSLAs without consumption support or asset transfers. No explicit graduation/TUP terminology used."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Uganda (Kampala), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "Component involves micro-loans through VSLAs (is_loan_or_credit = 'YES'). Loans/credit do not qualify as cash support under this criterion."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, no assets provided according to extracted information"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "quality of life",
+      "psychological wellbeing",
+      "self-esteem",
+      "social environment",
+      "living conditions",
+      "personal independence",
+      "social relations"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses 'Mixed method evaluation using repeated cross-sectional survey' and is_review_or_policy_analysis = false, indicating quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, indicating study presents finished research findings"
+  }
+}

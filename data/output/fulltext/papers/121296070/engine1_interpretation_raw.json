@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Youth Opportunities Program (YOP)' component of the Northern Uganda Social Action Fund (NUSAF)"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash transfers, it lacks the direct provision of productive assets characteristic of graduation programs. No explicit mention of being a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Uganda (Northern Uganda), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "Program provides unconditional cash transfers of '$7,108 per group ($374 per member)' as one-time lump sum. component_a_cash_support.present = true and is_loan_or_credit = 'NO'"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, direct_provision = 'NO'. No evidence of direct asset provision by the program"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "business assets"
+    ],
+    "secondary_outcomes": [
+      "employment"
+    ],
+    "tertiary_outcomes": [
+      "social cohesion",
+      "aggression",
+      "community participation"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2008-2010 with mid-term results presented"
+  }
+}

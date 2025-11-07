@@ -1,0 +1,45 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'BRAC poverty alleviation programme' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of graduation program components - no cash support (only loans) and no asset provision mentioned. No explicit graduation/TUP terminology used."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh (Matlab sub-district), which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_present = false and is_loan_or_credit = 'YES'. Program appears to provide loans/credit rather than cash transfers. Loans do not qualify as cash support."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = []. No evidence of productive asset provision in the extracted information."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "expenditure"
+    ],
+    "secondary_outcomes": [
+      "nutrition"
+    ],
+    "tertiary_outcomes": [
+      "child survival",
+      "family planning",
+      "education",
+      "women's empowerment",
+      "social cohesion"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "is_review_or_policy_analysis = true and study_design = 'Observational'. Study does not use appropriate impact evaluation methods."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from the 1980s and 90s."
+  }
+}

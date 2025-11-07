@@ -1,0 +1,63 @@
+{
+  "paper_metadata": {
+    "title": "Using a four-round panel data set from the first phase of the Challenging the Frontiers of Poverty Reduction -Targeting the Ultra Poor (CFPR -TUP) programme of BRAC",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "BRAC Challenging the Frontiers of Poverty Reduction - Targeting the Ultra Poor (CFPR-TUP)",
+    "country": "Bangladesh",
+    "region": "Northwestern Bangladesh",
+    "target_population": "Ultra-poor households, particularly women"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "income-generating asset transfers",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The programme includes direct transfers of incomegenerating livestock assets and livelihood training and has reached thousands of female beneficiaries in Bangladesh."
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "livestock (cows, goats)",
+        "poultry"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "For most indicators (e.g. # of cows, goats, bed, chair/table and rickshaw van), larger size of the medium-term impact indicates that treatment households succeeded in expanding their asset base beyond what was provided by the programme initially."
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security",
+      "household savings",
+      "assets",
+      "microfinance participation",
+      "occupational change",
+      "income",
+      "food expenditure"
+    ],
+    "outcomes_evidence_citation": "We find significant positive long-term impact on food security, household savings, assets and participation in microfinance. Participant women are less likely to be in distress occupation and more into selfemployment.",
+    "study_design": "Difference-in-differences (DD) with matching methods",
+    "design_evidence_citation": "Programme impact is assessed on a wide range of monetary and nonmonetary measures of wellbeing using difference-in-difference (DD) as well as matching methods.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2002-2011",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "BRAC, one of the world's largest NGOs, designed a programme known as 'Challenging the Frontiers of Poverty Reduction -Targeting the Ultra Poor' (CFPR-TUP) programme",
+    "country_citation": "tracks treatment (selected ultra-poor) and control (nonselected ultra-poor) households in northwestern Bangladesh over a period of 9 years",
+    "target_population_citation": "The ultra-poor households share multiple socio-economic characteristics such as being without any agricultural/homestead land, headed by a widow/female, having disabled adult male members, having no regular income source and remain excluded from NGO-run microcredit schemes"
+  }
+}

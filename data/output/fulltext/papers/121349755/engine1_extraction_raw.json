@@ -1,0 +1,54 @@
+{
+  "paper_metadata": {
+    "title": "Pro-poor tourism: Is there value beyond the rhetoric?",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Pro-Poor Tourism (PPT)",
+    "country": null,
+    "region": null,
+    "target_population": "Poor people in tourism destinations"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "This chapter explores the relationship between tourism and poverty reduction, examining particularly the way the term 'pro-poor tourism' (PPT) is being used, and promises made under the guise of PPT.",
+    "study_design": "Policy analysis",
+    "design_evidence_citation": "This research probe into pro-poor tourism has raised some serious concerns about the legitimacy of claims that tourism is a good strategy for alleviating poverty.",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The concept of Pro-Poor Tourism (PPT), which was first used in a British report in 1999",
+    "country_citation": null,
+    "target_population_citation": "better lives for impoverished people struggling to survive at the margins of society"
+  }
+}

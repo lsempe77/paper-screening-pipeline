@@ -7,6 +7,10 @@ python-dateutil>=2.8.0
 # Data processing and analysis
 openpyxl>=3.1.0  # For Excel export
 xlsxwriter>=3.1.0  # For Excel formatting
+pyarrow>=14.0.0  # For future Parquet export (engine reasoning aggregation)
+
+# Lightweight web UI
+streamlit>=1.29.0  # Interactive paper viewer app (apps/viewer_app.py)
 
 # Utilities
 pathlib2>=2.3.7; python_version < '3.4'

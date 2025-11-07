@@ -1,0 +1,45 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Challenging the Frontiers of Poverty Reduction: Targeting the Ultra-Poor (CFPR)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program is explicitly identified as targeting ultra-poor ('Targeting the Ultra-Poor') and includes both core graduation components: consumption support (food subsidy) and direct provision of productive assets/livestock"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'food subsidy', is_loan_or_credit = 'NO'. Program provides consumption support through food subsidies"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'productive assets' and 'livestock', direct_provision = 'YES'. Program directly provides productive assets"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "health",
+      "employment"
+    ],
+    "tertiary_outcomes": [
+      "social capital",
+      "financial participation"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2002-2011 with results presented"
+  }
+}

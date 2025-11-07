@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Child Grant Program (CGP)' in Zambia"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Program only includes cash transfers (component_a_present = true) but lacks productive asset provision (component_b_present = false). No evidence of being a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Zambia, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, type = 'unconditional cash transfer', is_loan_or_credit = 'NO'. Program provides cash transfers, not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "savings"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "women's empowerment",
+      "decision-making",
+      "household well-being"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Mixed-methods: Randomized Controlled Trial with qualitative component', is_review_or_policy_analysis = false. RCT is an appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted over 4 years with results presented"
+  }
+}

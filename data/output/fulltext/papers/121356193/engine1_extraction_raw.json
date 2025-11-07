@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Impact of Agricultural Youth Empowerment Scheme on Youth Welfare in Southwestern Nigeria",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Agricultural Youth Empowerment Scheme (AgricYES)",
+    "country": "Nigeria",
+    "region": "Southwestern Nigeria (Oyo State and Lagos State)",
+    "target_population": "Youth (ages 18-35)"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "consumption/expenditure",
+      "welfare"
+    ],
+    "outcomes_evidence_citation": "The impact of participation on the monthly per capita expenditure was estimated to increase by N6,946.47 for the beneficiaries and it reduced the poverty status by 46.8 percent",
+    "study_design": "Quasi-experimental (Propensity Score Matching)",
+    "design_evidence_citation": "this study was designed to estimate the impact of the program on the welfare of youths in Southwestern Nigeria using the logit model and propensity score matching",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 972,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Among the various programs put in place is the agricultural youth empowerment scheme (AgricYES) which started in 2010 in the southwestern part of the country",
+    "country_citation": "A multistage sampling technique was used to randomly select 316 beneficiaries and 656 non-beneficiaries across 2 states (Oyo State and Lagos State)",
+    "target_population_citation": "in Nigeria, the age of youth falls between 18 and 35 years"
+  }
+}

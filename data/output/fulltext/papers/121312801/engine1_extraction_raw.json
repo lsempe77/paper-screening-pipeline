@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Evaluation of integrated livelihoods and nutrition programs in Bangladesh",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "DFID integrated livelihoods and nutrition programmes",
+    "country": "Bangladesh",
+    "region": "Remote and climate-vulnerable parts",
+    "target_population": "Extremely poor households with pregnant and lactating women, adolescent girls, and children under five"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "nutrition knowledge",
+      "feeding practices",
+      "child nutritional status"
+    ],
+    "outcomes_evidence_citation": "assess the impact of the combined nutrition-specic and livelihoods interventions (L+N) across the three programmes on knowledge and practices of mothers and caregivers and the nutritional status of children under two years old",
+    "study_design": "Mixed methods (quantitative and qualitative)",
+    "design_evidence_citation": "evaluation used quantitative and qualitative methods... e quantitative evaluation was undertaken at baseline (2013) and endline (2015) and qualitative evaluations were carried out at the beginning of 2014 and end of 2015",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2013-2015",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "qualitative evaluations"
+    ],
+    "qualitative_evidence_citation": "evaluation used quantitative and qualitative methods... qualitative evaluations were carried out at the beginning of 2014 and end of 2015",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "UK Department for International Development (DFID) aimed to improve nutrition outcomes for young children, pregnant and lactating women (PLW) and adolescent girls through the integration of nutrition-specic interventions into three existing livelihoods programmes",
+    "country_citation": "child undernutrition in Bangladesh has fallen over the last two decades",
+    "target_population_citation": "existing livelihoods programmes for extremely poor households in Bangladesh... targeting all PLW, adolescent girls and children under five years of age"
+  }
+}

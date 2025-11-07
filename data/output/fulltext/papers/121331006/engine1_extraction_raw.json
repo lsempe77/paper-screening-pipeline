@@ -1,0 +1,61 @@
+{
+  "paper_metadata": {
+    "title": "The Effects of Exiting from Poverty Alleviation Program on Economic Growth: Evidence from China",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "China's National Poverty Alleviation Program (Third Wave)",
+    "country": "China",
+    "region": "National (592 counties)",
+    "target_population": "Poverty-stricken counties"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The targeted counties comfort with transfer payments and preferential development policies"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "economic growth",
+      "fiscal revenues",
+      "fiscal expenditures",
+      "education",
+      "health",
+      "fixed investments",
+      "grain production",
+      "residents' savings"
+    ],
+    "outcomes_evidence_citation": "the economic and social development of previous poverty counties have a significant slowdown after they exited from the poverty alleviation program... fixed investments in pre-poverty counties fall... Grain production has declined... residents' savings significantly decrease... public revenues and public expenditures significantly decrease",
+    "study_design": "Difference-in-differences",
+    "design_evidence_citation": "the difference-in-differences approach is applied to evaluate the impacts of withdrawing from the program for the previous national poverty counties",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2011-2012",
+    "sample_size": 38,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "It is also called the third wave of China's poverty alleviation program. It covers 592 counties and contains over 60% poverty-stricken population in China",
+    "country_citation": "Over the past twenty years, China has made great achievements in the process of antipoverty",
+    "target_population_citation": "The targets of the program are also known as national poverty counties"
+  }
+}

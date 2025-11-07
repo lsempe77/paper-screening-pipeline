@@ -1,0 +1,52 @@
+{
+  "paper_metadata": {
+    "title": "Food Subsidies and Poverty Alleviation",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Food Subsidy Programs",
+    "country": null,
+    "region": null,
+    "target_population": "Poor households in developing countries",
+    "program_name_citation": "The question of food subsidies seem-s to be at the forefront of nearly all discussion of macroeconomic adjustment in developing countries",
+    "country_citation": null,
+    "target_population_citation": "When faced with the charge that the food (and fuel) subsidies present excessive budgetary exposure, and are responsible for a large part of the fiscal deficit, many LDC governments reply that a reduction of subsidies would seriously affect their poverty alleviation objectives"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "What is the optimal pattern of food subsidies, under budgetary constraints, when the objective is poverty minimisation?",
+    "study_design": "Policy analysis",
+    "design_evidence_citation": "Our task has been to formulate the problem of the optimal pattern of food subsidies within the framework of the modern public finance literature",
+    "is_review_or_policy_analysis": true,
+    "publication_year": 1988,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Discussion of budgetary constraints and fiscal deficits",
+    "cost_evidence_citation": "When faced with the charge that the food (and fuel) subsidies present excessive budgetary exposure, and are responsible for a large part of the fiscal deficit"
+  }
+}

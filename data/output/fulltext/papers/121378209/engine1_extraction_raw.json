@@ -1,0 +1,54 @@
+{
+  "paper_metadata": {
+    "title": null,
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Forsa",
+    "country": "Egypt",
+    "region": null,
+    "target_population": "Takaful program beneficiaries and those nearly eligible for cash transfers",
+    "program_name_citation": "The new economic inclusion program is called \"Forsa\" -\"opportunity\" in Arabic",
+    "country_citation": "Egyptʼs pioneering approach: Allowing choice in social protection Egypt's government is innovating within its social safety net",
+    "target_population_citation": "The program is available to current beneficiaries of the Takaful program, as well as to those nearly eligible for cash transfers"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "consumption support",
+      "cash_amount": null,
+      "cash_frequency": "short-term",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Participants receive productive assets, primarily sheep and goats, short-term consumption support, and relevant training"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "livestock (sheep and goats)"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "Participants receive productive assets, primarily sheep and goats"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income"
+    ],
+    "outcomes_evidence_citation": "achieve sustainable income growth",
+    "study_design": "Observational",
+    "design_evidence_citation": null,
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": false
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  }
+}

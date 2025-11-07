@@ -1,0 +1,61 @@
+{
+  "paper_metadata": {
+    "title": "Leveraging social protection for women's engagement in sustainable land management",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "SPIR II (Strengthen Productive Safety Net Program Institutions and Resilience II)",
+    "country": "Ethiopia",
+    "region": "Rural Ethiopia",
+    "target_population": "PSNP households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash and food transfers",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Ethiopia's national safety program, the Productive Safety Net Program (PSNP), which provides consumption support in the form of cash and food transfers"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "tree seedlings",
+        "vegetable seeds",
+        "tools for home gardening"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "The innovation tested includes providing training (to either women only or to both men and women from same households) and free inputs (tree seedlings, vegetable seeds and tools for home gardening)"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "sustainable land management practices",
+      "women's engagement"
+    ],
+    "outcomes_evidence_citation": "The goal of the SLM innovation being tested is to leverage social protection to promote women's engagement in sustainable land management practices",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "a quantitative impact evaluation testing the innovation",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": false
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "formative research"
+    ],
+    "qualitative_evidence_citation": "This sustainable land management (SLM) innovation draws on qualitative formative research",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "SPIR II (Strengthen Productive Safety Net Program Institutions and Resilience II) that seeks to further sustain nutrition security and reduce risks to livelihoods for households participating in the Ethiopia's national safety program",
+    "country_citation": "extreme weather events pose risks for poor households in rural Ethiopia",
+    "target_population_citation": "households participating in the Ethiopia's national safety program, the Productive Safety Net Program (PSNP)"
+  }
+}

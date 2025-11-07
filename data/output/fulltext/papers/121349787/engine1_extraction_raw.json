@@ -1,0 +1,54 @@
+{
+  "paper_metadata": {
+    "title": null,
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Coconut farming interventions",
+    "country": "Philippines",
+    "region": "Balingasag, Real, Maitum, and Cauayan",
+    "target_population": "Coconut farmers"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings"
+    ],
+    "outcomes_evidence_citation": "Increase in income as a result of income-generating interventions The good practices tested such as coconut product diversification, intercropping, livestock integration and coconut seedling propagation and sale of planting materials increased incomes by about two times in Balingasag, Real and Maitum and by about three times in Cauayan",
+    "study_design": null,
+    "design_evidence_citation": null,
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The good practices tested such as coconut product diversification, intercropping, livestock integration and coconut seedling propagation and sale of planting materials",
+    "country_citation": "In the Philippines, although coconut earns about US$1 billion annually from exports and about one-third of the population depend on the coconut directly or indirectly, coconut farmers still belong to the marginalized sector of society",
+    "target_population_citation": "Over 90 per cent of coconut farmers are smallholders, tending four hectares or less; many work on land they do not own; are considered unbankable by the formal banking sector"
+  }
+}

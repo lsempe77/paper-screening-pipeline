@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "The Role and Impact of Remittances in Supporting the Economy of Kosovo",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": "Kosovo",
+    "region": "National",
+    "target_population": "Remittance-receiving households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "income/earnings",
+      "employment",
+      "education",
+      "health",
+      "economic development"
+    ],
+    "outcomes_evidence_citation": "we discover the effects and impacts of remittances on the well-being of recipients such as: improving their lives, poverty alleviation, employment growth, raising the educational level and improvement in health condition",
+    "study_design": "Observational",
+    "design_evidence_citation": "According to CBK statistics, immigrants' remittances continue to be over 500 million Euros per year",
+    "is_review_or_policy_analysis": true,
+    "publication_year": 2023,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Remittances reached $414 billion in 2009, remittances from Kosovar immigrants over 500 million Euros per year",
+    "cost_evidence_citation": "According to World Bank estimates, Remittances reached $414 billion in 2009, of which $316 billion went to developing countries | According to CBK statistics, immigrants' remittances continue to be over 500 million Euros per year"
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": "The purpose of the paper is to study the role and impact of Remittances in supporting the economy of Kosovo",
+    "target_population_citation": "Nearly 20% of families in Kosovo receive remittances from their family members who are abroad"
+  }
+}

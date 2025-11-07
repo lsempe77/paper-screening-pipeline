@@ -1,0 +1,60 @@
+{
+  "paper_metadata": {
+    "title": "Kenya Social and Economic Inclusion Programme (KSEIP) Baseline Report",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Kenya Social and Economic Inclusion Programme (KSEIP)",
+    "country": "Kenya",
+    "region": "National",
+    "target_population": "Poor and vulnerable households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfers",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The KSEIP is designed to complement and build on the flagship National Safety Net Programme (NSNP) and target those being served by it, moving beyond cash transfers to an integrated Social Protection system"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "asset building",
+        "income generation investments"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "Graduation and economic inclusion programs complement cash or food transfers with multisectoral investments in asset building, income generation, skill training, and access to financial services and markets"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "business performance",
+      "income/earnings",
+      "consumption/expenditure",
+      "economic inclusion"
+    ],
+    "outcomes_evidence_citation": "The data and descriptive evidence described in the last few sections also offer important insights into the context and living conditions of households and business enterprises before the launch of the EIP program",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "randomized assignment to treatment yielded similar treatment and control groups, making the control group an effective counterfactual",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2025 (endline planned)",
+    "sample_size": 3835,
+    "completed": false
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "In 2019 the Government of Kenya's (GoK) State Department of Social Protection and Senior Citizen Affairs, Directorate of Social Development, initiated the Kenya Social and Economic Inclusion Programme (KSEIP)",
+    "country_citation": "In 2019 the Government of Kenya's (GoK) State Department of Social Protection and Senior Citizen Affairs, Directorate of Social Development, initiated the Kenya Social and Economic Inclusion Programme (KSEIP)",
+    "target_population_citation": "to enhance social and economic inclusion services and shock-responsive safety nets for poor and vulnerable households"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Two specific program names identified: 'Social Cash Transfer Program (SCTP)' and 'Multiple Categorical Targeted Grant (MCTG)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No explicit mention of graduation/TUP program. Only one component present (cash transfers) without asset provision component."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Malawi and Zambia, both low-income countries. Specific regions mentioned: 'Salima and Mangochi in Malawi; Luwingu and Serenje in Zambia'"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'unconditional cash transfer', is_loan_or_credit = 'NO'. Clear evidence of regular cash transfers: 'Malawi: 2,000-4,800 kwacha bimonthly; Zambia: 120 kwacha (US$24) bimonthly'"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, assets_provided = [], direct_provision = 'NO'. No evidence of productive asset provision"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "education",
+      "early marriage",
+      "pregnancy"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Cluster Randomized Controlled Trial (cRCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, with study conducted during 2013-2015 (Malawi) and 2011-2013 (Zambia). Study presents finished findings"
+  }
+}

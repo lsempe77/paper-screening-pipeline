@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Different social protection programs are designed in low-income countries to eradicate poverty and improve the food security of poor people",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Urban Productive Safety Net Program (UPSNP)",
+    "country": "Ethiopia",
+    "region": "Dire Dawa, Harar, and Jigjiga cities",
+    "target_population": "Urban poor living below the poverty line"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "conditional and unconditional cash transfers",
+      "cash_amount": "ETB 60 per person per day (equal to US$2.91 per person per day)",
+      "cash_frequency": "daily",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Conditional cash transfers are the initial subcomponent of safety net support, and they account for around 84 percent of all project recipients. | As a result, the initiative begins with a daily transfer amount of Ethiopian birr (ETB) 60 per person per day (equal to US$2.91 per person per day). | Unconditional payments will benefit people who are unable to work for a variety of reasons"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "food security",
+      "well-being"
+    ],
+    "outcomes_evidence_citation": "This study aims to evaluate the impact of participation in UPSNP on well-being | we found a consistently positive impact across models, indicating that participation in UPSNP reduces poverty and increases food security of households",
+    "study_design": "Propensity Score Matching (PSM) and Endogenous Switching Regression (ESR)",
+    "design_evidence_citation": "This study employed both propensity score matching (PSM) and endogenous switching regression (ESR) models to assess the impact of the UPSNP",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2022",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Currently, the Urban Productive Safety Net Program (UPSNP) is designed to support those who are living in poverty and face food insecurity",
+    "country_citation": "household survey data gathered from three main cities of Ethiopia: Dire Dawa, Harar, and Jigjiga in 2022",
+    "target_population_citation": "the strategy intends to eliminate poverty and vulnerability among urban poor living below the poverty line"
+  }
+}

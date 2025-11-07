@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "How education about maternal health risk",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Maternal health information intervention",
+    "country": "Zambia",
+    "region": "Peri-urban Lusaka",
+    "target_population": "Married couples"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "fertility",
+      "contraceptive use",
+      "desired fertility",
+      "spousal communication",
+      "marital satisfaction"
+    ],
+    "outcomes_evidence_citation": "After the intervention, relative to the control group, couples in which the husband was treated experienced a 5.5 percentage point decline in the probability of having a child in the year following the intervention (a 46% reduction). They simultaneously experienced a 5 percentage point increase in regular use of oral contraceptives. Treated husbands also reported lower desired fertility and had more accurate beliefs about their wife's desired fertility. Couples in which the husband was treated increased their communication about family planning, and both spouses reported improvements in marital satisfaction.",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "we designed an intervention to experimentally vary the provision of precise information about maternal health risk to either the husband or wife in a sample of approximately 500 couples in peri-urban Lusaka",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 500,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "we designed an intervention to experimentally vary the provision of precise information about maternal health risk to either the husband or wife",
+    "country_citation": "In Zambia, the setting of this study, the mean ideal number of children for married men is 5.9, while for married women it is 5.1",
+    "target_population_citation": "we designed an intervention to experimentally vary the provision of precise information about maternal health risk to either the husband or wife in a sample of approximately 500 couples in peri-urban Lusaka"
+  }
+}

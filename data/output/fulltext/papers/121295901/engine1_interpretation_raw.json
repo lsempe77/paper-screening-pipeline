@@ -1,0 +1,41 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'WINGS (Women's Income Generating Support)' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program includes cash support, it lacks direct asset provision. No explicit mention of being a graduation/TUP program. Cash grant appears to be for business startup rather than consumption support."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Uganda, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "While component_a_present = true and is_loan_or_credit = 'NO', the cash grant ('300,000 UGX or $150' in 'two equal installments') appears to be solely for business startup rather than consumption support. This should be assessed under Criterion 3 as productive capital rather than Criterion 2 consumption support."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "While component_b_present = false for direct asset provision, the program provides a cash grant specifically for productive/business purposes ('300,000 UGX or $150' in installments after training), which counts as productive asset support when explicitly earmarked for business purposes."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "consumption/expenditure"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "social cohesion",
+      "business creation"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Appropriate quantitative impact evaluation method used."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "The impact of social grants on rural household welfare in South Africa",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "South African Social Grants Program",
+    "country": "South Africa",
+    "region": "KwaZulu Natal Province, Hlokozi village",
+    "target_population": "Poor rural households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "social grants (disability grant, social pension, child support grant)",
+      "cash_amount": null,
+      "cash_frequency": "monthly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Social grants variable in the Hlokozi survey was measured using a question 'indicate which member of your household receives the following grants or payments at present': disability grant, social pension and child support grant. The respondent is then asked to indicate the total sum per household per month."
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "household welfare",
+      "poverty reduction",
+      "income"
+    ],
+    "outcomes_evidence_citation": "We measure impacts on income, consumption, and asset ownership using an RCT design.",
+    "study_design": "Cross-sectional survey with propensity score matching",
+    "design_evidence_citation": "This study uses a cross-sectional household survey data conducted in Hlokozi village. A propensity score matching technique, which accounts for non-random selection of households, is applied.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 282,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Since the inception of democratic rule, South African government has turned to social grants to address the issues of poverty, income inequality and to improve household welfare.",
+    "country_citation": "This study aims to investigate the impact of social grants on rural household welfare in a village located in one of the poorest provinces in South Africa -KwaZulu Natal Province.",
+    "target_population_citation": "The coverage of social grants has increased substantially with more than 17 million (about 34% of the population) South Africans being recipients of social grants."
+  }
+}

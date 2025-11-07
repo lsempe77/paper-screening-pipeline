@@ -1,0 +1,60 @@
+{
+  "paper_metadata": {
+    "title": "Strengthening PSNP4 Institutions and Resilience (SPIR) Impact Evaluation",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "SPIR (Strengthen PSNP4 Institutions and Resilience)",
+    "country": "Ethiopia",
+    "region": null,
+    "target_population": "Extremely poor households, PSNP beneficiaries"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash grants",
+      "cash_amount": null,
+      "cash_frequency": "one-time",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "In addition, extremely poor households received a one-time livelihood transfer on an experimental basis, either as cash transfers or in-kind poultry grants"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "poultry"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "In addition, extremely poor households received a one-time livelihood transfer on an experimental basis, either as cash transfers or in-kind poultry grants"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "stunting",
+      "anthropometry",
+      "food security/nutrition",
+      "dietary diversity",
+      "health service utilization"
+    ],
+    "outcomes_evidence_citation": "Child stunting, and infant and young child feeding (IYCF) practices and knowledge were the primary and secondary nutrition outcomes evaluated by this cRCT",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "Using this data this paper makes two main contributions to the literature on graduation... Results from the cluster randomized control trial (cRCT)",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2015-2017",
+    "sample_size": 1140,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Implemented at scale, the graduation program provided PSNP beneficiaries with additional livelihood programming including savings groups, business skills training and linkages to financial services",
+    "country_citation": "This paper evaluates a graduation program targeting the ultra-poor in Ethiopia",
+    "target_population_citation": "Implemented at scale, the graduation program provided PSNP beneficiaries with additional livelihood programming | extremely poor households received a one-time livelihood transfer"
+  }
+}

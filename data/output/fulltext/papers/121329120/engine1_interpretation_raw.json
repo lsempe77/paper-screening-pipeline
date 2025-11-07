@@ -1,0 +1,47 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Targeting the Ultra Poor (TUP)' program in India"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as 'Targeting the Ultra Poor (TUP)' which is a canonical graduation program name. Additionally, both core components are present: consumption support (weekly for 30-40 weeks) and direct asset provision (livestock and microenterprise inventory)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in India (West Bengal), which is a low-middle income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'consumption support', frequency = 'weekly for 30-40 weeks', is_loan_or_credit = 'NO'. Program provides regular consumption support that is not a loan"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided includes 'livestock (cows, goats)' and 'nonfarm microenterprise inventory', direct_provision = 'YES'. Program directly provides productive assets"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption/expenditure",
+      "income/earnings",
+      "asset accumulation"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition",
+      "health",
+      "labor supply"
+    ],
+    "tertiary_outcomes": [
+      "financial inclusion",
+      "mental health",
+      "political involvement"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)', is_review_or_policy_analysis = false. Study uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2007-2018 with results presented. Study presents finished research findings"
+  }
+}

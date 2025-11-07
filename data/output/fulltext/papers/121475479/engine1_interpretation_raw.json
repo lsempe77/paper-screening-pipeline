@@ -1,0 +1,45 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC CFPR/TUP (Challenging the Frontiers of Poverty Reduction - Targeting the Ultra Poor)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as TUP (Targeting the Ultra Poor) program, and includes both core components: cash support (temporary stipend) and direct asset provision (individual household assets)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh (Rangpur, Kurigram and Nilphamari districts), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'temporary cash stipend', is_loan_or_credit = 'NO'. Program provides cash support that is not a loan"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, assets_provided = ['individual household assets'], direct_provision = 'YES'. Program directly provides productive assets to participants"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income/earnings",
+      "asset accumulation",
+      "savings/financial"
+    ],
+    "secondary_outcomes": [
+      "food security/nutrition",
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "social cohesion",
+      "education"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Panel study with comparison group', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methods"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study conducted 2002-2005 with results presented. Study presents finished research findings"
+  }
+}

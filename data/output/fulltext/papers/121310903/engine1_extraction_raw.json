@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Effects of an Asset-Building Program in Rural Ghana",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "SILC (Savings and Internal Lending Communities)",
+    "country": "Ghana",
+    "region": "Rural",
+    "target_population": "Resource-constrained households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "YES",
+      "cash_evidence_citation": "The relationship between social assets and SILC participation, though modest, is noteworthy and may suggest that by connecting vulnerable households to a social network, the SILC program has the potential to heighten the feeling of belongingness"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": "bring together resources to enhance household financial assets"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "social assets",
+      "psychosocial well-being",
+      "financial well-being"
+    ],
+    "outcomes_evidence_citation": "Results of this study provide support for a positive association between SILC participation and outcome of interest to this study: social assets, psychosocial well-being, and financial well-being",
+    "study_design": "Quasi-experimental",
+    "design_evidence_citation": "Using a survey that was administered individually to respondents at set locations, this study examines the effects of participation in an asset-building program in resource-constrained households in rural Ghana (n = 120 in the experimental group and n = 120 in the comparison group)",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 240,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Results of this study provide support for a positive association between SILC participation and outcome of interest to this study",
+    "country_citation": "this study examines the effects of participation in an asset-building program in resource-constrained households in rural Ghana",
+    "target_population_citation": "this study examines the effects of participation in an asset-building program in resource-constrained households in rural Ghana"
+  }
+}

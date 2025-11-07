@@ -1,0 +1,40 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Cash Waqf Linked Sukuk (CWLS) empowerment programs' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "Program is not explicitly identified as a graduation/TUP program. It appears to be a microloan/credit program, and does not have both required components (cash support is loans, and no asset provision is mentioned)."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Indonesia, which is a low-middle income country, across multiple regions including Central Lampung, South Tangerang, Trenggalek East Java, and Bima Nusa Tenggara."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "While component_a is present, it is explicitly identified as 'capital assistance and microloans' with is_loan_or_credit = 'YES'. Loans/credit do not qualify as cash support under this criterion."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_present = false, no assets are listed as being provided by the program."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "welfare",
+      "financial inclusion",
+      "social participation",
+      "spirituality"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Difference-in-differences (DiD)', is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation method."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted in 2021-2022 and presents finished findings."
+  }
+}

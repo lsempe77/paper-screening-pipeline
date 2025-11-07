@@ -1,0 +1,61 @@
+{
+  "paper_metadata": {
+    "title": "Psychological Assets, Spillovers and Poverty Reduction: Evidence from a Graduation Program in Kenya",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "BOMA Project Graduation Program",
+    "country": "Kenya",
+    "region": "Northern Kenya pastoral regions",
+    "target_population": "Women in pastoralist regions"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "productive assets",
+        "business assets"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "Multifaceted 'graduation' programs transfer tangible productive assets and also intensively mentor transfer recipients to build up their skills, self-confidence and aspirations"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "productive assets",
+      "income/earnings",
+      "savings/financial",
+      "mental health",
+      "psychosocial outcomes"
+    ],
+    "outcomes_evidence_citation": "treated women's holdings of productive assets, family cash income and financial savings all significantly increase by 414%, 12% and 500% 24 months after the program began",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "we implemented a randomized controlled trial of a woman-targeted graduation program implemented by the BOMA Project NGO in the pastoral regions of Northern Kenya",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 1874,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "benefit-cost ratio of 2.2",
+    "cost_evidence_citation": "These spillover effects are economically substantial and they increase the estimated benefit-cost ratio of the program from 1.7 to 2.2"
+  },
+  "evidence_citations": {
+    "program_name_citation": "we implemented a randomized controlled trial of a woman-targeted graduation program implemented by the BOMA Project NGO in the pastoral regions of Northern Kenya",
+    "country_citation": "we implemented a randomized controlled trial of a woman-targeted graduation program implemented by the BOMA Project NGO in the pastoral regions of Northern Kenya",
+    "target_population_citation": "The arid and semi-arid pastoralist regions of the Horn of Africa constitute one of the most challenging environments for graduation programs attempt to reduce poverty by build productive assets for women"
+  }
+}

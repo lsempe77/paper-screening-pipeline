@@ -1,0 +1,45 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'Enhancing the Productive Capacity of Extremely Poor People (Graduation Programme)' in Rwanda"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as a 'Graduation Programme' in name, and includes both core components: monthly cash transfers (RwF18,000) and direct provision of productive assets/livestock"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Rwanda, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "Program provides cash transfers of RwF18,000 (US$26) monthly for minimum 12 months, component_a_present = true, is_loan_or_credit = NO"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "Program directly provides productive assets and livestock (component_b_present = true, direct_provision = YES)"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "consumption",
+      "asset accumulation",
+      "savings"
+    ],
+    "secondary_outcomes": [
+      "food security",
+      "health"
+    ],
+    "tertiary_outcomes": [
+      "education",
+      "social participation"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses quasi-experimental design (study_design = 'Quasi-experimental'), is_review_or_policy_analysis = false"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "Study is completed (completed = true) with data collected in 2011-2012"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "assessment": "NO",
+  "reasoning": "[Specific Program Not Verified] Paper mentions 'Factory Inspection Program' but search could not confirm this as graduation program: Perplexity search result: A search for the 'Factory Inspection Program' in Sri Lanka reveals no evidence that such a program is a graduation or multi-component poverty program. Instead, the term appears to refer to regulatory activities within export processing zones (EPZs) or to labor and safety inspections related to factories and industrial zones. Studies on EPZs in Sri Lanka mention their role in employment generation and poverty reduction but do not refer to cash transfers, the distribution of productive assets, or any graduation-style programming for the ultra-poor[2][4]. There is no mention of the 'Factory Inspection Program' as a standalone poverty alleviation or graduation intervention, nor any evidence of a cash or asset transfer component. Most references discuss employment facilitation and regulatory oversight within factories, not direct anti-poverty interventions. | Graduation: NO, Cash: NO, Assets: NO | Confidence: HIGH | Sources: https://www.econstor.eu/bitstream/10419/103852/1/770271375.pdf, https://www.sdgfund.org/manufacturing-progress-employment-creation-sri-lanka",
+  "verified_program_name": "Factory Inspection Program",
+  "verification_applied": true
+}

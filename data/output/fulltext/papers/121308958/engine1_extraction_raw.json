@@ -1,0 +1,57 @@
+{
+  "paper_metadata": {
+    "title": "The Impact of an Economic Empowerment Intervention on Economic Security Among HIV/AIDS-Orphaned Adolescents in Southern Uganda: Depression as a Moderator",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Bridges to the Future",
+    "country": "Uganda",
+    "region": "Masaka, Southern Uganda",
+    "target_population": "HIV/AIDS-orphaned adolescents (10-16 years)"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "asset accumulation",
+      "financial assets",
+      "physical assets",
+      "mental health"
+    ],
+    "outcomes_evidence_citation": "Mixed-effects regression models assessed EEI impact on economic security, measured through physical assets (20-item index) and financial assets (savings yes/no). Depression (Child Depression Inventory) was included as a moderator.",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "Data from 1383 HIV-orphaned adolescents (10-16 years) were collected from 48 primary schools in Masaka, Uganda (2011-2016), under the Bridges to the Future study.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2011-2016",
+    "sample_size": 1383,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Data from 1383 HIV-orphaned adolescents (10-16 years) were collected from 48 primary schools in Masaka, Uganda (2011-2016), under the Bridges to the Future study.",
+    "country_citation": "Data from 1383 HIV-orphaned adolescents (10-16 years) were collected from 48 primary schools in Masaka, Uganda (2011-2016)",
+    "target_population_citation": "Data from 1383 HIV-orphaned adolescents (10-16 years) were collected from 48 primary schools in Masaka, Uganda"
+  }
+}

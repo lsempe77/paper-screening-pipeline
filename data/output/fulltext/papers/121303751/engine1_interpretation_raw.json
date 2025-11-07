@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is clearly identified as 'Farmers' cooperatives program' operating in specific regions of China (Sichuan, Yunnan and Jiangxi Provinces and Chongqing City)"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "No evidence of this being a graduation/TUP program. Neither cash support nor asset provision components are present, and no explicit graduation/TUP terminology is used"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in China, which was classified as a middle-income country during the study period (2015-2016)"
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false, no evidence of any cash transfers or consumption support in the extracted information"
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "component_b_assets.present = false, no evidence of direct asset provision in the extracted information"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "material poverty"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "financing",
+      "technology application",
+      "market sales",
+      "rights decision-making",
+      "ability poverty",
+      "rights poverty"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Instrumental variables', is_review_or_policy_analysis = false. Uses appropriate quantitative impact evaluation methodology"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true, study was conducted in 2015-2016 and presents finished findings"
+  }
+}

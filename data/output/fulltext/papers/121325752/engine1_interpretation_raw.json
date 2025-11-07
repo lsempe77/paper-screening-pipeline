@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'ASHA (Hope) Program' is clearly identified."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While program has cash and asset components, it is not explicitly identified as a graduation/TUP program. The assets are not directly provided (direct_provision = 'NO'), so it does not meet graduation program criteria."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh (Sirajganj district), which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'cash transfer', amount = '$186', is_loan_or_credit = 'NO'. Program provides one-time cash transfer, not a loan."
+  },
+  "criterion_3_assets": {
+    "assessment": "NO",
+    "reasoning": "While component_b_assets.present = true and includes 'productive assets (agricultural animals)', direct_provision = 'NO' indicates the program does not directly provide these assets to participants."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "depression/mental health",
+      "psycho-social outcomes",
+      "self-esteem",
+      "hope",
+      "social support",
+      "women's empowerment"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While study_design = 'Randomized Controlled Trial (RCT)' and is_review_or_policy_analysis = false, the study only measures tertiary outcomes (mental health, psychosocial, empowerment) with no primary or secondary outcomes measured."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true indicates the study presents finished research findings."
+  }
+}

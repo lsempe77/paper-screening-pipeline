@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "The Cost of Closing the Poverty Gap While Maintaining Work Incentives",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Poverty Gap Analysis",
+    "country": "Belgium, Denmark, and United Kingdom",
+    "region": "National",
+    "target_population": "Low-income households in bottom three income deciles"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "labor market participation",
+      "work incentives"
+    ],
+    "outcomes_evidence_citation": "We calculate the hypothetical cost of closing the poverty gap while maintaining the existing average labor-market participation incentives at the bottom of the income distribution",
+    "study_design": "Policy analysis",
+    "design_evidence_citation": "Previous research has already calculated the cost of closing the poverty gap. In this chapter, we improve on these studies by estimating the cost of closing the poverty gap while maintaining average labor-market participation incentives at the bottom of the income distribution.",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": "2011",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Cost of closing poverty gap while maintaining work incentives would be around two times the cost of just lifting all incomes to poverty threshold",
+    "cost_evidence_citation": "Results show that this would require around two times the budget needed just to lift all disposable household incomes to the poverty threshold."
+  },
+  "evidence_citations": {
+    "program_name_citation": "Previous research has already calculated the cost of closing the poverty gap. In this chapter, we improve on these studies by estimating the cost of closing the poverty gap while maintaining average labor-market participation incentives",
+    "country_citation": "We do so in three types of welfare regimes, namely those of Belgium, Denmark, and the United Kingdom",
+    "target_population_citation": "The latter is defined as the three bottom deciles of equivalized household income"
+  }
+}

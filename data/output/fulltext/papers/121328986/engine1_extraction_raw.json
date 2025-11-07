@@ -1,0 +1,63 @@
+{
+  "paper_metadata": {
+    "title": "Effects of a graduation program on psychosocial factors underpinning early childhood development in Haiti",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Graduation program",
+    "country": "Haiti",
+    "region": "Rural",
+    "target_population": "People living in extreme poverty"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "consumption support",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Programmes provide a comprehensive mix of sequenced support, commonly including consumption support, asset transfers, access to savings and credit, training and coaching and mentoring"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "asset transfers"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "Programmes provide a comprehensive mix of sequenced support, commonly including consumption support, asset transfers, access to savings and credit, training and coaching and mentoring"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "mental health",
+      "violence reduction",
+      "child development",
+      "parenting practices"
+    ],
+    "outcomes_evidence_citation": "Using a mixed-methods approach, we find positive effects on maternal mental health and on children's exposure to harsh corporal punishment. We find no discernible impact on exposure to violence inside and outside of the home, attitudes to child disciplining practices or child stimulation practices.",
+    "study_design": "Mixed methods with quasi-experimental design",
+    "design_evidence_citation": "This study combines purposively collected quantitative survey data based on quasiexperimental design with in-depth primary qualitative data.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "in-depth case studies",
+      "interviews",
+      "group discussions"
+    ],
+    "qualitative_evidence_citation": "Qualitative data analysis is centred on in-depth case studies in combination with interviews and group discussions to unpack drivers and dynamics of change.",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "So-called 'graduation' programmes constitute a relatively new wave of comprehensive social protection and anti-poverty programming.",
+    "country_citation": "we examine the effects of a relatively new wave of social protection and anti-poverty interventions -so-called 'graduation programmes' -on psychosocial risk factors in a context of widespread poverty and poor outcomes for children in rural Haiti.",
+    "target_population_citation": "Their rationale is grounded in asset accumulation theory and the notion that people living in extreme poverty require a big push into a positively reinforcing cycle of economic advancement"
+  }
+}

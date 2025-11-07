@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "China's fourth round of the poverty alleviation program evaluation",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "China's fourth round poverty alleviation program",
+    "country": "China",
+    "region": "14 contiguous destitute areas",
+    "target_population": "Poor households in destitute areas"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings",
+      "poverty reduction",
+      "GDP per capita"
+    ],
+    "outcomes_evidence_citation": "our difference-in-differences and difference-in-discontinuities estimates suggest that the program increased GDP per capita in the 14 areas by over 45% from 2012 to 2019 | we find that the program significantly elevated rural income and reduced rural poverty",
+    "study_design": "Difference-in-differences and difference-in-discontinuities",
+    "design_evidence_citation": "our difference-in-differences and difference-in-discontinuities estimates suggest",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2006-2019",
+    "sample_size": 14500,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "813.6 billion yuan (US$126.1 billion) allocated",
+    "cost_evidence_citation": "From 2012 to 2019, China allocated a total of 813.6 billion yuan (US$126.1 billion), primarily to economic development programs within these 14 areas"
+  },
+  "evidence_citations": {
+    "program_name_citation": "This study evaluates the impact of China's fourth round of the poverty alleviation program",
+    "country_citation": "This study evaluates the impact of China's fourth round of the poverty alleviation program, which targeted 14 contiguous destitute areas containing 680 counties and a population of 240 million",
+    "target_population_citation": "This study evaluates the impact of China's fourth round of the poverty alleviation program, which targeted 14 contiguous destitute areas containing 680 counties and a population of 240 million"
+  }
+}

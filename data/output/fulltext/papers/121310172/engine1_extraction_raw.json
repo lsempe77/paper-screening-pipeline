@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "How debt and information about debt affect LMI taxpayers' asset-building strategies",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": "United States",
+    "region": "Boston",
+    "target_population": "Low and moderate-income (LMI) taxpayers"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "asset building",
+      "debt",
+      "savings",
+      "financial capability"
+    ],
+    "outcomes_evidence_citation": "This study was carried out to gain a more in-depth understanding of how debt and information about debt affect LMI taxpayers' asset-building strategies, with a particular focus on the planning and use of their tax refunds.",
+    "study_design": "Mixed methods",
+    "design_evidence_citation": "The study's mixed method design in examining how debt and information about debt affect LMI taxpayers' asset-building strategies provided structure to the research.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 12000,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "qualitative analysis"
+    ],
+    "qualitative_evidence_citation": "The findings from the qualitative analysis further illuminate the motivation of LMI taxpayers to engage in asset-building as well as the barriers that LMI taxpayers face",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": "The United States, one of the wealthiest countries in the world, has a poverty problem",
+    "target_population_citation": "serving over 12,000 low-and moderate-income taxpayers annually"
+  }
+}

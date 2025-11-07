@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Whether reducing the poverty rate helps to curb the growth of crime rates",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "China's poverty alleviation projects",
+    "country": "China",
+    "region": "592 poverty counties",
+    "target_population": "Poor counties"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "crime rates",
+      "income"
+    ],
+    "outcomes_evidence_citation": "We empirically investigates the causal relationship between poverty reduction and crime rates. The study finds that the poverty alleviation projects significantly reduce crime rates in the regions, with this inhibitory effect primarily observed in property-related crimes, such as theft and robbery.",
+    "study_design": "Difference-in-differences",
+    "design_evidence_citation": "By employing the difference-in-differences method and combining county-level data from 2014 to 2020",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2014-2020",
+    "sample_size": 592,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This study utilizes the context of poverty alleviation projects in 592 poverty counties across China in 2015",
+    "country_citation": "This study utilizes the context of poverty alleviation projects in 592 poverty counties across China in 2015",
+    "target_population_citation": "This study utilizes the context of poverty alleviation projects in 592 poverty counties across China in 2015"
+  }
+}

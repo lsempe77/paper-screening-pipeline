@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Social Entrepreneurship Program (SEP) as a sustainable business model for financial inclusion",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Social Entrepreneurship Program (SEP)",
+    "country": "Indonesia",
+    "region": "West Bandung Regency, Majalengka Regency, Bantul Regency, Semarang Regency, and Jakarta City",
+    "target_population": "CCT beneficiary families"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "conditional cash transfer",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "This program provides cash assistance to families registered in the poverty program data"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income",
+      "business management capacity",
+      "financial access"
+    ],
+    "outcomes_evidence_citation": "The research results show that SEP has a good impact on beneficiary income. This program has succeeded in increasing the capacity of beneficiaries to manage businesses and expanding financial access inclusively.",
+    "study_design": "Mixed methods",
+    "design_evidence_citation": "The research method used is a mixture of quantitative and qualitative.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": 2024,
+    "study_conducted_year": null,
+    "sample_size": 1000,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "program manager interviews"
+    ],
+    "qualitative_evidence_citation": "Meanwhile, program input will be seen qualitatively from the program manager.",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This chapter explores the Social Entrepreneurship Program (SEP) as a sustainable business model to achieve financial inclusion for low-income families.",
+    "country_citation": "One of the poverty alleviation programs in Indonesia is CCT.",
+    "target_population_citation": "The SEP launch targets families receiving conditional cash transfer (CCT) to increase income."
+  }
+}

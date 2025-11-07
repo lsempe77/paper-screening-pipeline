@@ -1,0 +1,8 @@
+{
+  "level": "CONFLICT",
+  "num_agree": 1,
+  "num_partial": 2,
+  "num_conflict": 4,
+  "differences": [],
+  "explanation": "Conflict on key criteria: Criterion 1: LMIC Country, Criterion 2: Cash Support. Engines disagree on inclusion decision."
+}

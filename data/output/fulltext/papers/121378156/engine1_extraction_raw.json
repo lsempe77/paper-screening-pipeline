@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Evaluating the ultrapoor graduation program in Somalia",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Ultra-poor graduation (UPG) program",
+    "country": "Somalia",
+    "region": "Baidoa",
+    "target_population": "Urban displaced population"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "multipurpose cash payments",
+      "cash_amount": null,
+      "cash_frequency": "short-term",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The innovation is a layered intervention including short-term multipurpose cash payments"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "asset transfers"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "livelihoods restoration and recovery (via asset transfers or vocational trainings)"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "livelihoods"
+    ],
+    "outcomes_evidence_citation": "generating broader learning for stakeholders around the effects of UPG in a humanitarian setting",
+    "study_design": "Mixed-methods impact evaluation",
+    "design_evidence_citation": "Mixed-method impact evaluation testing the innovation",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": false
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "mixed methods"
+    ],
+    "qualitative_evidence_citation": "Mixed-method impact evaluation testing the innovation",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Evaluating the ultrapoor graduation program in Somalia",
+    "country_citation": "Generate evidence around the effectiveness of the ultra-poor graduation model for an urban displaced population in Baidoa, Somalia",
+    "target_population_citation": "Generate evidence around the effectiveness of the ultra-poor graduation model for an urban displaced population in Baidoa, Somalia"
+  }
+}

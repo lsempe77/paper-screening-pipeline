@@ -1,0 +1,57 @@
+{
+  "paper_metadata": {
+    "title": "Analysis of fiscal decentralisation policy impact on economic development and poverty reduction in Aceh, Indonesia",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Fiscal Decentralization Policy",
+    "country": "Indonesia",
+    "region": "Aceh province",
+    "target_population": "Local governments/districts"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "economic growth",
+      "poverty reduction",
+      "local government expenditure",
+      "local GDP"
+    ],
+    "outcomes_evidence_citation": "This study analyses the impact of fiscal decentralisation through government revenues and spending policy on local economic growth and poverty reduction.",
+    "study_design": "Panel data analysis",
+    "design_evidence_citation": "Undertaking a panel data analysis, it will analyse the impact of intergovernmental fiscal transfer from central to local government on local government expenditure.",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": "2008-2018",
+    "sample_size": 23,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Budget and fiscal transfer data across provinces",
+    "cost_evidence_citation": "Aceh dominated the others with a budget of more than 14 trillion rupiah in 2017"
+  },
+  "evidence_citations": {
+    "program_name_citation": "Since 1999, the Indonesian Government has implemented a policy of fiscal decentralisation through the Indonesian Constitution No. 22 of 1999",
+    "country_citation": "This study analyses the impact of fiscal decentralisation policy on economic development and poverty reduction... in Aceh province, Indonesia",
+    "target_population_citation": "The study uses data from 23 districts gathered from 2008 to 2018"
+  }
+}

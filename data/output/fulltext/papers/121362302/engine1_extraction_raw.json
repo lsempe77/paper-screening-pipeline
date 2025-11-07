@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "Environmental Conditions and Poverty: A Case Study of Costa Rica and the Maleku People",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": null,
+    "country": "Costa Rica",
+    "region": "Maleku indigenous territory",
+    "target_population": "Maleku indigenous people"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "environmental conditions",
+      "poverty",
+      "indigenous rights",
+      "capabilities"
+    ],
+    "outcomes_evidence_citation": "indigenous struggles are not only about land and political rights; they are struggles 'for the health of the environment, the protection of traditional village economies, respect for sacred sites, and the preservation of native religion, culture, and practices.'",
+    "study_design": "Case study",
+    "design_evidence_citation": "This chapter investigates the links between environmental conditions and poverty, and how programs can reduce poverty by targeting those conditions. Costa Rica is our empirical focus",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "interviews"
+    ],
+    "qualitative_evidence_citation": "Maleku leaders we talked to affirmed that their communities are healthier now than they were in previous generations",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": null,
+    "country_citation": "It may seem surprising that the Maleku have such challenges in Costa Rica, a country known worldwide for its efforts to protect the environment and promote sustainable development",
+    "target_population_citation": "The Malekus' story is not unusual. Indigenous peoples throughout the world often face major difficulties in protecting traditional relationships with their natural ecosystem"
+  }
+}

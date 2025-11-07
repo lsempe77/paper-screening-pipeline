@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Impact analysis of China's Targeted Poverty Alleviation program on households with different causes of poverty",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Targeted Poverty Alleviation (TPA) program",
+    "country": "China",
+    "region": "Southwest China",
+    "target_population": "Rural poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "No specific mention of cash transfers, stipends, allowances or consumption support found in paper"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": "Paper mentions supportive measures but does not specify direct asset transfers"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income",
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "This study systematically examines the impact of the TPA program on poor households with different causes of poverty and empirically analyzes income differences across household and village types under different income groups",
+    "study_design": "Observational",
+    "design_evidence_citation": "based on survey data from a high-altitude deep-poverty county in southwest China",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2013-2020",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "China launched the Targeted Poverty Alleviation (TPA) program and implemented a series of anti-poverty initiatives",
+    "country_citation": "China launched the Targeted Poverty Alleviation (TPA) program | based on survey data from a high-altitude deep-poverty county in southwest China",
+    "target_population_citation": "aiming to reduce poverty and enhance the well-being of rural households"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "paper_metadata": {
+    "title": "Evaluation of the Saemaul Zero Hunger Communities Project in Tanzania and Bangladesh",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Saemaul Zero Hunger Communities Project (SZHCP)",
+    "country": "Tanzania and Bangladesh",
+    "region": "Selected local communities",
+    "target_population": "Most vulnerable communities"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security",
+      "income generation",
+      "education",
+      "infrastructure improvement"
+    ],
+    "outcomes_evidence_citation": "The project targeted the most vulnerable communities to improve their livelihood and rural development programs in terms of food security, income generation, education, and infrastructure improvement through community-based activities",
+    "study_design": "Difference-in-differences",
+    "design_evidence_citation": "Using qualitative analysis, difference-in-difference estimation, and linear regression on surveys of 1142 respondents",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2014-2018",
+    "sample_size": 1142,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "in-depth interviews",
+      "focus group discussions"
+    ],
+    "qualitative_evidence_citation": "To collect information and data for evaluation, we conducted field research such as in-depth interviews, focus group discussions, and household surveys in the target villages",
+    "has_cost_data": true,
+    "cost_mentions": "US$5 million for Tanzania and US$3.3 million for Bangladesh",
+    "cost_evidence_citation": "funded by the South Korean government at US$5 million for Tanzania and US$3.3 million for Bangladesh"
+  },
+  "evidence_citations": {
+    "program_name_citation": "This study aims to evaluate the achievements of the Saemaul Zero Hunger Communities Project (SZHCP) of the World Food Program (WFP) implemented by Good Neighbors International (GNI)",
+    "country_citation": "implemented by Good Neighbors International (GNI) in partnership with Tanzanian and Bangladesh local governments",
+    "target_population_citation": "The project targeted the most vulnerable communities to improve their livelihood and rural development programs"
+  }
+}

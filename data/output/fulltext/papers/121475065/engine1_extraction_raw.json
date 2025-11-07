@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "Graduating the Ultra-Poor in Egypt",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Bab Amal Graduation Program",
+    "country": "Egypt",
+    "region": "Upper Egypt (Assiut and Sohag)",
+    "target_population": "Ultra-poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "consumption support",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The Graduation approach is a multicomponent livelihood program which provides ultra-poor households with [...] consumption support"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "livestock",
+        "supplies for petty trade"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "The Graduation approach is a multicomponent livelihood program which provides ultra-poor households with a productive asset (such as livestock or supplies for petty trade)"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [],
+    "outcomes_evidence_citation": null,
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "Researchers are conducting a randomized evaluation to understand the impact of the Graduation approach on ultra-poor households in Upper Egypt",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 3469,
+    "completed": false
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Study aims to identify variations that could make program more cost-effective",
+    "cost_evidence_citation": "identify variations that could make the program more cost-effective"
+  },
+  "evidence_citations": {
+    "program_name_citation": "Bab Amal aims to build sustainable livelihoods and resilience among the ultra-poor",
+    "country_citation": "among 3,469 ultra-poor households in Upper Egypt",
+    "target_population_citation": "The poorest households-known as the \"ultra-poor\"-often depend on insecure livelihoods and face many barriers to transitioning out of poverty"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC CFPR/TUP (Challenging the Frontiers of Poverty Reduction: Targeting the Ultra Poor)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as a TUP (Targeting the Ultra Poor) program in name. Additionally, both core components are present: cash support (component_a_present = true, is_loan_or_credit = NO) and direct asset provision (component_b_present = true, direct_provision = YES)"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh (three northern districts: Rangpur, Kurigram, Nilphamari), which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_present = true, type = 'grants-based support', and is_loan_or_credit = NO indicates program provides cash support, not loans"
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_present = true and direct_provision = YES indicates program directly provides productive assets to participants"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "poverty status"
+    ],
+    "secondary_outcomes": [
+      "health expenditure",
+      "formal healthcare utilization"
+    ],
+    "tertiary_outcomes": [
+      "health-seeking behavior"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Randomized Controlled Trial (RCT)' and is_review_or_policy_analysis = false indicates appropriate quantitative impact evaluation methodology"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true and study_conducted_year = '2002-2004' indicates study presents finished research findings"
+  }
+}

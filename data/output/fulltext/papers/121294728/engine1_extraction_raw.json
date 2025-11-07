@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "The Nigerian government introduced the Household Upliftment Program (HUP) which is a conditional cash transfer scheme",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Household Upliftment Program (HUP)",
+    "country": "Nigeria",
+    "region": "Akwa Ibom State",
+    "target_population": "Poor and vulnerable households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "conditional cash transfer",
+      "cash_amount": "NGN 5,000.00",
+      "cash_frequency": "monthly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "This program aims to support poor and vulnerable households by providing NGN 5,000.00 monthly, contingent upon meeting specific conditions such as 80% school attendance for children, investment in farming activities, petty trading, and attendance of monthly training sessions organized by the national cash transfers office"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security",
+      "consumption/expenditure",
+      "asset accumulation",
+      "financial inclusion",
+      "social cohesion"
+    ],
+    "outcomes_evidence_citation": "The objectives were to assess the impact of CCT on protecting the beneficiary's basic level of food consumption from becoming food insecure and also determine if CCT of HUP facilitate the beneficiary to invest in human and other productive assets",
+    "study_design": "Quasi-experimental",
+    "design_evidence_citation": "The paper utilized descriptive statistics, food security index, Likert scale and propensity score technique to analyse the research objectives",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "The Nigerian government introduced the Household Upliftment Program (HUP) which is a conditional cash transfer scheme",
+    "country_citation": "The Nigerian government introduced the Household Upliftment Program (HUP) which is a conditional cash transfer scheme to help households improve consumption levels, reduce poverty and therefore prevent vulnerable households from becoming poorer",
+    "target_population_citation": "This program aims to support poor and vulnerable households"
+  }
+}

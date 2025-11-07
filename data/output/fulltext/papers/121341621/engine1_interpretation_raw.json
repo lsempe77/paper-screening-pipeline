@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program is identified as 'Graduation program' in program_information.program_name"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program is explicitly identified as a 'Graduation program' and includes both cash support (component_a_present = true) and asset provision (component_b_present = true), though asset details are limited"
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Burkina Faso, which is a low-income country"
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true, type = 'economic strengthening', and is_loan_or_credit = 'NO', indicating cash support is provided"
+  },
+  "criterion_3_assets": {
+    "assessment": "UNCLEAR",
+    "reasoning": "While component_b_assets.present = true, direct_provision = 'UNCLEAR' and assets_provided is empty. Insufficient information to determine if assets are directly provided"
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "mental health",
+      "depression",
+      "anxiety",
+      "self-esteem",
+      "parenting practices",
+      "violence exposure"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "NO",
+    "reasoning": "While study_design is 'Randomized Controlled Trial (RCT)', the study only measures tertiary outcomes (mental health, depression, anxiety, etc.) with no primary or secondary outcomes measured"
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "study_characteristics.completed = true, indicating the study presents finished research findings"
+  }
+}

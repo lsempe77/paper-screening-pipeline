@@ -1,0 +1,61 @@
+{
+  "paper_metadata": {
+    "title": "Evaluating the Women's Income Generating Support Program (WINGS) using a multidimensional measurement approach",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Women's Income Generating Support (WINGS) Program",
+    "country": "Uganda",
+    "region": "Northern Uganda (Kitgum and Gulu districts)",
+    "target_population": "Ultra-poor and conflict-affected women"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfer",
+      "cash_amount": "150 USD",
+      "cash_frequency": "one-time",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "When examining the different elements of the intervention, we find that it was in fact the cash transfer of 150 USD that had the major impact on the reducing the overlapping deprivations"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "food security",
+      "income/earnings",
+      "asset accumulation",
+      "women's empowerment",
+      "health",
+      "psychological well-being",
+      "social capital",
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "By analyzing the censored headcount ratios of the deprivations, i.e. the percentage of women deprived in a certain indicator and also has a cummulative deprivation score above the cut-off k, we find that the intervention was successful at reducing food insecurity, income and assets deprivation, and increased control of these women over household resources",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "This paper applies the Alkire-Foster measurement approach to evaluate a randomized control trial",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Cost-benefit analysis conducted but not detailed",
+    "cost_evidence_citation": "Blattman et al. (2016) carried out a cost-benefit analysis in order to assess the feasibility of the intervention"
+  },
+  "evidence_citations": {
+    "program_name_citation": "through the Women's Income Generating Support Program (WINGS)",
+    "country_citation": "in two most war-affected districts in Northern Uganda | in two of the most war-affected districts in Northern Uganda: Kitgum and Gulu",
+    "target_population_citation": "aimed to empower ultra-poor and conflict-affected women"
+  }
+}

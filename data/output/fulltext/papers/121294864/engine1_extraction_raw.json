@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Improving the performance of low-productivity smallholder farmers is a pathway with great potential for reducing poverty and enhancing food security and nutrition in sub-Saharan Africa",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Agricultural Extension Services Program",
+    "country": "Ethiopia",
+    "region": "Amhara region",
+    "target_population": "Smallholder wheat farmers"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "improved wheat seeds (Kingbird variety)"
+      ],
+      "direct_provision": "NO",
+      "assets_evidence_citation": "Kingbird seeds were made available for farmers to purchase from farmers' cooperatives"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "agricultural productivity",
+      "technical efficiency",
+      "farm yields"
+    ],
+    "outcomes_evidence_citation": "We examine the impact of advisory services and technology channeling on farm yields and efficiency",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "We randomly selected 96 villages from these districts, which were then randomly assigned into treated and control groups",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2018",
+    "sample_size": 1338,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "We examine the impact of advisory services and technology channeling on farm yields and efficiency",
+    "country_citation": "We used a multistage sampling approach to select the study area and farming households. First, we purposely selected four adjacent major wheat-growing districts in the Amhara region of Ethiopia",
+    "target_population_citation": "Using experimental data from Ethiopia and a mediated stochastic frontier model that accounts for endogenous treatment status, we examine the impact of advisory services and technology channeling on farm yields and efficiency"
+  }
+}

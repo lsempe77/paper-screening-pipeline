@@ -1,0 +1,8 @@
+{
+  "level": "CONFLICT",
+  "num_agree": 4,
+  "num_partial": 2,
+  "num_conflict": 1,
+  "differences": [],
+  "explanation": "Conflict on key criteria: Criterion 4: Study Design. Engines disagree on inclusion decision."
+}

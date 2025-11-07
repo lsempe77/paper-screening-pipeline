@@ -1,0 +1,62 @@
+{
+  "paper_metadata": {
+    "title": "Psychosocial Factors in Graduation Programs: Evidence from Northern Kenya",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "BOMA Project Graduation Program",
+    "country": "Kenya",
+    "region": "Northern Kenya (pastoralist regions)",
+    "target_population": "Poor women in pastoralist regions"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfers and consumption support",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "the 'graduation' program is a multi-faceted intervention that combines entrepreneurship training, cash transfers, and savings promotion. It begins by targeting the poorest households, providing them with initial productive assets, consumption support, and training in profitable asset management."
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "productive assets",
+        "business assets"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "providing them with initial productive assets, consumption support, and training in profitable asset management"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "earnings",
+      "consumption",
+      "welfare measures",
+      "business assets",
+      "mental health",
+      "psychosocial factors"
+    ],
+    "outcomes_evidence_citation": "the program generates cost-effective and sustained positive impacts on earnings, consumption, and welfare measures over three or more years",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "utilizes a randomized controlled trial of a graduation program implemented in the pastoralist regions of Northern Kenya",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "benefit-cost ratio of 2.2",
+    "cost_evidence_citation": "These spillover effects are economically substantial and they increase the estimated benefit-cost ratio of the program from 1.7 to 2.2"
+  },
+  "evidence_citations": {
+    "program_name_citation": "the variant of the graduation program model developed by the BOMA Project NGO",
+    "country_citation": "The arid and semi-arid pastoralist regions of the Horn of Africa constitute one of the most challenging environments for graduation programs attempt to reduce poverty by build productive assets for women",
+    "target_population_citation": "graduation programs attempt to reduce poverty by build productive assets for women"
+  }
+}

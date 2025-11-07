@@ -1,0 +1,60 @@
+{
+  "paper_metadata": {
+    "title": "Evaluating the Impact of the INDH",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "National Human Development Initiative (INDH)",
+    "country": "Morocco",
+    "region": "Rural communities",
+    "target_population": "Poor rural communities"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income",
+      "expenditure",
+      "asset accumulation",
+      "early childhood development",
+      "child health",
+      "nutrition",
+      "early childhood education"
+    ],
+    "outcomes_evidence_citation": "The analysis begins with an evaluation of the impact of the INDH on income, expenditure, and the assets of households for the various communes studied... Subsequently, indicators for child health, nutrition, and early childhood education are examined.",
+    "study_design": "Regression Discontinuity Design (RDD)",
+    "design_evidence_citation": "Since the impact evaluation surveys conducted by the ONDH allow us to do so (they are in fact designed for this purpose), we use a method known as Regression Discontinuity Design (RDD or simply RD) to identify program impact.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2008-2013",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This paper investigates whether, in addition to reducing poverty, CDD programs can also promote human development. We specifically examine whether a CDD program in Morocco, the National Human Development Initiative (Initiative Nationale pour le Développement Humain-INDH)",
+    "country_citation": "This paper investigates whether, in addition to reducing poverty, CDD programs can also promote human development. We specifically examine whether a CDD program in Morocco",
+    "target_population_citation": "The surveys provide panel data for households in rural communities just above and below the cutoff for inclusion in the INDH."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "paper_metadata": {
+    "title": "Post-intervention impacts of a cash plus intervention targeted to adolescents in Tanzania",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Ujana Salama (Safe Youth) Cash Plus Intervention",
+    "country": "Tanzania",
+    "region": "National",
+    "target_population": "Adolescents ages 14-19 years in households participating in government social protection program (PSSN)"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "productive grant",
+      "cash_amount": null,
+      "cash_frequency": "one-time",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The government-implemented cash plus intervention, comprised of livelihoods and life skills training, a productive grant, mentoring, and linkages to adolescent-friendly health services, was implemented over 18 months in 2018 and 2019"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "relationships",
+      "modern contraception",
+      "health seeking",
+      "HIV knowledge and risk",
+      "psychosocial outcomes",
+      "attitudes",
+      "violence",
+      "mental health",
+      "gender attitudes",
+      "sexual behaviors"
+    ],
+    "outcomes_evidence_citation": "we estimated post-intervention impacts in 2021 on the following domains: relationships, modern contraception, health seeking and HIV knowledge and risk, psychosocial outcomes and attitude, and violence",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "Using a cluster randomized controlled trial, we estimated post-intervention impacts in 2021",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2018-2021",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "qualitative research"
+    ],
+    "qualitative_evidence_citation": "prior qualitative research from our sample indicated that many participants struggled to reopen their businesses after depleting their limited savings during the COVID-19 pandemic closures",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "we examine 22-month post intervention impacts of the \"plus\" components in a cash plus intervention, namely the Ujana Salama (\"Safe Youth\" in Swahili) cash plus intervention",
+    "country_citation": "a cash plus intervention targeted to adolescents living in households participating in a government cash transfer program in Tanzania",
+    "target_population_citation": "targeted to adolescents ages 14-19 years living in extremely food insecure households receiving a government social protection program in Tanzania"
+  }
+}

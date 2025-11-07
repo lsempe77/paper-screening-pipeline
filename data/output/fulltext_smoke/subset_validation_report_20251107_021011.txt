@@ -1,0 +1,11 @@
+================================================================================
+FULL-TEXT VALIDATION REPORT (SUBSET: HUMAN-LABELED)
+================================================================================
+Generated: 2025-11-07 02:10:11
+Total processing time: 2.0 minutes
+Average time per paper (all): 121.3 seconds
+
+OVERVIEW
+----------------------------------------
+Subset size (in CSV): 0
+

@@ -1,0 +1,44 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program clearly identified as 'BRAC Challenging the Frontiers of Poverty Reduction - Targeting the Ultra Poor (CFPR-TUP)'"
+  },
+  "criterion_0g_graduation": {
+    "assessment": "YES",
+    "reasoning": "Program explicitly identified as a TUP (Targeting the Ultra Poor) program in name. Additionally, both core components are present: cash/consumption support (not loans) and direct asset provision (livestock/poultry)."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Bangladesh, which is a low-income country. Location specified as Northwestern Bangladesh."
+  },
+  "criterion_2_cash": {
+    "assessment": "YES",
+    "reasoning": "component_a_cash_support.present = true and is_loan_or_credit = 'NO'. Program includes income-generating asset transfers that are not loans."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true, direct_provision = 'YES'. Program directly provides productive assets including livestock (cows, goats) and poultry."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "household savings",
+      "assets",
+      "income"
+    ],
+    "secondary_outcomes": [
+      "food security"
+    ],
+    "tertiary_outcomes": [
+      "microfinance participation",
+      "occupational change"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "Study uses appropriate quantitative impact evaluation methods: 'Difference-in-differences (DD) with matching methods'. is_review_or_policy_analysis = false."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from 2002-2011."
+  }
+}

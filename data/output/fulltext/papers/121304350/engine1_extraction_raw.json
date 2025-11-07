@@ -1,0 +1,59 @@
+{
+  "paper_metadata": {
+    "title": "Impact evaluation of cash transfer programmes in sub-Saharan Africa",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Multiple programs: CT-OVC (Kenya), CGP (Lesotho), CGP (Zambia), LEAP (Ghana)",
+    "country": "Multiple: Kenya, Lesotho, Zambia, Ghana",
+    "region": "National",
+    "target_population": "Ultra-poor households with children, extremely poor households",
+    "program_name_citation": "The Kenyan Cash Transfer for Orphans and Vulnerable Children (CT-OVC) | The Child Grants Programme (CGP) in Lesotho | The Zambia Child Grant Programme (CGP) | the Livelihood Empowerment Against Poverty (LEAP) programme in Ghana",
+    "country_citation": "We focus on government-run cash transfer programmes in four countries",
+    "target_population_citation": "reaches over 250,000 ultra-poor households with children | targets 25,000 ultra-poor households | reaches almost 77,000 extremely poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash transfers",
+      "cash_amount": "Kenya: Ksh 2,000 per month (£14.10), Lesotho: 120-250 Maloti per month (£10.90-£22.80), Zambia: 60 Kwacha per month (£10.90), Ghana: 8-15 Cedi per month (£3.60-£6.70)",
+      "cash_frequency": "bi-monthly or quarterly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "The Kenyan Cash Transfer for Orphans and Vulnerable Children (CT-OVC) reaches over 250,000 ultra-poor households with children with bi-monthly payments of Ksh 2,000 per month (£14.10). The Child Grants Programme (CGP) in Lesotho targets 25,000 ultra-poor households with quarterly payments that range from 120 to 250 Maloti per month (£10.90 to £22.80)"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "productive activities",
+      "labor allocation",
+      "social networks",
+      "risk-coping strategies",
+      "economic productivity",
+      "livelihood diversification"
+    ],
+    "outcomes_evidence_citation": "We discuss the impact of the four programmes on beneficiary households over three broad groups of outcome variables: productive activities, labour allocation, and social networks and risk-coping strategies",
+    "study_design": "Mixed methods with experimental and quasi-experimental designs",
+    "design_evidence_citation": "The project uses a mixed methods approach, combining econometric analysis based on experimental or quasi-experimental study design, general equilibrium models of the local economies and qualitative methods",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "qualitative analysis"
+    ],
+    "qualitative_evidence_citation": "The project uses a mixed methods approach, combining econometric analysis based on experimental or quasi-experimental study design, general equilibrium models of the local economies and qualitative methods",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  }
+}

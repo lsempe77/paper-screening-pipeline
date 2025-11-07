@@ -1,0 +1,42 @@
+{
+  "criterion_0_program": {
+    "assessment": "YES",
+    "reasoning": "Program name 'Pwani Project' is clearly identified in the extracted information."
+  },
+  "criterion_0g_graduation": {
+    "assessment": "NO",
+    "reasoning": "While the program provides productive assets, it does not include cash/consumption support (only loans which don't qualify). No explicit mention of being a graduation/TUP program."
+  },
+  "criterion_1_lmic": {
+    "assessment": "YES",
+    "reasoning": "Study conducted in Tanzania, which is a low-income country."
+  },
+  "criterion_2_cash": {
+    "assessment": "NO",
+    "reasoning": "component_a_cash_support.present = false and is_loan_or_credit = 'YES'. Program appears to offer loans/credit rather than cash transfers or consumption support."
+  },
+  "criterion_3_assets": {
+    "assessment": "YES",
+    "reasoning": "component_b_assets.present = true with direct_provision = 'YES'. Program directly provides productive assets including soap making equipment, energy-efficient stoves, bakeries, solar multi-charger stations, pearl farming equipment, and shell craft materials."
+  },
+  "outcomes_classification": {
+    "primary_outcomes": [
+      "income",
+      "household wealth"
+    ],
+    "secondary_outcomes": [],
+    "tertiary_outcomes": [
+      "livelihood diversification",
+      "standard of living",
+      "extractive activities"
+    ]
+  },
+  "criterion_4_design": {
+    "assessment": "YES",
+    "reasoning": "study_design = 'Quasi-experimental with control group', is_review_or_policy_analysis = false. This is an appropriate quantitative impact evaluation design."
+  },
+  "criterion_6_completed": {
+    "assessment": "YES",
+    "reasoning": "completed = true. Study presents finished research findings from 2013."
+  }
+}

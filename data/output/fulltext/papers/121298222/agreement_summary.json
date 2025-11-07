@@ -1,0 +1,8 @@
+{
+  "level": "CONFLICT",
+  "num_agree": 4,
+  "num_partial": 1,
+  "num_conflict": 2,
+  "differences": [],
+  "explanation": "Conflict on key criteria: Criterion 2: Cash Support. Engines disagree on inclusion decision."
+}

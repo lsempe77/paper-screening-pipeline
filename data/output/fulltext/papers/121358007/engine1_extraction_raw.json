@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Impact Evaluation of BISP Cash Transfer Program",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Benazir Income Support Programme (BISP)",
+    "country": "Pakistan",
+    "region": "National",
+    "target_population": "Poor households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "unconditional cash transfer",
+      "cash_amount": "Rs. 6000",
+      "cash_frequency": "quarterly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "BISP provides unconditional cash assistance to more than 5 million families. The quarterly stipend at present is Rs. 6000 per household."
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty",
+      "consumption/expenditure",
+      "food security/nutrition"
+    ],
+    "outcomes_evidence_citation": "For poverty, we look at the impact of the BISP cash transfer on both headcount ratio and the multidimensional index. | The analysis shows no impact of the cash transfer on various welfare indicators related to consumption expenditures at the national level. | The analysis reveals that the BISP beneficiaries continue to face the issue of high food insecurity",
+    "study_design": "Fuzzy Regression Discontinuity Design (RDD)",
+    "design_evidence_citation": "Fuzzy Regression Discontinuity Design (RDD) is applied to the 2019 cross-sectional data, and difference-in-discontinuity method is applied for a panel analysis",
+    "is_review_or_policy_analysis": false,
+    "publication_year": 2019,
+    "study_conducted_year": "2011-2019",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Program budget allocation increased from Rs. 34 billion in 2008-09 to Rs. 180 billion in 2019-20",
+    "cost_evidence_citation": "It was Rs. 34 billion in 2008-09, Rs. 70 billion in 2013-14 and Rs. 180 billion in 2019-20."
+  },
+  "evidence_citations": {
+    "program_name_citation": "We use the BISP's impact evaluation survey to measure the welfare impact of its unconditional cash transfer.",
+    "country_citation": "The emergence of BISP has improved the overall spending on the social safety net in Pakistan.",
+    "target_population_citation": "BISP provides unconditional cash assistance to more than 5 million families."
+  }
+}

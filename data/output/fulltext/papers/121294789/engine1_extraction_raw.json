@@ -1,0 +1,55 @@
+{
+  "paper_metadata": {
+    "title": "China's National Poor Counties (NPCs) program: Long-term impacts after graduation",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "National Poor Counties (NPCs) program",
+    "country": "China",
+    "region": "National",
+    "target_population": "Poor counties"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "UNCLEAR",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings",
+      "poverty reduction"
+    ],
+    "outcomes_evidence_citation": "I find that China's anti-poverty program had a non-negative impact on net income per capita in the long-run, on average.",
+    "study_design": "Synthetic control method",
+    "design_evidence_citation": "Using the synthetic control approach of Abadie and Gardeazabal (2003) and Abadie et al. (Abadie et al. 2010), I first demonstrate that on average counties which graduate from this program show similar long-term economic performance as those non-graduates still receiving benefits from outside.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "1986-2010",
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Central government provided $14.9 billion in second wave, 5-7% of total expenditures",
+    "cost_evidence_citation": "For example, the central government provided a total of $14.9 billion (124 billion RMB) in the second wave of poverty alleviation program, annually accounting for approximately 5%-7% of total central government expenditures"
+  },
+  "evidence_citations": {
+    "program_name_citation": "This paper seeks to address this gap by providing evidence regarding the long-term impacts of graduating from China's most ambitious anti-poverty campaign to date, the National Poor Counties (NPCs) program.",
+    "country_citation": "China's National Poor Counties (NPCs) program represents one of the largest anti-poverty efforts ever undertaken in a developing country.",
+    "target_population_citation": "Targeted at the county level and initiated by the Chinese central government in 1986, the NPCs program continued to provide substantial support to regions of the country from 1986 to 2020."
+  }
+}

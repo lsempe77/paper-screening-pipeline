@@ -1,0 +1,65 @@
+{
+  "paper_metadata": {
+    "title": "ADB East Asia Working Paper Series",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "ADB-funded pilot project for poverty reduction",
+    "country": "People's Republic of China",
+    "region": "Nayong County, Guizhou Province",
+    "target_population": "Rural poor in poverty-stricken areas"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "rural infrastructure",
+        "water supply",
+        "village roads",
+        "irrigation systems",
+        "flood control",
+        "electricity"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "The pilot project successfully mobilized the local villagers, and developed the essential rural infrastructure comprising water supply, village roads, irrigation and flood control, and electricity."
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "poverty reduction",
+      "income",
+      "household assets",
+      "infrastructure access",
+      "farming capacity"
+    ],
+    "outcomes_evidence_citation": "The farmers have better houses, new sources of income, more household assets (TV sets, and mobile telephones) and reduced income poverty.",
+    "study_design": "Case study",
+    "design_evidence_citation": "This paper summarizes the PRC's national poverty reduction strategies and highlights a case study of an ADB-funded pilot project in Nayong County",
+    "is_review_or_policy_analysis": true,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": null,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "This paper summarizes the PRC's national poverty reduction strategies and highlights a case study of an ADB-funded pilot project in Nayong County of Guizhou Province in the PRC.",
+    "country_citation": "Over the past 3 decades, the majority of the population has been lifted from poverty in the People's Republic of China (PRC).",
+    "target_population_citation": "The PRC's poverty reduction strategies have focused on providing poverty reduction opportunities by building and transferring assets to the poor in rural poverty-stricken areas."
+  }
+}

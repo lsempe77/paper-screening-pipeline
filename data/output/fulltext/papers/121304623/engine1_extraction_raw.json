@@ -1,0 +1,58 @@
+{
+  "paper_metadata": {
+    "title": "Bottom-up wheat seed technology transfer in northwest Bangladesh",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Bottom-up wheat seed technology transfer program",
+    "country": "Bangladesh",
+    "region": "Northwest",
+    "target_population": "Marginal (food insecure) farming families"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": false,
+      "cash_support_type": null,
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": null
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "wheat seeds (Shatabdi variety)"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "The bottom-up wheat seed dissemination system involved the creation of an enabling environment which allowed poor and ultra-poor farmers to store and sell selected seed of recently-released wheat varieties that they produced in 20 decimal (0.08 ha) plots."
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income/earnings",
+      "food security",
+      "agricultural productivity"
+    ],
+    "outcomes_evidence_citation": "farmers can obtain a 52% increase in wheat grain yield and extra income by switching from the old Kanchan variety to the newer, heat and disease-tolerant Shatabdi variety",
+    "study_design": "Observational",
+    "design_evidence_citation": "This paper reports on a 'bottom-up' system of wheat seed technology transfer that was piloted in northwest Bangladesh with 45 mainly marginal (food insecure) farming families during the 2004-2005 wheat season, then scaled out to a further 545 mainly marginal, farming families during the 2006-2007 season",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2004-2007",
+    "sample_size": 590,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Seed sales and profit data reported",
+    "cost_evidence_citation": "This seed was sold at Tk25-30/kg and realised profits averaging Tk3,002 (€38.49; exchange rate was 78:1 in October 2005) per household"
+  },
+  "evidence_citations": {
+    "program_name_citation": "This paper reports on a 'bottom-up' system of wheat seed technology transfer that was piloted in northwest Bangladesh",
+    "country_citation": "This paper reports on a 'bottom-up' system of wheat seed technology transfer that was piloted in northwest Bangladesh",
+    "target_population_citation": "piloted in northwest Bangladesh with 45 mainly marginal (food insecure) farming families"
+  }
+}

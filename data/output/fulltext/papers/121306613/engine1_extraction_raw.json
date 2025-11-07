@@ -1,0 +1,56 @@
+{
+  "paper_metadata": {
+    "title": "Poverty intervention shows lasting benefits",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "BRAC Graduation Model",
+    "country": "Multiple (Bangladesh, Ethiopia, Ghana, India, Pakistan, Peru, Honduras)",
+    "region": "Multiple",
+    "target_population": "Extremely poor households living on less than 70 cents per day",
+    "program_name_citation": "The programme tested in the study uses the 'graduation model', which aims to graduate people out of extreme poverty. It was invented in Dhaka by the Bangladesh Rural Advancement Committee (BRAC)",
+    "country_citation": "the results of an experiment involving more than 10,000 households in 6 countries... successful in Ethiopia, Ghana, India, Pakistan and Peru, it failed in Honduras",
+    "target_population_citation": "More than 1 billion people in the world live on less than US$1.25 per day, but the graduation model targets the hundreds of millions who live on less than 70 cents per day. These people are mostly rural women and slum dwellers who are often dependent on aid to survive."
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "cash support",
+      "cash_amount": null,
+      "cash_frequency": null,
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Giving some of the world's poorest people a two-year aid package -including cash, food, health-care services, training and advice"
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "livestock (goats, sheep, chickens)",
+        "shop assets"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "Households were given assets such as goats, sheep or chickens to start farming, or the means to open a shop"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "assets",
+      "savings"
+    ],
+    "outcomes_evidence_citation": "Overall, one year after the intervention stopped, the experiment had produced a 14% increase in assets and a 96% increase in savings",
+    "study_design": "Randomized Controlled Trial (RCT)",
+    "design_evidence_citation": "the work was done as a randomized controlled trial in which people were randomly assigned to either an intervention or a control group",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": null,
+    "sample_size": 10000,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Costs per household ranged from $1,455 in India to $5,962 in Pakistan, with positive returns on investment ranging from 133% in Ghana to 433% in India",
+    "cost_evidence_citation": "Costs per household ranged from $1,455 in India to $5,962 in Pakistan, although they were offset by positive returns on investment ranging from 133% in Ghana to 433% in India"
+  }
+}

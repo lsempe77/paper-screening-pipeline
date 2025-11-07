@@ -1,0 +1,60 @@
+{
+  "paper_metadata": {
+    "title": "Local Government Development Program and participatory planning in Uganda",
+    "matches_expected_title": "NO"
+  },
+  "program_information": {
+    "program_name": "Local Government Development Program (LGDP)",
+    "country": "Uganda",
+    "region": "Kampala (four parishes: Mulago II, Kisasi, Bwaise III and Mpererwe)",
+    "target_population": "Local communities in urban areas"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "development grants",
+      "cash_amount": null,
+      "cash_frequency": "yearly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "Funding was provided as Conditional and non-conditional grants released in each financial year for two grouped items of Local Development Grants (LDG) and Capacity Building Grants (CBG)"
+    },
+    "component_b_assets": {
+      "component_b_present": false,
+      "assets_provided": [],
+      "direct_provision": "NO",
+      "assets_evidence_citation": null
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "service delivery",
+      "poverty reduction",
+      "urban development",
+      "community participation"
+    ],
+    "outcomes_evidence_citation": "The services included health, education, street lighting, water supply, drainage, waste collection among others as provided for by the Local Governments Act",
+    "study_design": "Case study",
+    "design_evidence_citation": "The research was based on a case study design based on four administrative parishes",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2000-2009",
+    "sample_size": 203,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": true,
+    "qualitative_methods": [
+      "interviews",
+      "focus group discussions"
+    ],
+    "qualitative_evidence_citation": "Focus Group Discussions were held in each study site to elicit data on community needs, priorities, resources available and opportunities for improvement in implementation of development plans. Additional interviews were also conducted with technocrats and project implementers.",
+    "has_cost_data": false,
+    "cost_mentions": null,
+    "cost_evidence_citation": null
+  },
+  "evidence_citations": {
+    "program_name_citation": "Government of Uganda implemented the Local Government Development Program (LGDP) between 2000 and 2009 with support from multi-lateral and bi-lateral agencies",
+    "country_citation": "Government of Uganda implemented the Local Government Development Program (LGDP) between 2000 and 2009",
+    "target_population_citation": "The participatory approach involved improvement of service delivery where local communities identified, prioritized and implemented development projects"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "paper_metadata": {
+    "title": "Local economy-wide impact evaluation of Tanzania's Productive Social Safety Net",
+    "matches_expected_title": "YES"
+  },
+  "program_information": {
+    "program_name": "Tanzania Social Action Fund (TASAF) Productive Social Safety Net (PSSN)",
+    "country": "Tanzania",
+    "region": "National",
+    "target_population": "Poor and vulnerable households"
+  },
+  "intervention_components": {
+    "component_a_cash_support": {
+      "component_a_present": true,
+      "cash_support_type": "conditional and unconditional cash transfers",
+      "cash_amount": "TZS 10,000 basic transfer + variable amounts for conditions",
+      "cash_frequency": "monthly",
+      "is_loan_or_credit": "NO",
+      "cash_evidence_citation": "All households targeted for the programme receive an unconditional transfer, ensuring a basic level of support. Targeted households with children are eligible for a variable conditional transfer if they fulfil key conditions focused on the use of education and health services."
+    },
+    "component_b_assets": {
+      "component_b_present": true,
+      "assets_provided": [
+        "community assets through public works",
+        "social infrastructure",
+        "water supplies"
+      ],
+      "direct_provision": "YES",
+      "assets_evidence_citation": "Targeted Infrastructure. This component supports the development of social infrastructures under education, health and water sectors. | Public works projects commonly relate to agriculture, soil and water conservation/management, and rehabilitation of degraded areas"
+    }
+  },
+  "study_characteristics": {
+    "outcomes_measured": [
+      "income",
+      "consumption",
+      "food security",
+      "education",
+      "health",
+      "productive activities",
+      "asset accumulation",
+      "local economy effects"
+    ],
+    "outcomes_evidence_citation": "According to the midline evaluation, even after a short period of implementation (2015-2017), the PSSN achieved several objectives: 1) reduction of poverty, increased consumption and food security, investment in better living conditions; 2) increased school enrolment, especially for primary school age children; 3) greater take-up of health services and preventive practices; 4) impact on productive activities and assets",
+    "study_design": "Local economy-wide impact evaluation (LEWIE)",
+    "design_evidence_citation": "We design and carry out a Local economy-wide impact evaluation (LEWIE) to uncover the direct and indirect impacts of the PSSN.",
+    "is_review_or_policy_analysis": false,
+    "publication_year": null,
+    "study_conducted_year": "2013-2019",
+    "sample_size": 1100000,
+    "completed": true
+  },
+  "bonus_information": {
+    "has_qualitative_components": false,
+    "qualitative_methods": [],
+    "qualitative_evidence_citation": null,
+    "has_cost_data": true,
+    "cost_mentions": "Benefit amounts and multiplier effects detailed",
+    "cost_evidence_citation": "Each TZS transferred to poor households raises nominal or 'cash' income in local economies by TZS 2.09."
+  },
+  "evidence_citations": {
+    "program_name_citation": "In 2013, the Government of the United Republic of Tanzania started the third phase of TASAF, which was to enable poor households to increase incomes and opportunities while improving consumption. TASAF phase III is centred on the Productive Social Safety Net (PSSN)",
+    "country_citation": "The PSSN operates nationally, covering all local government authorities in the mainland, as well as Unguja and Pemba islands in Zanzibar.",
+    "target_population_citation": "PSSN, a national social protection programme aimed at creating the building blocks of a comprehensive, efficient, and permanent productive social safety net system for the poor and vulnerable section of the Tanzanian population."
+  }
+}
